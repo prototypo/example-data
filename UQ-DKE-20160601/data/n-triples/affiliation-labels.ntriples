@@ -1,0 +1,9 @@
+<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> <http://www.w3.org/2000/01/rdf-schema#label> "Group of Eight"@en .
+<http://dbpedia.org/resource/Association_of_Pacific_Rim_Universities> <http://www.w3.org/2000/01/rdf-schema#label> "Association of Pacific Rim Universities"@en .
+<http://dbpedia.org/resource/Association_of_Southeast_Asian_Institutions_of_Higher_Learning> <http://www.w3.org/2000/01/rdf-schema#label> "Association of Southeast Asian Institutions of Higher Learning"@en .
+<http://dbpedia.org/resource/Association_of_Universities_for_Research_in_Astronomy> <http://www.w3.org/2000/01/rdf-schema#label> "Association of Universities for Research in Astronomy"@en .
+<http://dbpedia.org/resource/International_Alliance_of_Research_Universities> <http://www.w3.org/2000/01/rdf-schema#label> "International Alliance of Research Universities"@en .
+<http://dbpedia.org/resource/Association_of_Commonwealth_Universities> <http://www.w3.org/2000/01/rdf-schema#label> "Association of Commonwealth Universities"@en .
+<http://dbpedia.org/resource/Universitas_21> <http://www.w3.org/2000/01/rdf-schema#label> "Universitas 21"@en .
+<http://dbpedia.org/resource/Australian_Defence_Force_Academy> <http://www.w3.org/2000/01/rdf-schema#label> "Australian Defence Force Academy"@en .
+<http://dbpedia.org/resource/Worldwide_Universities_Network> <http://www.w3.org/2000/01/rdf-schema#label> "Worldwide Universities Network"@en .

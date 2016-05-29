@@ -1,0 +1,12 @@
+# Find Australian universities ordered by their number of students.
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX dpo:<http://dbpedia.org/ontology/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+select ?university ?name ?students ?undergrads
+WHERE {
+  ?university a <http://schema.org/CollegeOrUniversity>
+            ; rdfs:label ?name .
+  OPTIONAL{?university dbp:students ?students}
+  OPTIONAL{?university dbp:undergrad ?undergrads}
+  FILTER (lang(?name) = 'en')
+} ORDER BY DESC (?students)

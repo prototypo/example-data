@@ -1,0 +1,12 @@
+<http://dbpedia.org/resource/University_of_Queensland> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Monash_University>
+<http://dbpedia.org/resource/University_of_Queensland> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Melbourne>
+<http://dbpedia.org/resource/Australian_National_University> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_New_South_Wales>
+<http://dbpedia.org/resource/Australian_National_University> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Sydney>
+<http://dbpedia.org/resource/Australian_National_University> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Adelaide>
+<http://dbpedia.org/resource/University_of_Queensland> <http://www.w3.org/2000/01/rdf-schema#label> "The University of Queensland"@en
+<http://dbpedia.org/resource/Monash_University> <http://www.w3.org/2000/01/rdf-schema#label> "Monash University"@en
+<http://dbpedia.org/resource/University_of_Melbourne> <http://www.w3.org/2000/01/rdf-schema#label> "University of Melbourne"@en
+<http://dbpedia.org/resource/Australian_National_University> <http://www.w3.org/2000/01/rdf-schema#label> "Australian National University"@en
+<http://dbpedia.org/resource/University_of_New_South_Wales> <http://www.w3.org/2000/01/rdf-schema#label> "University of New South Wales"@en
+<http://dbpedia.org/resource/University_of_Sydney> <http://www.w3.org/2000/01/rdf-schema#label> "University of Sydney"@en
+<http://dbpedia.org/resource/University_of_Adelaide> <http://www.w3.org/2000/01/rdf-schema#label> "University of Adelaide"@en

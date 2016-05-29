@@ -1,0 +1,649 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Santo_Santoro	dbp:almaMater	dbr:University_of_Queensland .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Santo_Santoro	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Khalid_Ibrahim	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Peter_C._Doherty>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/John_Herron_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Jennifer_L._Martin>	dbp:workInstitutions	dbr:University_of_Queensland .
+dbr:ConoServer	dbp:center	dbr:University_of_Queensland .
+dbr:Leneen_Forde	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Joshua_Gans	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Michael_Nielsen	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Geert_Lovink	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Andrew_Laming	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Ian_Carnell	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Andrew_G._White>	dbp:workplaces	dbr:University_of_Queensland ;
+	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Angus_Innes	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Keith_Clark	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Dormer_Andrews	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Scott_Emerson	dbp:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/2013_World_Men\u0027s_Handball_Championship_squads>	dbp:club	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/2011_World_Men\u0027s_Handball_Championship_squads>	dbp:club	dbr:University_of_Queensland .
+dbr:Peter_Varghese	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Leila_Abukar	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Vay_Wilson	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Carden_Wallace	dbo:education	dbr:University_of_Queensland .
+dbr:Milton_Dick	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Ed_Byrne_(academic)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Ted_Evans_(public_servant)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Alan_Rose_(public_servant)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Vince_FitzGerald	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Louise_Hand	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Pat_Brazil	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Campbell_Newman	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Roger_Beale	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Abdul_Ghani_Othman	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/2010_Women\u0027s_Rugby_World_Cup_squads>	dbp:club	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Jock_R._Anderson>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Michael_Macklin	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Francis_Patrick_Donovan	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Deborah_Priya_Henry	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Jeremy_O\u0027Brien>	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Lee_Boon_Yang	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:David_Jull	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Evan_Adermann	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Australia_national_handball_team	dbp:club	dbr:University_of_Queensland .
+dbr:Sohar_University	dbo:affiliation	dbr:University_of_Queensland .
+dbr:Helen_Darville	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Queensland_University	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/School_of_Veterinary_Science,_University_of_Queensland,_Australia>	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:The_University_of_Queensland	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:UQ	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:UQld	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:Uni_of_Qld	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:University_of_Qld	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/University_of_Queensland_Faculty_of_Engineering,_Architecture_and_Information_Technology>	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:University_of_queensland	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+dbr:Uq	dbo:wikiPageRedirects	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/UQ_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Royal_Brisbane_and_Women\u0027s_Hospital>	dbp:affiliation	dbr:University_of_Queensland .
+dbr:Institute_for_Molecular_Bioscience	dbp:affiliations	dbr:University_of_Queensland .
+dbr:Stephan_van_der_Walt	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Jon_Krause	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Alan_Jones_(radio_broadcaster)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Mark_Loane	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:University_of_Queensland	foaf:primaryTopic	dbr:University_of_Queensland .
+dbr:John_Quiggin	dbp:institution	dbr:University_of_Queensland ;
+	dbo:institution	dbr:University_of_Queensland .
+dbr:Hubert_Chanson	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Chris_de_Freitas	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Tom_Cox_(rugby)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Ahmed_Shaheed	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Ian_Frazer	dbp:workInstitution	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Mike_Ahern_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Gerard_Brennan	dbp:almaMater	dbr:University_of_Queensland .
+dbr:Gilbert_Bukenya	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Michael_Johnson_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:QU	dbo:wikiPageDisambiguates	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Michael_Choi_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Chris_Back	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/A._W._Pryor>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Fred_Paterson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/2011_World_Women\u0027s_Handball_Championship_squads>	dbp:club	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Martin_Green_(professor)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Peter_Slipper	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Michael_McRobbie	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Saleem_Ali_(academic)>	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Ross_Cranston	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:John_Harsanyi	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Lis_Wiehl	dbo:education	dbr:University_of_Queensland .
+dbr:John_Makepeace_Bennett	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/2011\u201312_Brisbane_Roar_FC_season>	dbp:stadium	dbr:University_of_Queensland .
+dbr:Jack_Pizzey	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Guelfi_Scassola	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Thomas_Hiley	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Denis_Murphy_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Col_Bennett	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Bill_Lickiss	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Colin_Lamont_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Rob_Akers	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Martin_Hanson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Mal_Colston	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Bille_Brown	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Douglas_Tooth	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Howard_M._Wiseman>	dbp:workplaces	dbr:University_of_Queensland ;
+	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Brian_Austin	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/David_Russell_(barrister)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Denver_Beanland	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Peter_Beard_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/David_Richardson_(priest)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Jason_Hetherington	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Bill_Wood_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Kerry_O\u0027Brien_(journalist)>	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Kenneth_Good_(political_scientist)>	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Mike_Horan	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Terry_White	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Jane_Zemiro	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Alf_Howard	dbp:institutions	dbr:University_of_Queensland .
+dbr:Dianne_Reilly	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Ian_Henderson_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Peter_Cameron_(mathematician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Tim_C._Ralph>	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Rod_Welford	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Gilbert_Alison	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Evan_Moorhead	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:George_Brandis	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Di_McCauley	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/David_Byrne_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/John_Flynn_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Frank_Carroll_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Bob_Katter,_Sr.>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:David_Dunworth	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Mike_Kaiser	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Lloyd_McDermott	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Lyle_Schuntner	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Graham_Colditz	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+dbr:Neal_Menzies	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Peter_Beattie	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Karen_Struthers	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Peter_Hendy_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Tom_Court	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland ;
+	dbp:ruAmateurclubs	dbr:University_of_Queensland .
+dbr:Trish_White	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/John_Roe_(rugby_union)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Paul_Clauson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Bob_Katter	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Kerry_Shine	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Andrew_McNamara	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Rachel_Nolan	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Terry_Gygar	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Clare_McMeniman	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Keith_Wright_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Vicky_Kippin	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Lex_Bell	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Phil_Gray_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Beryce_Nelson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Wendy_Edmond	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Craig_Sherrin	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Alan_Sherlock	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Brian_Lindsay	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Elliott_Hagen	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/James_Hanson_(rugby_union)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Kate_Morton	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+dbr:University_of_Queensland_Business_Association	dbo:affiliation	dbr:University_of_Queensland ;
+	dbp:affiliation	dbr:University_of_Queensland .
+dbr:UQ_Business_School	dbp:affiliations	dbr:University_of_Queensland ;
+	dbo:affiliation	dbr:University_of_Queensland .
+dbr:TC_Beirne_School_of_Law	dbp:affiliations	dbr:University_of_Queensland ;
+	dbo:affiliation	dbr:University_of_Queensland .
+dbr:University_of_Queensland_Press	dbp:parent	dbr:University_of_Queensland ;
+	dbo:parentCompany	dbr:University_of_Queensland .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:University_of_Queensland	rdf:type	umbel-rc:EducationalOrganization .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:University_of_Queensland	rdf:type	yago:SocialGroup107950920 ,
+		yago:Group100031264 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Abstraction100002137 ,
+		yago:University108286569 ,
+		umbel-rc:University .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:University_of_Queensland	rdf:type	geo:SpatialThing .
+@prefix schema:	<http://schema.org/> .
+dbr:University_of_Queensland	rdf:type	schema:CollegeOrUniversity ,
+		schema:EducationalOrganization ,
+		yago:EducationalInstitutionsEstablishedIn1909 ,
+		schema:Organization .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:University_of_Queensland	rdf:type	wikidata:Q3918 ,
+		dbo:Organisation ,
+		yago:Institution108053576 ,
+		wikidata:Q43229 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:University_of_Queensland	rdf:type	owl:Thing .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:University_of_Queensland	rdf:type	ns12:SocialPerson ,
+		yago:UniversitiesInQueensland ,
+		ns12:Agent ,
+		yago:EducationalInstitution108276342 ,
+		yago:Organization108008335 ,
+		dbo:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		dbo:EducationalInstitution ,
+		dbo:University .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:University_of_Queensland	dct:subject	dbc:University_of_Queensland ,
+		dbc:Educational_institutions_established_in_1909 ,
+		dbc:Education_in_Brisbane ,
+		dbc:Universities_in_Queensland ,
+		dbc:Queensland_Heritage_Register ,
+		<http://dbpedia.org/resource/Category:1909_establishments_in_Australia> .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-pl:University_of_Queensland .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	yago-res:University_of_Queensland ,
+		<http://rdf.freebase.com/ns/m.01bcwk> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-id:Universitas_Queensland .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-ja:クイーンズランド大学 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-pt:Universidade_de_Queensland .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-wikidata:Q866012 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-fr:Université_du_Queensland .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-nl:Universiteit_van_Queensland .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-ko:퀸즐랜드_대학교 ,
+		dbr:University_of_Queensland .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-it:Università_del_Queensland .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-es:Universidad_de_Queensland ,
+		wikidata:Q866012 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:University_of_Queensland	owl:sameAs	dbpedia-de:University_of_Queensland .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:University_of_Queensland	rdfs:label	"\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5927\u5B66"@ja ,
+		"\u6606\u58EB\u5170\u5927\u5B66"@zh ,
+		"University of Queensland"@en ,
+		"Universit\u00E9 du Queensland"@fr ,
+		"University of Queensland"@de ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F"@ar ,
+		"Universidade de Queensland"@pt ,
+		"\u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0441\u043A\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"@ru ,
+		"Universidad de Queensland"@es ,
+		"University of Queensland"@pl ,
+		"Universit\u00E0 del Queensland"@it ,
+		"Universiteit van Queensland"@nl ;
+	rdfs:comment	"\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5927\u5B66\uFF08\u82F1\u8A9E: The University of Queensland\u3001\u7565\u79F0\uFF1AUQ\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5DDE\u30D6\u30EA\u30B9\u30D9\u30F3\u3001\u30BB\u30F3\u30C8\u30EB\u30B7\u30A2\u5730\u533A\u306B\u672C\u90E8\u30AD\u30E3\u30F3\u30D1\u30B9\u3092\u6301\u3064\u5DDE\u5185\u3067\u6700\u9577\u306E\u6B74\u53F2\u3092\u6301\u3064\u5927\u5B66\u3002\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5DDE\u3067\u6700\u3082\u6A29\u5A01\u3042\u308B\u5927\u5B66\u3067\u3042\u308A\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3082\u30C8\u30C3\u30D7\u30AF\u30E9\u30B9\u306E\u751F\u5F92\u304C\u5168\u571F\u304B\u3089\u96C6\u307E\u308B\u3053\u3068\u3067\u77E5\u3089\u308C\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3001\u5E38\u306B5\u672C\u306E\u6307\u306B\u5165\u308B\u540D\u9580\u5927\u5B66\u3002\u7C73\u30DA\u30F3\u30B7\u30EB\u30D9\u30CB\u30A2\u5927\u5B66\u3001\u52A0\u30DE\u30AE\u30EB\u5927\u5B66\u3001\u4E00\u6A4B\u5927\u5B66\u306A\u3069\u306E\u3001\u56FD\u5916\u540D\u9580\u5927\u5B66\u3068\u306E\u4EA4\u63DB\u7559\u5B66\u63D0\u643A\u95A2\u4FC2\u3082\u6301\u3064\u3002\u7814\u7A76\u3092\u91CD\u8996\u3059\u308B\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5927\u5B66\u9023\u5408 \"Group of Eight\"\u3001\u56FD\u969B\u7684\u306A\u5927\u5B66\u63D0\u643A Universitas 21\u7814\u7A76\u6A5F\u69CB\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3042\u308A\u3001\u30CE\u30FC\u30D9\u30EB\u8CDE\u53D7\u8CDE\u8005\u3082\u8F29\u51FA\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"The University of Queensland (UQ) ist eine Universit\u00E4t in Brisbane. Sie wurde am 10. Dezember 1909 gegr\u00FCndet, um an das 50-j\u00E4hrige Jubil\u00E4um der Trennung des Bundesstaates Queensland von New South Wales zu erinnern. Damit war die UQ die erste Universit\u00E4t der Region und die f\u00FCnfte Australiens.Die University of Queensland ist eine der weltweit f\u00FChrenden Forschungs- und Lehrinstitutionen, sie belegt den 43. Platz des QS World University Rankings."@de ,
+		"La Universidad de Queensland (University of Queensland, UQ) es una instituci\u00F3n de estudios superiores ubicada en Brisbane, Queensland, Australia. Fundada en 1909, es la universidad m\u00E1s antigua y m\u00E1s grande de Queensland."@es ,
+		"\u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0441\u043A\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043B\u0438 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u041A\u0432\u0438\u0301\u043D\u0441\u043B\u0435\u043D\u0434\u0430 (\u0430\u043D\u0433\u043B. The University of Queensland, UQ) \u2014 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0448\u0442\u0430\u0442\u0430 \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D 10 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1909 \u0433\u043E\u0434\u0430. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u0443\u044E \u0413\u0440\u0443\u043F\u043F\u0443 \u0432\u043E\u0441\u044C\u043C\u0438 \u0438 \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0441\u044F \u043A \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043C, \u0442\u0430\u043A \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u043C\u044B\u043C, \u00AB\u043F\u0435\u0441\u0447\u0430\u043D\u0438\u043A\u043E\u0432\u044B\u043C \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u043C\u00BB \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0430 \u0432\u0445\u043E\u0434\u0438\u0442 \u0442\u0430\u043A\u0436\u0435 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0443\u044E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043A\u0443\u044E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E Universitas 21.\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432\u043E \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0435\u043C \u043F\u0440\u0438\u0433\u043E\u0440\u043E\u0434\u0435 \u0411\u0440\u0438\u0441\u0431\u0435\u043D\u0430 \u0421\u0435\u043D\u0442-\u041B\u044E\u0447\u0438\u044F."@ru ,
+		"The University of Queensland (commonly referred to as UQ) is an Australian public research university primarily located in Brisbane. Founded in 1909, UQ is the oldest, most selective and comprehensive university in the Australian state of Queensland. The main campus is located in the suburb of St Lucia, southwest of the Brisbane City Central Business District, with other major UQ campuses in Gatton, Herston and Ochsner Medical Center's clinical school at New Orleans, United States of America."@en ,
+		"L'universit\u00E9 du Queensland (en anglais, The University of Queensland ou UQ) est une universit\u00E9 australienne dont le campus principal est situ\u00E9 \u00E0 Saint Lucia pr\u00E8s de Brisbane.Fond\u00E9e en 1909, c'est l'universit\u00E9 la plus vieille du Queensland et la cinqui\u00E8me plus ancienne du pays. Le campus principal est localis\u00E9 dans St Lucia, au sud-ouest du Brisbane CBD (centre ville de Brisbane). UQ est membre du Australia's Group of Eight lobby group."@fr ,
+		"L'Universit\u00E0 del Queensland (UQ) \u00E8 una universit\u00E0 pubblica australiana fondata nel 1909. \u00C8 la pi\u00F9 antica e pi\u00F9 grande universit\u00E0 del Queensland e la quinta d'Australia.Il campus principale si trova nel sobborgo di Santa Lucia, a sud-ovest del distretto finanziario di Brisbane, mentre le altre sedi sono a Gatton, Ipswich e Herston.L'Universit\u00E0 \u00E8 un membro del Gruppo degli Otto d'Australia e della rete internazionale di universit\u00E0 Universitas 21."@it ,
+		"A Universidade de Queensland ou, na sua forma portuguesa, da Queensl\u00E2ndia (UQ) \u00E9 a universidade mais antiga do estado de Queensland, Austr\u00E1lia. Faz parte do Group of Eight, bem como das Universidades Sandstone. Tamb\u00E9m \u00E9 membro-fundadora da organiza\u00E7\u00E3o internacional Universitas 21.A universidade tem o seu campus principal no sub\u00FArbio de Santa L\u00FAcia, em Brisbane."@pt ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F  (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of Queensland) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u062A\u0642\u0639 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F\u060C \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u062A\u0623\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1909\u060C \u0648\u0647\u064A \u0623\u0642\u062F\u0645 \u0648\u0623\u0643\u0628\u0631 \u062C\u0627\u0645\u0639\u0629 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F \u0648\u062E\u0627\u0645\u0633 \u0623\u0642\u062F\u0645 \u062C\u0627\u0645\u0639\u0629 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u064A\u0642\u0639 \u0627\u0644\u062D\u0631\u0645 \u0627\u0644\u062C\u0627\u0645\u0639\u064A \u0627\u0644\u0631\u0626\u064A\u0633\u064A \u0641\u064A \u0636\u0627\u062D\u064A\u0629 \u0633\u0627\u0646\u062A \u0644\u0648\u0633\u064A\u062732x28px\u0628\u0648\u0627\u0628\u0629 \u062C\u0627\u0645\u0639\u0629"@ar ,
+		"De Universiteit van Queensland (Engels: University of Queensland) is opgericht in 1909 en is de oudste universiteit van de Australische staat Queensland.Het is een van de topuniversiteiten van Australi\u00EB. De centrale campus is gelegen in St. Lucia in Brisbane, de hoofdstad van Queensland. Door een fusie in 1990 met het Queensland Agricultural College ontstond UQ Gatton.In 1999 opende de universiteit een campus in Ipswich."@nl ,
+		"University of Queensland - australijska pa\u0144stwowa uczelnia wy\u017Csza za\u0142o\u017Cona w roku 1909 i uwa\u017Cana za czo\u0142ow\u0105 tego typu instytucj\u0119 w stanie Queensland. Posiada siedem kampus\u00F3w, z kt\u00F3rych g\u0142\u00F3wny znajduje si\u0119 w Brisbane. Zatrudnia ok. 5 tysi\u0119cy pracownik\u00F3w naukowych, kt\u00F3rzy kszta\u0142c\u0105 ok. 38 tysi\u0119cy student\u00F3w."@pl ;
+	rdfs:seeAlso	dbr:The_Mayne_Inheritance ;
+	foaf:name	"The University of Queensland"@en ,
+		"Universitate Terrae Reginensis"@la ;
+	foaf:homepage	<http://uq.edu.au/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:University_of_Queensland	geo:lat	"-27.498601913452148438"^^xsd:float ;
+	geo:long	"153.0155181884765625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Tcbeirne.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:University_of_Queensland .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:University_of_Queensland	geo:geometry	"POINT(153.01551818848 -27.498601913452)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:University_of_Queensland	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/University_of_Queensland?oldid=683538755> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:University_of_Queensland	georss:point	"-27.498602777777776 153.01551944444444" ;
+	dbp:affiliations	dbr:Universitas_21 ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		dbr:EdX ;
+	dbp:established	1909 ;
+	dbp:usnwrW	47 ;
+	dbo:affiliation	dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:EdX ,
+		dbr:Universitas_21 ;
+	dbp:chancellor	<http://dbpedia.org/resource/John_Story_(businessman)> ;
+	dbp:postgrad	12598 ;
+	dbp:undergrad	34228 ;
+	dbp:arwuW	77 ;
+	dbp:latinName	"Universitate Terrae Reginensis"@en ;
+	dbp:qsW	46 ;
+	dbp:students	48771 ;
+	dbp:thesW	60 ;
+	dbp:mottoeng	"\"By means of knowledge and hard work\""@en ;
+	dbp:viceChancellor	"Professor Peter H\u00F8j"@en ;
+	dbp:state	dbr:Queensland ;
+	dbp:website	<http://uq.edu.au/> ;
+	dbo:country	dbr:Australia ;
+	dbp:city	dbr:Brisbane ;
+	dbp:country	dbr:Australia ;
+	dbo:campus	dbr:Urban_area ,
+		dbr:Region ,
+		dbr:International ;
+	dbo:city	dbr:Brisbane ;
+	dbo:state	dbr:Queensland ;
+	dbp:type	dbr:University ,
+		dbr:Public_university ;
+	dbo:chancellor	<http://dbpedia.org/resource/John_Story_(businessman)> ;
+	dbo:numberOfPostgraduateStudents	"12598"^^xsd:nonNegativeInteger ;
+	dbo:numberOfStudents	"48771"^^xsd:nonNegativeInteger ;
+	dbo:numberOfUndergraduateStudents	"34228"^^xsd:nonNegativeInteger ;
+	dbp:arwuAus	2 ;
+	dbp:qsAus	4 ;
+	dbp:thesAus	4 ;
+	dbp:usnwrAus	3 ;
+	dbo:wikiPageID	192819 ;
+	dbo:wikiPageRevisionID	683538755 ;
+	dbo:wikiPageExternalLink	<http://uq.edu.au/> ,
+		<http://uniquest.com.au/> ,
+		<http://www.uq.edu.au/> ,
+		<http://www.uqsport.uq.edu.au> ,
+		<http://www.uq.edu.au/news/index.html?article=8228> ,
+		<http://www.uqp.uq.edu.au/> .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:University_of_Queensland	dbp:wordnet_type	ns32:synset-university-noun-2 ;
+	dbp:caption	"Coat of Arms of the University of Queensland"@en ;
+	dbp:name	"The University of Queensland"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Tcbeirne.jpg?width=300> ;
+	dbo:abstract	"\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5927\u5B66\uFF08\u82F1\u8A9E: The University of Queensland\u3001\u7565\u79F0\uFF1AUQ\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5DDE\u30D6\u30EA\u30B9\u30D9\u30F3\u3001\u30BB\u30F3\u30C8\u30EB\u30B7\u30A2\u5730\u533A\u306B\u672C\u90E8\u30AD\u30E3\u30F3\u30D1\u30B9\u3092\u6301\u3064\u5DDE\u5185\u3067\u6700\u9577\u306E\u6B74\u53F2\u3092\u6301\u3064\u5927\u5B66\u3002\u30AF\u30A4\u30FC\u30F3\u30BA\u30E9\u30F3\u30C9\u5DDE\u3067\u6700\u3082\u6A29\u5A01\u3042\u308B\u5927\u5B66\u3067\u3042\u308A\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3082\u30C8\u30C3\u30D7\u30AF\u30E9\u30B9\u306E\u751F\u5F92\u304C\u5168\u571F\u304B\u3089\u96C6\u307E\u308B\u3053\u3068\u3067\u77E5\u3089\u308C\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3001\u5E38\u306B5\u672C\u306E\u6307\u306B\u5165\u308B\u540D\u9580\u5927\u5B66\u3002\u7C73\u30DA\u30F3\u30B7\u30EB\u30D9\u30CB\u30A2\u5927\u5B66\u3001\u52A0\u30DE\u30AE\u30EB\u5927\u5B66\u3001\u4E00\u6A4B\u5927\u5B66\u306A\u3069\u306E\u3001\u56FD\u5916\u540D\u9580\u5927\u5B66\u3068\u306E\u4EA4\u63DB\u7559\u5B66\u63D0\u643A\u95A2\u4FC2\u3082\u6301\u3064\u3002\u7814\u7A76\u3092\u91CD\u8996\u3059\u308B\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5927\u5B66\u9023\u5408 \"Group of Eight\"\u3001\u56FD\u969B\u7684\u306A\u5927\u5B66\u63D0\u643A Universitas 21\u7814\u7A76\u6A5F\u69CB\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3042\u308A\u3001\u30CE\u30FC\u30D9\u30EB\u8CDE\u53D7\u8CDE\u8005\u3082\u8F29\u51FA\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"\u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0441\u043A\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043B\u0438 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u041A\u0432\u0438\u0301\u043D\u0441\u043B\u0435\u043D\u0434\u0430 (\u0430\u043D\u0433\u043B. The University of Queensland, UQ) \u2014 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0448\u0442\u0430\u0442\u0430 \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D 10 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1909 \u0433\u043E\u0434\u0430. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u0443\u044E \u0413\u0440\u0443\u043F\u043F\u0443 \u0432\u043E\u0441\u044C\u043C\u0438 \u0438 \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0441\u044F \u043A \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043C, \u0442\u0430\u043A \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u043C\u044B\u043C, \u00AB\u043F\u0435\u0441\u0447\u0430\u043D\u0438\u043A\u043E\u0432\u044B\u043C \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u043C\u00BB \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0430 \u0432\u0445\u043E\u0434\u0438\u0442 \u0442\u0430\u043A\u0436\u0435 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0443\u044E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043A\u0443\u044E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E Universitas 21.\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432\u043E \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0435\u043C \u043F\u0440\u0438\u0433\u043E\u0440\u043E\u0434\u0435 \u0411\u0440\u0438\u0441\u0431\u0435\u043D\u0430 \u0421\u0435\u043D\u0442-\u041B\u044E\u0447\u0438\u044F. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0412 \u0435\u0433\u043E \u0441\u043E\u0441\u0442\u0430\u0432 \u0432\u0445\u043E\u0434\u044F\u0442: \u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u043C\u043E\u043B\u0435\u043A\u0443\u043B\u044F\u0440\u043D\u044B\u0445 \u0431\u0438\u043E\u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043D\u0430\u0443\u043A \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u0431\u0438\u043E\u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u0438 \u0438 \u043D\u0430\u043D\u043E\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0441\u043A\u0438\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u043C\u043E\u0437\u0433\u0430\u041A\u0440\u043E\u043C\u0435 \u044D\u0442\u043E\u0433\u043E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0434\u0440\u0443\u0433\u0438\u0435 \u043D\u0430\u0443\u0447\u043D\u044B\u0435 \u0446\u0435\u043D\u0442\u0440\u044B, \u0442\u0430\u043A\u0438\u0435 \u043A\u0430\u043A \u041A\u0432\u0438\u043D\u0441\u043B\u0435\u043D\u0434\u0441\u043A\u0438\u0439 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442 \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0438\u0445 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0439 \u043F\u0440\u0438 \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u043C \u0433\u043E\u0441\u043F\u0438\u0442\u0430\u043B\u0435 \u0411\u0440\u0438\u0441\u0431\u0435\u043D\u0430."@ru ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F  (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of Queensland) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u062A\u0642\u0639 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F\u060C \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u062A\u0623\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1909\u060C \u0648\u0647\u064A \u0623\u0642\u062F\u0645 \u0648\u0623\u0643\u0628\u0631 \u062C\u0627\u0645\u0639\u0629 \u0641\u064A \u0648\u0644\u0627\u064A\u0629 \u0643\u0648\u064A\u0646\u0632\u0644\u0627\u0646\u062F \u0648\u062E\u0627\u0645\u0633 \u0623\u0642\u062F\u0645 \u062C\u0627\u0645\u0639\u0629 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u064A\u0642\u0639 \u0627\u0644\u062D\u0631\u0645 \u0627\u0644\u062C\u0627\u0645\u0639\u064A \u0627\u0644\u0631\u0626\u064A\u0633\u064A \u0641\u064A \u0636\u0627\u062D\u064A\u0629 \u0633\u0627\u0646\u062A \u0644\u0648\u0633\u064A\u062732x28px\u0628\u0648\u0627\u0628\u0629 \u062C\u0627\u0645\u0639\u0629"@ar ,
+		"L'universit\u00E9 du Queensland (en anglais, The University of Queensland ou UQ) est une universit\u00E9 australienne dont le campus principal est situ\u00E9 \u00E0 Saint Lucia pr\u00E8s de Brisbane.Fond\u00E9e en 1909, c'est l'universit\u00E9 la plus vieille du Queensland et la cinqui\u00E8me plus ancienne du pays. Le campus principal est localis\u00E9 dans St Lucia, au sud-ouest du Brisbane CBD (centre ville de Brisbane). UQ est membre du Australia's Group of Eight lobby group. Cette universit\u00E9 est aussi connue comme \"une universit\u00E9 de gr\u00E8s\". En effet, tous ses premiers b\u00E2timents sont construits \u00E0 l\u2019aide de cette pierre. Le campus principal, \u00E0 Saint Lucia, est consid\u00E9r\u00E9 comme l'un des plus agr\u00E9ables pour \u00E9tudier en Australie.UQ est class\u00E9e parmi les meilleures universit\u00E9s, tant en Australie que le monde. En 2009, the Australian Cancer Research Foundation a annonc\u00E9 que UQ a pris la t\u00EAte dans les nombreux secteurs de canc\u00E9rologie, ayant attribu\u00E9 presque 10 millions de $ de subventions reparties sur une p\u00E9riode de trois ans.Il y a de nombreux centres de recherche collaboratifs associ\u00E9s \u00E0 l'universit\u00E9. Le Queensland Bioscience Precinct sur le campus de St Lucia regroupe des scientifiques du Commonwealth Scientific and Industrial Research Organisation (CSIRO), de l'Institut de Bioscience Mol\u00E9culaire, de l'Institut australien pour la Bioing\u00E9nierie et la Nanotechnologie et du Queensland Brain Institute pour former l'un des plus grands groupes de recherche biom\u00E9dical en Australie. Elle est membre du r\u00E9seau Universitas 21."@fr ,
+		"La Universidad de Queensland (University of Queensland, UQ) es una instituci\u00F3n de estudios superiores ubicada en Brisbane, Queensland, Australia. Fundada en 1909, es la universidad m\u00E1s antigua y m\u00E1s grande de Queensland. Es miembro fundador del grupo internacional Universitas 21.La universidad de Queensland es uno de los centros de estudios m\u00E1s prestigiosos de Australia y cuenta con una matr\u00EDcula de m\u00E1s de veinte mil estudiantes.Cuenta con tres campus, Saint Lucia a orillas del r\u00EDo Brisbane, en donde se desarrollan mayormente los estudios de Medicina; Gatton, sede de la Facultad de Recursos Naturales, Agricultura y Ciencia Veterinaria; e Ipswich sede de las escuelas de arte, negocios y ciencias sociales."@es ,
+		"The University of Queensland (UQ) ist eine Universit\u00E4t in Brisbane. Sie wurde am 10. Dezember 1909 gegr\u00FCndet, um an das 50-j\u00E4hrige Jubil\u00E4um der Trennung des Bundesstaates Queensland von New South Wales zu erinnern. Damit war die UQ die erste Universit\u00E4t der Region und die f\u00FCnfte Australiens.Die University of Queensland ist eine der weltweit f\u00FChrenden Forschungs- und Lehrinstitutionen, sie belegt den 43. Platz des QS World University Rankings. Des Weiteren ist sie Mitglied der Group of Eight, eines Zusammenschlusses der besten Universit\u00E4ten Australiens. Der Studiengang Master of Business Administration (MBA) belegt Platz 14 weltweit."@de ,
+		"University of Queensland - australijska pa\u0144stwowa uczelnia wy\u017Csza za\u0142o\u017Cona w roku 1909 i uwa\u017Cana za czo\u0142ow\u0105 tego typu instytucj\u0119 w stanie Queensland. Posiada siedem kampus\u00F3w, z kt\u00F3rych g\u0142\u00F3wny znajduje si\u0119 w Brisbane. Zatrudnia ok. 5 tysi\u0119cy pracownik\u00F3w naukowych, kt\u00F3rzy kszta\u0142c\u0105 ok. 38 tysi\u0119cy student\u00F3w."@pl ,
+		"L'Universit\u00E0 del Queensland (UQ) \u00E8 una universit\u00E0 pubblica australiana fondata nel 1909. \u00C8 la pi\u00F9 antica e pi\u00F9 grande universit\u00E0 del Queensland e la quinta d'Australia.Il campus principale si trova nel sobborgo di Santa Lucia, a sud-ovest del distretto finanziario di Brisbane, mentre le altre sedi sono a Gatton, Ipswich e Herston.L'Universit\u00E0 \u00E8 un membro del Gruppo degli Otto d'Australia e della rete internazionale di universit\u00E0 Universitas 21."@it ,
+		"De Universiteit van Queensland (Engels: University of Queensland) is opgericht in 1909 en is de oudste universiteit van de Australische staat Queensland.Het is een van de topuniversiteiten van Australi\u00EB. De centrale campus is gelegen in St. Lucia in Brisbane, de hoofdstad van Queensland. Door een fusie in 1990 met het Queensland Agricultural College ontstond UQ Gatton.In 1999 opende de universiteit een campus in Ipswich. De Universiteit van Queensland heeft ruim 37.000 studenten uit meer dan 120 landen."@nl ,
+		"The University of Queensland (commonly referred to as UQ) is an Australian public research university primarily located in Brisbane. Founded in 1909, UQ is the oldest, most selective and comprehensive university in the Australian state of Queensland. The main campus is located in the suburb of St Lucia, southwest of the Brisbane City Central Business District, with other major UQ campuses in Gatton, Herston and Ochsner Medical Center's clinical school at New Orleans, United States of America. The University of Queensland is a member of the Australia's research-intensive Group of Eight, the global network of research universities Universitas 21 and a founding charter member of Edx, an online higher education consortium led by Harvard and MIT.UQ is a sandstone university, which is well regarded and is consistently ranked within the top 1 percent worldwide along with other prestigious research universities across all international universities rankings \u2014 the QS World University Rankings, the Academic Ranking of World Universities, the Performance Ranking of Scientific Papers for World Universities, Times Higher Education World University Rankings, University Ranking by Academic Performance and the U.S. News & World Report. UQ Business School's flagship MBA program is also ranked first in Australia and the Asia Pacific by The Australian Financial Review and The Economist.The University of Queensland has produced numerous alumni with significant contributions to science, arts, medicine, education, business, politics and law in Australia and throughout the world. Several notable examples include the Nobel Laureate  winning scientist Dr Peter Doherty, Oscar-winning artist Geoffrey Rush, former Chief Justice of the High Court of Australia Sir Gerard Brennan, Chancellor of University of California, San Francisco - Dr Sam Hawgood, Principal and President of King's College London - Dr Edward Byrne, CEO of Dow Chemical the second-largest chemical manufacturer in the world by revenue - Andrew N. Liveris, former Governor-General of Australia Dame Quentin Bryce, former Singapore's Minister for Defence, Minister for Manpower, present Chairman of Keppel Corporation and Singapore Press Holdings (SPH) - Dr Lee Boon Yang, consecutive Olympics gold medal winner David Theile  and global top three most cited academic and world-renowned clinician Dr Graham Colditz."@en ,
+		"A Universidade de Queensland ou, na sua forma portuguesa, da Queensl\u00E2ndia (UQ) \u00E9 a universidade mais antiga do estado de Queensland, Austr\u00E1lia. Faz parte do Group of Eight, bem como das Universidades Sandstone. Tamb\u00E9m \u00E9 membro-fundadora da organiza\u00E7\u00E3o internacional Universitas 21.A universidade tem o seu campus principal no sub\u00FArbio de Santa L\u00FAcia, em Brisbane. Os outros campi situam-se em Ipswich, Gatton, Herston, Brisbane do Sul, Rua Turbot e Moggill.Foi fundada em 10 de Dezembro de 1909, pelo Sir William MacGregor como primeiro reitor (e Reginald Heber Roe como vice-reitor) e era situada originalmente no centro comercial de Brisbane. Em 1927, as terras nas quais seria constru\u00EDdo o campus de Santa L\u00FAcia foram compradas pelo conselho da cidade de Brisbane por meio de doa\u00E7\u00F5es, no intuito de substituir o apertado campus situado na cidade \u2014 que hoje \u00E9 o campus Gardens da Universidade Tecnol\u00F3gica de Queensland (QUT).A UQ \u00E9 uma das cinco melhores universidades australianas em pesquisa intensiva. Cont\u00E9m muitos  centros de pesquisa colaborativos e atrav\u00E9s de parcerias, como o Instituto para a Bioci\u00EAncia Molecular (que conduz uma parceria de pesquisas com a CSIRO (Organiza\u00E7\u00E3o de Pesquisa da Comunidade Cient\u00EDfica e Industrial), com o Instituto de Bioengenharia e Nanotecnologia (AIBN) e com o Instituto do C\u00E9rebro de Queensland (QBI). Al\u00E9m disso, a UQ est\u00E1 envolvida com centros como o Instituto de Pesquisas M\u00E9dicas de Queensland (QIMR), no Hospital Real de Brisbane."@pt ;
+	dbp:logo	225 ;
+	dbp:motto	"Scienti\u0101 ac Labor\u0113"@en ;
+	dbo:motto	"Scienti\u0101 ac Labor\u0113 (Latin)" ,
+		"\"By means of knowledge and hard work\"" ;
+	dbo:type	dbr:Public_university ;
+	dbp:campus	"International, Urban and Regional"@en .
+dbr:University_of_Queensland_Union	dbo:affiliation	dbr:University_of_Queensland ;
+	dbp:affiliation	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Ipswich_Hospital,_Queensland>	dbp:affiliation	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Anthony_M._Young>	dbp:workInstitutions	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Bill_Martin_(sociologist)>	dbp:workplaces	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Thomas_O\u0027Regan>	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Paul_de_Jersey	dbp:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Walter_Campbell_(judge)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Venero_Armanno	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/David_Watson_(Queensland_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Kathy_Sullivan_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Garth_Paltridge	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Tony_Smith_(Queensland_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Roza_Sage	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Kerry_Rea	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Manfred_Cross	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Bruce_Hawker	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+dbr:Marshall_Cooke	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Jennifer_Stow	dbp:workInstitutions	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Thomas_Smith_(finance_professor)>	dbp:institution	dbr:University_of_Queensland ;
+	dbo:institution	dbr:University_of_Queensland .
+dbr:Chris_Ketter	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Mitchell_Kealey	dbp:collegeteam	dbr:University_of_Queensland .
+dbr:Gabrielle_Belz	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Anthony_Lynham	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:De-Anne_Kelly	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Mary_Crawford	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Murray_Watt	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Baseball_at_the_Australian_University_Games	dbp:team	dbr:University_of_Queensland .
+dbr:Yong_Khoon_Seng	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Sallyanne_Atkinson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Andrew_N._Liveris>	dbp:almaMater	dbr:University_of_Queensland .
+dbr:Majid_al-Nasrawi	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Cheryl_Praeger	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Rex_Patterson	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Llewellyn_Edwards	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Paul_Thomas_(academic)>	dbp:almaMater	dbr:University_of_Queensland .
+dbr:Pat_Howard	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Geoffrey_Bolton	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Ian_Brusasco	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Ochsner_Medical_Center	dbp:affiliation	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Tom_Lawton,_Snr>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Gordon_Jackson_(businessman)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Anna_Bligh	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Follow_the_Rabbit-Proof_Fence	dbp:publisher	dbr:University_of_Queensland ;
+	dbo:publisher	dbr:University_of_Queensland .
+dbr:Kirsten_Livermore	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Ingrid_Moses	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Madhan_Karky	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Subash_Gupta	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Ken_Ham	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Geoffrey_Rush	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Wayne_Denis_Hall	dbp:workplaces	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Matt_Foley_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Clem_Christesen	dbo:education	dbr:University_of_Queensland .
+dbr:Eva_Burrows	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Hugh_Wirth	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Frank_Roberts_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Annastacia_Palaszczuk	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Felix_Dittmer	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Andrew_Joseph_Thynne	dbo:occupation	dbr:University_of_Queensland .
+dbr:Clem_Windsor	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Lindsay_Stuart_Smith	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Charles_Wilson_(rugby_player)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/John_Moore_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Wyatt_Roy	dbp:universityAttended	dbr:University_of_Queensland .
+dbr:Kenneth_Norman_Jones	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/David_MacGibbon_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Penelope_Wensley	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:John_Hogg	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Bill_Hayden	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Wayne_Swan	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:George_Negus	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Terri_Butler	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Quentin_Bryce	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Pat_O\u0027Shane>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Catherine_Holmes	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Joan_Sheldon	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Tony_Fitzgerald	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Tony_Bourke_(Australian_politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Alex_Douglas_(politician)>	dbp:university	dbr:University_of_Queensland .
+dbr:Keith_De_Lacy	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Matthew_Canavan	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Jim_Christensen	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Andrew_Powell_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Natalie_Jeremijenko	dbo:education	dbr:University_of_Queensland .
+dbr:University_of_Queensland_Gatton_Campus	dbp:owner	dbr:University_of_Queensland .
+dbr:University_of_Queensland_Mayne_Medical_School	dbp:builtFor	dbr:University_of_Queensland ;
+	dbp:owner	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Customs_House,_Brisbane>	dbo:tenant	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Great_Court,_University_of_Queensland>	dbp:builtFor	dbr:University_of_Queensland ;
+	dbp:owner	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Stephen_Moore_(rugby_union)>	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Colin_Clark_(economist)>	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Hugh_Alexander_Dunn	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Andrew_Bartlett	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Amber_Renae	dbp:education	dbr:University_of_Queensland ;
+	dbo:education	dbr:University_of_Queensland .
+dbr:Malcolm_Hazell	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:John_Eales	dbp:university	dbr:University_of_Queensland ;
+	dbo:university	dbr:University_of_Queensland .
+dbr:Fran_Bailey	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Steven_Miles_(politician)>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Trevor_R._Bryce>	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:David_Hamill	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Shayne_Neumann	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+dbr:Jim_Fouras	dbp:almaMater	dbr:University_of_Queensland ;
+	dbo:almaMater	dbr:University_of_Queensland .
+<http://dbpedia.org/resource/Ross_H._McKenzie>	dbp:workplaces	dbr:University_of_Queensland .
+dbr:Paul_Greenfield	dbp:workInstitution	dbr:University_of_Queensland .
+dbr:Alan_Frost	dbp:almaMater	dbr:University_of_Queensland .

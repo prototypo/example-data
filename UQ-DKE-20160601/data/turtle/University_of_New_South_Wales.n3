@@ -1,0 +1,556 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Kumud_Dhital	dbp:employer	dbr:University_of_New_South_Wales .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Kumud_Dhital	dbo:employer	dbr:University_of_New_South_Wales .
+dbr:Philip_Baxter	dbp:title	dbr:University_of_New_South_Wales ;
+	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:University_of_South_Wales	owl:differentFrom	dbr:University_of_New_South_Wales .
+dbr:Penelope_Deutscher	dbp:institutions	dbr:University_of_New_South_Wales .
+dbr:Luke_Foley	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Gabrielle_Upton	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Kevin_Conolly	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Megan_Latham	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:New_South_Wales_University_of_Technology	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Unsw	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:ARC_Photovoltaic_Centre_of_Excellence	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Bruce_Hall_controversy	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Kenso_Tech	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:The_University_of_New_South_Wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Australia	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Press	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_Of_New_South_Wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_NSW	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_NSW_FC	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_NSW_SC	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_New_South_Wales_Press	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_New_South_Wales_rugby_league_team	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:University_of_Nsw	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Chancellors_of_the_university_of_new_south_wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:List_of_Rectors_of_the_University_of_New_South_Wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Deans	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Deputy_Rectors	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Rectors	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Chancellors_of_the_University_of_New_South_Wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:Vice-Chancellors_of_the_University_of_New_South_Wales	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Business_School	dbo:affiliation	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Creston_College,_University_of_New_South_Wales>	dbp:university	dbr:University_of_New_South_Wales .
+dbr:Sydney_bus_route_400	dbp:via	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/2013_Football_NSW_season>	dbp:rd2Team	dbr:University_of_New_South_Wales ;
+	dbp:rd1Team	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Duncan_J._Watts>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Anne_Glover_(biologist)>	dbp:workplaces	dbr:University_of_New_South_Wales .
+dbr:Julian_Leow_Beng_Kim	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Joshua_Gans	dbp:workplaces	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Robert_McClelland_(Australian_politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Jeff_Harmer	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Rebel_Wilson	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Richard_Carleton	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Lucy_Turnbull	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Barry_Collier_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Greg_Combet	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Janette_Howard	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Miriam_Lyons	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Craig_Laundy	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Peter_Garrett	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Neuroscience_Research_Australia	dbp:affiliations	dbr:University_of_New_South_Wales .
+dbr:Bankstown_Lidcombe_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Prince_of_Wales_Hospital_(Sydney)>	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Wagga_Wagga_Base_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Liverpool_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Shaoquett_Moselmane	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Sussan_Ley	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Moya_Dodd	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/John_Pierce_(public_servant)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Ian_Campbell_(public_servant)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Emma_Johnston	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+dbr:Sonya_Kilkenny	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Courtney_Houssos	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Dayanna_Grageda	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Fiona_Scott	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:John_Conomos	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Mitchell_Butel	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Craig_James_(economist)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Paul_Smyth_(academic)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michelle_Coote	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Patrick_Lawless	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Makame_Mbarawa	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Robyn_Kruk	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Campbell_Newman	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Penny_Sharpe	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Vicki_Gardiner	dbp:workInstitution	dbr:University_of_New_South_Wales .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:University_of_New_South_Wales	foaf:primaryTopic	dbr:University_of_New_South_Wales .
+dbr:Claude_Sammut	dbp:employer	dbr:University_of_New_South_Wales ;
+	dbo:employer	dbr:University_of_New_South_Wales .
+dbr:Paul_Justin_Compton	dbp:employer	dbr:University_of_New_South_Wales ;
+	dbo:employer	dbr:University_of_New_South_Wales .
+dbr:Angela_Tsun	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:John_Sweller	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+dbr:Gordon_Samuels	dbp:title	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Alexander_R._Hamilton>	dbp:workplaces	dbr:University_of_New_South_Wales .
+dbr:Bee_Taechaubol	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Nigel_Milsom	dbo:training	dbr:University_of_New_South_Wales ;
+	dbp:training	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Jeremy_O\u0027Brien>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Ewen_McKenzie	dbp:university	dbr:University_of_New_South_Wales ;
+	dbo:university	dbr:University_of_New_South_Wales .
+dbr:Koo_Tsai_Kee	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Mah_Bow_Tan	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michael_Hintze	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Paul_Tse	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:UNSW_Chancellors	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_School_of_Education	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:UNSW_Vice-Chancellors	dbo:wikiPageRedirects	dbr:University_of_New_South_Wales .
+dbr:David_Gonski	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:David_Paver_Mellor	dbo:award	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Tim_Cook_(historian)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:George_Szekeres	dbp:workInstitution	dbr:University_of_New_South_Wales .
+dbr:Mark_Wainwright	dbp:title	dbr:University_of_New_South_Wales ;
+	dbp:employer	dbr:University_of_New_South_Wales ;
+	dbo:employer	dbr:University_of_New_South_Wales .
+dbr:David_Horner	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Peter_Stanley	dbp:workplaces	dbr:University_of_New_South_Wales .
+dbr:Chua_Tian_Chang	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Foo_Mee_Har	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michael_James_Aitken	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Alex_Greenwich	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/John_Clancy_(judge)>	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Kiruna_Stamell	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Mariana_Renata	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Gai_Waterhouse	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:James_Auchmuty	dbp:workplaces	dbr:University_of_New_South_Wales .
+dbr:Andrew_Cheng	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Jackie_Chan_(politician)>	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Shi_Zhengrong	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Bob_Bellear	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Ted_Mack_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Richard_Johnson_(architect)>	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Simon_Sheikh	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Edward_Psaltis	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Vicki_Bourne	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Charles_Teo	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Stephen_Duckett	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Warrane_College,_University_of_New_South_Wales>	dbp:academicAffiliation	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Sydney_Children\u0027s_Hospital>	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Royal_Hospital_for_Women	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Sutherland_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Satyajit_Das	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Colm_Kiernan	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Aiyaz_Sayed-Khaiyum	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:David_Fawcett	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Todman_Stakes	dbp:sponsor	dbr:University_of_New_South_Wales .
+dbr:Frank_Cicutto	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Mehreen_Faruqi	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Lynne_Billard	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Craig_Thomson_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Phil_Kearns	dbp:university	dbr:University_of_New_South_Wales ;
+	dbo:university	dbr:University_of_New_South_Wales .
+dbr:Jason_Clare	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Laura_McBain	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Philip_Cox	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Murray_Batchelor	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Bob_Carr	dbp:education	dbr:University_of_New_South_Wales .
+dbr:Michael_Easson	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Nial_J._Wheate>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbp:workInstitution	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Alan_Cadman	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Lloyd_McDermott	dbp:university	dbr:University_of_New_South_Wales ;
+	dbo:university	dbr:University_of_New_South_Wales .
+dbr:Saul_Griffith	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Stephen_Hatton	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Ann_Symonds	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Nicole_Kersh	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/John_Hathaway_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Marise_Payne	dbp:education	dbr:University_of_New_South_Wales .
+dbr:Sharan_Burrow	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Simon_Poidevin	dbp:university	dbr:University_of_New_South_Wales ;
+	dbo:university	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Scott_Morrison_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Ken_Henry_(public_servant)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Elisa_Roberts	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:John_Pyke	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Australian_Graduate_School_of_Management	dbp:affiliations	dbr:University_of_New_South_Wales ;
+	dbo:affiliation	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Kenvale_College_of_Tourism_&_Hospitality_Management>	dbp:affiliations	dbr:University_of_New_South_Wales ;
+	dbo:affiliation	dbr:University_of_New_South_Wales .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:University_of_New_South_Wales	rdf:type	dbo:University ,
+		dbo:EducationalInstitution .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:University_of_New_South_Wales	rdf:type	yago:School108276720 ,
+		yago:EducationalInstitution108276342 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:University_of_New_South_Wales	rdf:type	umbel-rc:Organization ,
+		yago:SchoolsOfTheUniversityOfNewSouthWales ,
+		umbel-rc:University ,
+		dbo:Organisation ,
+		yago:Institution108053576 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:University_of_New_South_Wales	rdf:type	wikidata:Q43229 .
+@prefix schema:	<http://schema.org/> .
+dbr:University_of_New_South_Wales	rdf:type	schema:EducationalOrganization ,
+		schema:CollegeOrUniversity .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:University_of_New_South_Wales	rdf:type	geo:SpatialThing ,
+		schema:Organization ,
+		wikidata:Q3918 .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:University_of_New_South_Wales	rdf:type	ns12:Agent ,
+		yago:YagoLegalActor ,
+		ns12:SocialPerson ,
+		dbo:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:EducationalInstitutionsEstablishedIn1949 ,
+		yago:Organization108008335 ,
+		yago:University108286569 ,
+		yago:SocialGroup107950920 ,
+		yago:UniversitiesInSydney ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		umbel-rc:EducationalOrganization .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:University_of_New_South_Wales	dct:subject	dbc:Universities_in_Sydney ,
+		<http://dbpedia.org/resource/Category:1949_establishments_in_Australia> ,
+		dbc:University_of_New_South_Wales ,
+		dbc:Schools_of_the_University_of_New_South_Wales ,
+		dbc:Educational_institutions_established_in_1949 ;
+	owl:sameAs	dbr:University_of_New_South_Wales .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-fr:Université_de_Nouvelle-Galles_du_Sud .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-pl:University_of_New_South_Wales ,
+		wikidata:Q734764 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	yago-res:University_of_New_South_Wales .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-it:University_of_New_South_Wales ,
+		<http://rdf.freebase.com/ns/m.012lzr> ,
+		<http://www4.wiwiss.fu-berlin.de/cordis/resource/Organization/8957492> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-wikidata:Q734764 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-nl:Universiteit_van_Nieuw-Zuid-Wales .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-ko:뉴사우스웨일스_대학교 .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-de:University_of_New_South_Wales .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-es:Universidad_de_Nueva_Gales_del_Sur .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-ja:ニューサウスウェールズ大学 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-id:Universitas_New_South_Wales .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:University_of_New_South_Wales	owl:sameAs	dbpedia-pt:Universidade_de_Nova_Gales_do_Sul .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:University_of_New_South_Wales	rdfs:label	"Universiteit van Nieuw-Zuid-Wales"@nl ,
+		"University of New South Wales"@pl ,
+		"\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5927\u5B66"@ja ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632"@ar ,
+		"University of New South Wales"@en ,
+		"Universidade de Nova Gales do Sul"@pt ,
+		"University of New South Wales"@it ,
+		"Universit\u00E9 de Nouvelle-Galles du Sud"@fr ,
+		"Universidad de Nueva Gales del Sur"@es ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041D\u043E\u0432\u043E\u0433\u043E \u042E\u0436\u043D\u043E\u0433\u043E \u0423\u044D\u043B\u044C\u0441\u0430"@ru ,
+		"\u65B0\u5357\u5A01\u5C14\u58EB\u5927\u5B66"@zh ,
+		"University of New South Wales"@de ;
+	rdfs:comment	"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u041D\u043E\u0301\u0432\u043E\u0433\u043E \u042E\u0301\u0436\u043D\u043E\u0433\u043E \u0423\u044D\u0301\u0301\u043B\u044C\u0441\u0430 (\u0430\u043D\u0433\u043B. The University of New South Wales, UNSW) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0421\u0438\u0434\u043D\u0435\u0439\u0441\u043A\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041A\u0435\u043D\u0441\u0438\u043D\u0433\u0442\u043E\u043D (Kensington), \u0448\u0442\u0430\u0442 \u041D\u043E\u0432\u044B\u0439 \u042E\u0436\u043D\u044B\u0439 \u0423\u044D\u043B\u044C\u0441. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0431\u044B\u043B \u043E\u0441\u043D\u043E\u0432\u0430\u043D \u0432 1949 \u0433\u043E\u0434\u0443 \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0427\u043B\u0435\u043D \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u0439 \u0413\u0440\u0443\u043F\u043F\u044B \u0432\u043E\u0441\u044C\u043C\u0438 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432."@ru ,
+		"La Universidad de Nueva Gales del Sur, en ingl\u00E9s University of New South Wales (abreviado UNSW) es una universidad situada en S\u00EDdney, Australia. Se fund\u00F3 en 1949 y cuenta con unos 40.000 estudiantes. El campus principal se encuentra en la parte este del barrio de Kensington.La universidad tiene buena fama en Australia por sus labores educativas y de investigaci\u00F3n y pertenece al Group of Eight (en espa\u00F1ol, Grupo de los Ocho), la uni\u00F3n de las 8 mejores universidades de Australia."@es ,
+		"\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5927\u5B66\uFF08\u82F1\u8A9E: University of New South Wales \u3001\u7565\u79F0\uFF1AUNSW\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u9023\u90A6\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5DDE\u30B7\u30C9\u30CB\u30FC\u306B\u3042\u308B\u516C\u7ACB\u5927\u5B66\u3067\u3042\u308B\u3002\u5B66\u751F\u306F40,000\u4EBA\u3001600\u306E\u5B66\u90E8\u3001\u9662\u30D7\u30ED\u30B0\u30E9\u30E0\u304C\u3042\u308B\u30025,000\u4EBA\u3092\u8D85\u3048\u308B\u30D5\u30EB\u30BF\u30A4\u30E0\u306E\u30B9\u30BF\u30C3\u30D5\u304C\u300176\u306E\u30B9\u30AF\u30FC\u30EB\u300169\u306E\u7814\u7A76\u30BB\u30F3\u30BF\u30FC\u30016\u306E\u6A5F\u95A2\u30014\u306E\u5927\u5B66\u4ED8\u5C5E\u75C5\u9662\u30018\u306E\u5B66\u751F\u5BEE\u3001\u305D\u306E\u4ED6\u591A\u304F\u306E\u904B\u55B6\u6A5F\u95A2\u3067\u50CD\u3044\u3066\u3044\u308B\u3002\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5927\u5B66\u306F\u3001\u540C\u3058\u753A\u306E\u30E9\u30A4\u30D0\u30EB\u30B7\u30C9\u30CB\u30FC\u5927\u5B66\u3082\u6240\u5C5E\u3057\u3066\u3044\u308B\u201CGroup of Eight\u201D\u306B\u5C5E\u3057\u3066\u3044\u308B\u3002\u5B66\u8853\u7684\u306A\u6210\u679C\u3001\u6559\u6388\u6CD5\u3001\u7814\u7A76\u306B\u3088\u308A\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3068\u30A2\u30B8\u30A2\u592A\u5E73\u6D0B\u5730\u57DF\u3067\u6700\u826F\u306E\u5927\u5B66\u306E1\u3064\u3068\u3055\u308C\u308B\u30022004\u5E74\u306E\"\u30BF\u30A4\u30E0\u30BA\u9AD8\u7B49\u6559\u80B2\u88DC\u8DB3\u201D\u306E\u4E16\u754C\u90E8\u9580\u306736\u4F4D\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u3001\u5317\u30A2\u30E1\u30EA\u30AB\u4EE5\u5916\u306E\u5730\u57DF\u30678\u4F4D\u306B\u30E9\u30F3\u30AF\u3055\u308C\u305F\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3001\u5E38\u306B5\u672C\u306E\u6307\u306B\u5165\u308B\u540D\u9580\u5927\u5B66\u3002\u56FD\u5185\u3001\u5B66\u9F62\u671F\u306E\u5B50\u3069\u3082\u306E\u305F\u3081\u306E\u56FD\u5185\u3001\u56FD\u969B\u30A2\u30AB\u30C7\u30DF\u30C3\u30AF\u5927\u4F1A\u306E\u904B\u55B6\u306A\u3069\u3067\u3001\u521D\u7B49\u4E2D\u7B49\u6559\u80B2\u3078\u3082\u7A4D\u6975\u7684\u306B\u95A2\u308F\u3063\u3066\u3044\u308B\u3002\u65E5\u672C\u306E\u5927\u5B66\u3068\u306E\u95A2\u4FC2\u3067\u306F\u3001\u5B66\u7FD2\u9662\u5927\u5B66\u3001\u4EAC\u90FD\u5927\u5B66\u3001\u6176\u61C9\u7FA9\u587E\u5927\u5B66\u3001\u6771\u5317\u5927\u5B66\u3001\u5E83\u5CF6\u5927\u5B66\u3001\u95A2\u897F\u5916\u56FD\u8A9E\u5927\u5B66\u3001\u95A2\u897F\u5B66\u9662\u5927\u5B66\u3001\u660E\u6CBB\u5927\u5B66\u3001\u540D\u53E4\u5C4B\u5E02\u7ACB\u5927\u5B66\u3001\u7ACB\u547D\u9928\u5927\u5B66\u3001\u6771\u5317\u5B66\u9662\u5927\u5B66\u3001\u65E9\u7A32\u7530\u5927\u5B66\u3001\u62D3\u6B96\u5927\u5B66\u3068\u63D0\u643A\u307E\u305F\u306F\u5354\u5B9A\u3092\u7D50\u3073\u3001\u7A4D\u6975\u7684\u306B\u7559\u5B66\u751F\u3092\u53D7\u3051\u5165\u308C\u3066\u3044\u308B\uFF082010\u5E744\u670822\u65E5\u73FE\u5728\uFF09\u3002"@ja ,
+		"The University of New South Wales (UNSW; branded as UNSW Australia) is an Australian public research university located in the suburb of Kensington in Sydney. The university was established in 1949 by the New South Wales government. The main campus is located on a 38-hectare site in the Sydney suburb of Kensington, seven kilometres from the centre of Sydney."@en ,
+		"A Universidade de Nova Gales do Sul (em ingl\u00EAs: The University of New South Wales), tamb\u00E9m conhecida como UNSW ou coloquialmente como New South, \u00E9 uma universidade situada em Kensington, um sub\u00FArbio de Sydney, em Nova Gales do Sul, Austr\u00E1lia."@pt ,
+		"L'universit\u00E9 de Nouvelle-Galles du Sud (en anglais : The University of New South Wales ou UNSW) est une universit\u00E9 australienne situ\u00E9e \u00E0 Kensington, un faubourg de Sydney."@fr ,
+		"De universiteit van Nieuw-Zuid-Wales (Engels: University of New South Wales of kortweg UNSW) is een universiteit in Sydney, Australi\u00EB. Deze universiteit is leidinggevend in zijn lesveld en onderzoek en heeft als motto: \u201CScientia Manu et Mente\u201D dat \"Kennis door Hand en Verstand\" betekent. Kennis en praktijk liggen dicht bij elkaar binnen de studies.UNSW heeft rond 40.000 studenten waaronder 8800 internationale studenten uit 120 verschillende landen."@nl ,
+		"University of New South Wales (Uniwersytet Nowej Po\u0142udniowej Walii) - australijska pa\u0144stwowa uczelnia wy\u017Csza z siedzib\u0105 w Sydney. Powsta\u0142a w 1949 na bazie istniej\u0105cego od 1843 Sydney Technical College (Kolegium Technicznego w Sydney). Zak\u0142adaj\u0105c nowy uniwersytet, w\u0142adze Nowej Po\u0142udniowej Walii chcia\u0142y stworzy\u0107 uczelni\u0119 o bardziej technicznym i in\u017Cynierskim charakterze ni\u017C University of Sydney.Uczelnia zatrudnia obecnie ok. 5 tysi\u0119cy pracownik\u00F3w naukowych, kt\u00F3rzy kszta\u0142c\u0105 ok."@pl ,
+		"La University of New South Wales (UNSW) \u00E8 una della maggiori universit\u00E0 dell'Australia. Il campus principale si trova a Sydney, capitale del Nuovo Galles del Sud, circa 7 km a nord est del centro della citt\u00E0.Fu fondata nel 1949 con il nome \"New South Wales University of Technology\" ed attualmente \u00E8 frequentata da oltre 50.000 studenti di vari paesi del mondo."@it ,
+		"Die University of New South Wales (UNSW, dt.: Universit\u00E4t von Neus\u00FCdwales) ist eine Universit\u00E4t die sich in der australischen Stadt Sydney befindet. Sie wurde im Jahr 1949 gegr\u00FCndet und wird aktuell von rund 40.000 Studenten besucht."@de ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of New South Wales)\u060C \u062C\u0627\u0645\u0639\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 \u0639\u0627\u0645\u0629 \u0623\u064F\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1949\u060C \u0648\u0647\u064A \u0625\u062D\u062F\u0649 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u062A\u064A \u062A\u0631\u0643\u0632 \u0639\u0644\u0649 \u0627\u0644\u0628\u062D\u062B \u0648\u0645\u0642\u0631\u0647\u0627 \u0641\u064A \u0643\u064A\u0646\u0633\u0646\u063A\u062A\u0648\u0646 \u0641\u064A \u0636\u0627\u062D\u064A\u0629 \u0644\u0646\u062F\u0646 \u0628\u0633\u064A\u062F\u0646\u064A\u060C \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632. \u0645\u0639\u0638\u0645 \u0645\u0646\u062A\u0633\u0628\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0645\u0646 \u0630\u0648\u064A \u0627\u0644\u062F\u062E\u0644 \u0627\u0644\u0645\u0631\u062A\u0641\u0639. \u064A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0645\u0627 \u064A\u0642\u0631\u0628 \u0645\u0646 50,516 \u0637\u0627\u0644\u0628 \u0648\u0637\u0627\u0644\u0628\u0629 \u064A\u062F\u0631\u0633\u0648\u0646 \u0641\u064A 600 \u0645\u0646 \u0627\u0644\u0628\u0631\u0627\u0645\u062C \u0627\u0644\u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u062C\u0627\u0645\u0639\u064A\u0629 \u0648\u0627\u0644\u062F\u0631\u0627\u0633\u0627\u062A \u0627\u0644\u0639\u0644\u064A\u0627. \u0643\u0645\u0627 \u064A\u0648\u062C\u062F \u0623\u0643\u062B\u0631 \u0645\u0646 5,300 \u0645\u0648\u0638\u0641 \u0628\u062F\u0648\u0627\u0645 \u0643\u0627\u0645\u0644\u060C \u0643\u0645\u0627 \u064A\u062A\u0628\u0639 \u0644\u0647\u0627 \u0623\u0631\u0628\u0639 \u0645\u0633\u062A\u0634\u0641\u064A\u0627\u062A \u062A\u0639\u0644\u064A\u0645\u064A\u0629.32x28px\u0628\u0648\u0627\u0628\u0629 \u062C\u0627\u0645\u0639\u0629"@ar ;
+	owl:differentFrom	dbr:University_of_South_Wales ;
+	foaf:name	"The University of New South Wales"@en ;
+	foaf:homepage	<http://www.unsw.edu.au> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:University_of_New_South_Wales	geo:lat	"-33.91777801513671875"^^xsd:float ;
+	geo:long	"151.231109619140625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/UNSW_first_council_meeting.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:University_of_New_South_Wales .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:University_of_New_South_Wales	geo:geometry	"POINT(151.23110961914 -33.917778015137)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:University_of_New_South_Wales	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/University_of_New_South_Wales?oldid=681778563> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:University_of_New_South_Wales	georss:point	"-33.91777777777778 151.23111111111112" ;
+	dbp:affiliations	<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Universitas_21 ,
+		dbr:Association_of_Pacific_Rim_Universities ,
+		dbr:Association_of_Commonwealth_Universities ,
+		dbr:Australian_Defence_Force_Academy ;
+	dbp:imageName	"UNSW coat of arms.png"@en ;
+	dbp:established	1949 ;
+	dbp:usnwrW	94 ;
+	dbo:affiliation	dbr:Association_of_Pacific_Rim_Universities ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Association_of_Commonwealth_Universities ,
+		dbr:Universitas_21 ,
+		dbr:Australian_Defence_Force_Academy ;
+	dbp:chancellor	dbr:David_Gonski ;
+	dbp:endowment	"A$1.095 billion"@en ;
+	dbp:arwuW	101 ;
+	dbp:qsW	46 ;
+	dbp:staff	5300 ;
+	dbp:students	50838 ;
+	dbp:thesW	109 ;
+	dbp:mottoeng	"\"Knowledge by Hand and Mind\""@en ;
+	dbp:formerNames	"New South Wales University of Technology"@en ;
+	dbp:viceChancellor	"Professor Ian Jacobs"@en ;
+	dbp:president	<http://dbpedia.org/resource/Ian_Jacobs_(academic)> ;
+	dbo:president	<http://dbpedia.org/resource/Ian_Jacobs_(academic)> ;
+	dbp:state	dbr:New_South_Wales ;
+	dbp:website	<http://www.unsw.edu.au> ;
+	dbo:country	dbr:Australia ;
+	dbp:city	dbr:Sydney ;
+	dbp:country	dbr:Australia ;
+	dbo:city	dbr:Sydney ;
+	dbo:state	dbr:New_South_Wales ;
+	dbp:type	dbr:Public_university ;
+	dbo:chancellor	dbr:David_Gonski .
+@prefix ns32:	<http://dbpedia.org/datatype/> .
+dbr:University_of_New_South_Wales	dbo:endowment	"1.095E9"^^ns32:usDollar ;
+	dbo:formerName	"New South Wales University of Technology (1949\u20131958)"@en ;
+	dbo:numberOfStudents	"50838"^^xsd:nonNegativeInteger ;
+	dbo:staff	"5300"^^xsd:nonNegativeInteger ;
+	dbo:viceChancellor	<http://dbpedia.org/resource/Ian_Jacobs_(academic)> ;
+	dbp:uniname	"University of New South Wales"@en ;
+	dbp:leidenAus	7 ;
+	dbp:leidenW	197 ;
+	dbp:thesAus	5 ;
+	dbp:usnwrAus	4 ;
+	dbo:wikiPageID	146078 ;
+	dbo:wikiPageRevisionID	681778563 ;
+	dbo:wikiPageExternalLink	<http://bus.unsw.adfa.edu.au/staff/profiles/hall-peter.php> ,
+		<http://hass.unsw.adfa.edu.au/staff/profiles/heseltine.html> ,
+		<http://amzn.com/1629560588> ,
+		<http://hass.unsw.adfa.edu.au/staff/profiles/lovell.html> ,
+		<http://about.anu.edu.au/leadership/vice-chancellor/> ,
+		<http://www.kensingtoncolleges.unsw.edu.au/> ,
+		<http://www.unsw.edu.au> .
+@prefix ns33:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:University_of_New_South_Wales	dbp:wordnet_type	ns33:synset-university-noun-2 ;
+	dbp:imageSize	150 ;
+	dbp:caption	"Coat of Arms of UNSW"@en ;
+	dbp:name	"The University of New South Wales"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/UNSW_first_council_meeting.jpg?width=300> ;
+	dbo:abstract	"University of New South Wales (Uniwersytet Nowej Po\u0142udniowej Walii) - australijska pa\u0144stwowa uczelnia wy\u017Csza z siedzib\u0105 w Sydney. Powsta\u0142a w 1949 na bazie istniej\u0105cego od 1843 Sydney Technical College (Kolegium Technicznego w Sydney). Zak\u0142adaj\u0105c nowy uniwersytet, w\u0142adze Nowej Po\u0142udniowej Walii chcia\u0142y stworzy\u0107 uczelni\u0119 o bardziej technicznym i in\u017Cynierskim charakterze ni\u017C University of Sydney.Uczelnia zatrudnia obecnie ok. 5 tysi\u0119cy pracownik\u00F3w naukowych, kt\u00F3rzy kszta\u0142c\u0105 ok. 45 tysi\u0119cy student\u00F3w. Jej oferta liczy \u0142\u0105cznie ok. 600 r\u00F3\u017Cnych typ\u00F3w studi\u00F3w."@pl ,
+		"A Universidade de Nova Gales do Sul (em ingl\u00EAs: The University of New South Wales), tamb\u00E9m conhecida como UNSW ou coloquialmente como New South, \u00E9 uma universidade situada em Kensington, um sub\u00FArbio de Sydney, em Nova Gales do Sul, Austr\u00E1lia. A Universidade foi fundada em 1949 e hoje \u00E9 reconhecida como uma das principais institui\u00E7\u00F5es de ensino e pesquisa da Austr\u00E1lia, e desenvolveu uma forte reputa\u00E7\u00E3o em diversos campos, incluindo energias renov\u00E1veis/alternativas, computa\u00E7\u00E3o qu\u00E2ntica e nanotecnologia, reforma tribut\u00E1ria, tecnologia de informa\u00E7\u00E3o e comunica\u00E7\u00E3o, m\u00EDdia digital, engenharia el\u00E9trica e biomedicinal, desenvolvimento sustent\u00E1vel, pesquisa de HIV/AIDS, e justi\u00E7a e pesquisa de pol\u00EDtica social."@pt ,
+		"L'universit\u00E9 de Nouvelle-Galles du Sud (en anglais : The University of New South Wales ou UNSW) est une universit\u00E9 australienne situ\u00E9e \u00E0 Kensington, un faubourg de Sydney. Elle fait partie du \"Groupe des 8\" rassemblant plusieurs universit\u00E9s australiennes et elle est membre du r\u00E9seau Universitas 21 des universit\u00E9s centr\u00E9es sur la recherche.En d\u00E9pit de son existence relativement courte, l'UNSW, fond\u00E9e en 1949, est consid\u00E9r\u00E9e comme l'une des meilleures universit\u00E9s australiennes pour ses centres de recherches et d'enseignement dans de nombreux domaines. Les dipl\u00F4m\u00E9s de l'universit\u00E9 sont tr\u00E8s recherch\u00E9s par les employeurs et leurs salaires de d\u00E9but de carri\u00E8re sont plus \u00E9lev\u00E9s que la moyenne australienne.L'UNSW accueille approximativement 46 000 \u00E9tudiants participant \u00E0 600 programmes d'enseignements. L'universit\u00E9 compte 76 \u00E9coles et 69 centres de recherche.En plus du campus principal \u00E0 Kensigton, l'UNSW poss\u00E8de plusieurs autres campus dans Sydney dont celui du College of Fine Arts \u00E0 Paddington et l'Acad\u00E9mie militaire d'Australie qui lui est associ\u00E9 se trouve \u00E0 Canberra."@fr ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of New South Wales)\u060C \u062C\u0627\u0645\u0639\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 \u0639\u0627\u0645\u0629 \u0623\u064F\u0633\u0633\u062A \u0641\u064A \u0639\u0627\u0645 1949\u060C \u0648\u0647\u064A \u0625\u062D\u062F\u0649 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u062A\u064A \u062A\u0631\u0643\u0632 \u0639\u0644\u0649 \u0627\u0644\u0628\u062D\u062B \u0648\u0645\u0642\u0631\u0647\u0627 \u0641\u064A \u0643\u064A\u0646\u0633\u0646\u063A\u062A\u0648\u0646 \u0641\u064A \u0636\u0627\u062D\u064A\u0629 \u0644\u0646\u062F\u0646 \u0628\u0633\u064A\u062F\u0646\u064A\u060C \u0646\u064A\u0648 \u0633\u0627\u0648\u062B \u0648\u064A\u0644\u0632. \u0645\u0639\u0638\u0645 \u0645\u0646\u062A\u0633\u0628\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0645\u0646 \u0630\u0648\u064A \u0627\u0644\u062F\u062E\u0644 \u0627\u0644\u0645\u0631\u062A\u0641\u0639. \u064A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0645\u0627 \u064A\u0642\u0631\u0628 \u0645\u0646 50,516 \u0637\u0627\u0644\u0628 \u0648\u0637\u0627\u0644\u0628\u0629 \u064A\u062F\u0631\u0633\u0648\u0646 \u0641\u064A 600 \u0645\u0646 \u0627\u0644\u0628\u0631\u0627\u0645\u062C \u0627\u0644\u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u062C\u0627\u0645\u0639\u064A\u0629 \u0648\u0627\u0644\u062F\u0631\u0627\u0633\u0627\u062A \u0627\u0644\u0639\u0644\u064A\u0627. \u0643\u0645\u0627 \u064A\u0648\u062C\u062F \u0623\u0643\u062B\u0631 \u0645\u0646 5,300 \u0645\u0648\u0638\u0641 \u0628\u062F\u0648\u0627\u0645 \u0643\u0627\u0645\u0644\u060C \u0643\u0645\u0627 \u064A\u062A\u0628\u0639 \u0644\u0647\u0627 \u0623\u0631\u0628\u0639 \u0645\u0633\u062A\u0634\u0641\u064A\u0627\u062A \u062A\u0639\u0644\u064A\u0645\u064A\u0629.32x28px\u0628\u0648\u0627\u0628\u0629 \u062C\u0627\u0645\u0639\u0629"@ar ,
+		"\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5927\u5B66\uFF08\u82F1\u8A9E: University of New South Wales \u3001\u7565\u79F0\uFF1AUNSW\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u9023\u90A6\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5DDE\u30B7\u30C9\u30CB\u30FC\u306B\u3042\u308B\u516C\u7ACB\u5927\u5B66\u3067\u3042\u308B\u3002\u5B66\u751F\u306F40,000\u4EBA\u3001600\u306E\u5B66\u90E8\u3001\u9662\u30D7\u30ED\u30B0\u30E9\u30E0\u304C\u3042\u308B\u30025,000\u4EBA\u3092\u8D85\u3048\u308B\u30D5\u30EB\u30BF\u30A4\u30E0\u306E\u30B9\u30BF\u30C3\u30D5\u304C\u300176\u306E\u30B9\u30AF\u30FC\u30EB\u300169\u306E\u7814\u7A76\u30BB\u30F3\u30BF\u30FC\u30016\u306E\u6A5F\u95A2\u30014\u306E\u5927\u5B66\u4ED8\u5C5E\u75C5\u9662\u30018\u306E\u5B66\u751F\u5BEE\u3001\u305D\u306E\u4ED6\u591A\u304F\u306E\u904B\u55B6\u6A5F\u95A2\u3067\u50CD\u3044\u3066\u3044\u308B\u3002\u30CB\u30E5\u30FC\u30B5\u30A6\u30B9\u30A6\u30A7\u30FC\u30EB\u30BA\u5927\u5B66\u306F\u3001\u540C\u3058\u753A\u306E\u30E9\u30A4\u30D0\u30EB\u30B7\u30C9\u30CB\u30FC\u5927\u5B66\u3082\u6240\u5C5E\u3057\u3066\u3044\u308B\u201CGroup of Eight\u201D\u306B\u5C5E\u3057\u3066\u3044\u308B\u3002\u5B66\u8853\u7684\u306A\u6210\u679C\u3001\u6559\u6388\u6CD5\u3001\u7814\u7A76\u306B\u3088\u308A\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3068\u30A2\u30B8\u30A2\u592A\u5E73\u6D0B\u5730\u57DF\u3067\u6700\u826F\u306E\u5927\u5B66\u306E1\u3064\u3068\u3055\u308C\u308B\u30022004\u5E74\u306E\"\u30BF\u30A4\u30E0\u30BA\u9AD8\u7B49\u6559\u80B2\u88DC\u8DB3\u201D\u306E\u4E16\u754C\u90E8\u9580\u306736\u4F4D\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u3001\u5317\u30A2\u30E1\u30EA\u30AB\u4EE5\u5916\u306E\u5730\u57DF\u30678\u4F4D\u306B\u30E9\u30F3\u30AF\u3055\u308C\u305F\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u5185\u3067\u3001\u5E38\u306B5\u672C\u306E\u6307\u306B\u5165\u308B\u540D\u9580\u5927\u5B66\u3002\u56FD\u5185\u3001\u5B66\u9F62\u671F\u306E\u5B50\u3069\u3082\u306E\u305F\u3081\u306E\u56FD\u5185\u3001\u56FD\u969B\u30A2\u30AB\u30C7\u30DF\u30C3\u30AF\u5927\u4F1A\u306E\u904B\u55B6\u306A\u3069\u3067\u3001\u521D\u7B49\u4E2D\u7B49\u6559\u80B2\u3078\u3082\u7A4D\u6975\u7684\u306B\u95A2\u308F\u3063\u3066\u3044\u308B\u3002\u65E5\u672C\u306E\u5927\u5B66\u3068\u306E\u95A2\u4FC2\u3067\u306F\u3001\u5B66\u7FD2\u9662\u5927\u5B66\u3001\u4EAC\u90FD\u5927\u5B66\u3001\u6176\u61C9\u7FA9\u587E\u5927\u5B66\u3001\u6771\u5317\u5927\u5B66\u3001\u5E83\u5CF6\u5927\u5B66\u3001\u95A2\u897F\u5916\u56FD\u8A9E\u5927\u5B66\u3001\u95A2\u897F\u5B66\u9662\u5927\u5B66\u3001\u660E\u6CBB\u5927\u5B66\u3001\u540D\u53E4\u5C4B\u5E02\u7ACB\u5927\u5B66\u3001\u7ACB\u547D\u9928\u5927\u5B66\u3001\u6771\u5317\u5B66\u9662\u5927\u5B66\u3001\u65E9\u7A32\u7530\u5927\u5B66\u3001\u62D3\u6B96\u5927\u5B66\u3068\u63D0\u643A\u307E\u305F\u306F\u5354\u5B9A\u3092\u7D50\u3073\u3001\u7A4D\u6975\u7684\u306B\u7559\u5B66\u751F\u3092\u53D7\u3051\u5165\u308C\u3066\u3044\u308B\uFF082010\u5E744\u670822\u65E5\u73FE\u5728\uFF09\u3002"@ja ,
+		"The University of New South Wales (UNSW; branded as UNSW Australia) is an Australian public research university located in the suburb of Kensington in Sydney. The university was established in 1949 by the New South Wales government. The main campus is located on a 38-hectare site in the Sydney suburb of Kensington, seven kilometres from the centre of Sydney. The creative arts faculty, UNSW Art & Design, is located in Paddington, UNSW Canberra is located at the Australian Defence Force Academy in Canberra, and sub-campuses are located in the Sydney CBD, the suburbs of Randwick and Coogee, research stations are located throughout the state of New South Wales.UNSW is a founding member of the Group of Eight, a coalition of Australian research-intensive universities, and of Universitas 21, a leading global network of research universities. It has international exchange and research partnerships with over 200 universities around the world. It was ranked among the top 50 universities in the world, according to the 2015 QS World University Rankings, and among the top 4 in Australia. UNSW graduates hold more chief executive positions of ASX 200 listed companies than those of any other university in Australia."@en ,
+		"De universiteit van Nieuw-Zuid-Wales (Engels: University of New South Wales of kortweg UNSW) is een universiteit in Sydney, Australi\u00EB. Deze universiteit is leidinggevend in zijn lesveld en onderzoek en heeft als motto: \u201CScientia Manu et Mente\u201D dat \"Kennis door Hand en Verstand\" betekent. Kennis en praktijk liggen dicht bij elkaar binnen de studies.UNSW heeft rond 40.000 studenten waaronder 8800 internationale studenten uit 120 verschillende landen."@nl ,
+		"La University of New South Wales (UNSW) \u00E8 una della maggiori universit\u00E0 dell'Australia. Il campus principale si trova a Sydney, capitale del Nuovo Galles del Sud, circa 7 km a nord est del centro della citt\u00E0.Fu fondata nel 1949 con il nome \"New South Wales University of Technology\" ed attualmente \u00E8 frequentata da oltre 50.000 studenti di vari paesi del mondo. Fa parte del cosiddetto \"Gruppo degli Otto\", un consorzio delle otto principali universit\u00E0 australiane.Gode di una reputazione particolarmente alta nel campo delle scienze ingegneristiche. Secondo un'indagine del Times Higher Education Supplement (THES), la UNSW \u00E8 una delle migliori 20 universit\u00E0 del mondo in questo settore. Il corso di Master of Business Administration (MBA) dell'universit\u00E0 \u00E8 classificato al 39\u00BA posto. Nel suo complesso l'universit\u00E0 \u00E8 stata collocata dal THES al 41\u00BA posto al mondo e al 61\u00BA posto da Newsweek."@it ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u041D\u043E\u0301\u0432\u043E\u0433\u043E \u042E\u0301\u0436\u043D\u043E\u0433\u043E \u0423\u044D\u0301\u0301\u043B\u044C\u0441\u0430 (\u0430\u043D\u0433\u043B. The University of New South Wales, UNSW) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0421\u0438\u0434\u043D\u0435\u0439\u0441\u043A\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041A\u0435\u043D\u0441\u0438\u043D\u0433\u0442\u043E\u043D (Kensington), \u0448\u0442\u0430\u0442 \u041D\u043E\u0432\u044B\u0439 \u042E\u0436\u043D\u044B\u0439 \u0423\u044D\u043B\u044C\u0441. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0431\u044B\u043B \u043E\u0441\u043D\u043E\u0432\u0430\u043D \u0432 1949 \u0433\u043E\u0434\u0443 \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0427\u043B\u0435\u043D \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u0439 \u0413\u0440\u0443\u043F\u043F\u044B \u0432\u043E\u0441\u044C\u043C\u0438 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432. \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041D\u043E\u0432\u043E\u0433\u043E \u042E\u0436\u043D\u043E\u0433\u043E \u0423\u044D\u043B\u044C\u0441\u0430 \u0432\u0445\u043E\u0434\u0438\u0442 \u0442\u0430\u043A\u0436\u0435 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0443\u044E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043A\u0443\u044E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044E Universitas 21.\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041D\u043E\u0432\u043E\u0433\u043E \u042E\u0436\u043D\u043E\u0433\u043E \u0423\u044D\u043B\u044C\u0441\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043B\u0438\u0434\u0435\u0440\u043E\u0432 \u0432 \u0432\u044B\u0441\u0448\u0435\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0438 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0412\u044B\u043F\u0443\u0441\u043A\u043D\u0438\u043A\u0438 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u044E\u0442 \u0432\u044B\u0441\u043E\u043A\u0443\u044E \u043F\u043E\u0437\u0438\u0446\u0438\u044E \u0441\u0440\u0435\u0434\u0438 \u0440\u0430\u0431\u043E\u0442\u043E\u0434\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u043F\u043E\u043B\u0443\u0447\u0430\u044E\u0442 \u043E\u0434\u043D\u0443 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0432\u044B\u0441\u043E\u043A\u0438\u0445 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u044B\u0445 \u0437\u0430\u0440\u043F\u043B\u0430\u0442 \u043F\u043E \u0441\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u044E \u0441 \u0434\u0440\u0443\u0433\u0438\u043C\u0438 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u043C\u0438 \u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438.UNSW \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430\u0441\u0447\u0438\u0442\u044B\u0432\u0430\u0435\u0442 \u043E\u043A\u043E\u043B\u043E 46000 \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432. \u0411\u043E\u043B\u0435\u0435 5000 \u0441\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u043A\u043E\u0432, 69 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u0445 \u0446\u0435\u043D\u0442\u0440\u043E\u0432, \u0448\u0435\u0441\u0442\u044C \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0442\u043E\u0432, \u0447\u0435\u0442\u044B\u0440\u0435 \u0431\u043E\u043B\u044C\u043D\u0438\u0446\u044B, \u0432\u043E\u0441\u0435\u043C\u044C \u043E\u0431\u0449\u0435\u0436\u0438\u0442\u0438\u0439 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0435 \u043E\u0442\u0434\u0435\u043B\u044B.\u041F\u043E\u043C\u0438\u043C\u043E \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u043A\u0430\u043C\u043F\u0443\u0441\u0430 \u0432 \u041A\u0435\u043D\u0441\u0438\u043D\u0433\u0442\u043E\u043D\u0435, UNSW \u0438\u043C\u0435\u0435\u0442 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u043A\u0430\u043C\u043F\u0443\u0441\u044B \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u043F\u043E \u0432\u0441\u0435\u043C\u0443 \u0421\u0438\u0434\u043D\u0435\u044E, \u0432 \u0442\u043E\u043C \u0447\u0438\u0441\u043B\u0435 \u043A\u043E\u043B\u043B\u0435\u0434\u0436 \u0438\u0437\u044F\u0449\u043D\u044B\u0445 \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432 \u0432 \u043A\u0430\u043C\u043F\u0443\u0441\u0435 \u041F\u044D\u0434\u0434\u0438\u043D\u0433\u0442\u043E\u043D. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u043A\u0430\u043C\u043F\u0443\u0441 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u0438 \u0412\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u043D\u044B\u0445 \u0421\u0438\u043B \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u041A\u0430\u043D\u0431\u0435\u0440\u0440\u0435, \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0430\u044F \u0441\u0442\u043E\u043B\u0438\u0447\u043D\u0430\u044F \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F; \u0432 \u043D\u0435\u043C \u043E\u0431\u0443\u0447\u0430\u044E\u0442\u0441\u044F \u043A\u0430\u0434\u0435\u0442\u044B \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u043E\u0433\u043E \u0440\u043E\u0434\u0430 \u0432\u043E\u0439\u0441\u043A: NAVY (\u0412\u043E\u0435\u043D\u043D\u043E-\u041C\u043E\u0440\u0441\u043A\u043E\u0439 \u0424\u043B\u043E\u0442), Ground Force (\u041D\u0430\u0437\u0435\u043C\u043D\u044B\u0435 \u0412\u043E\u0439\u0441\u043A\u0430), Air Force (\u0412\u043E\u0435\u043D\u043D\u043E-\u0412\u043E\u0437\u0434\u0443\u0448\u043D\u044B\u0435 \u0421\u0438\u043B\u044B)."@ru ,
+		"La Universidad de Nueva Gales del Sur, en ingl\u00E9s University of New South Wales (abreviado UNSW) es una universidad situada en S\u00EDdney, Australia. Se fund\u00F3 en 1949 y cuenta con unos 40.000 estudiantes. El campus principal se encuentra en la parte este del barrio de Kensington.La universidad tiene buena fama en Australia por sus labores educativas y de investigaci\u00F3n y pertenece al Group of Eight (en espa\u00F1ol, Grupo de los Ocho), la uni\u00F3n de las 8 mejores universidades de Australia. Especialmente sus estudios de ciencias de ingenier\u00EDas gozan de fama. Seg\u00FAn el Times Higher Education Supplement (THES) UNSW pertenece a una de las 20 mejores universidades del mundo de ingenier\u00EDa; el programa de MBA de la School of Business australiana est\u00E1 en el puesto 39. La universidad en su totalidad se situ\u00F3 en el puesto 41 seg\u00FAn el THES en 2006, y seg\u00FAn Newsweek en el puesto 64 a nivel mundial."@es ,
+		"Die University of New South Wales (UNSW, dt.: Universit\u00E4t von Neus\u00FCdwales) ist eine Universit\u00E4t die sich in der australischen Stadt Sydney befindet. Sie wurde im Jahr 1949 gegr\u00FCndet und wird aktuell von rund 40.000 Studenten besucht. Der Hauptcampus befindet sich im Ostteil der Stadt im Stadtteil Kensington.Heute ist die UNSW eine der angesehensten Lehr- und Forschungsinstitutionen Australiens und geh\u00F6rt zur Group of Eight (dt.: Gruppe der Acht), einer Vereinigung der acht f\u00FChrenden australischen Universit\u00E4ten. Sie genie\u00DFt einen besonders guten Ruf in ingenieurswissenschaftlichen Disziplinen. Laut Times Higher Education Supplement (THES) geh\u00F6rt die UNSW zu den weltweit 20 besten Universit\u00E4ten der Ingenieurswissenschaften. Das MBA-Programm der an der Universit\u00E4t beheimateten Australian School of Business liegt auf Platz 39. Die Universit\u00E4t als Ganzes wurde im Jahr 2006 von THES auf Platz 41 sowie von Newsweek auf Platz 64 weltweit eingestuft."@de ;
+	dbp:logo	<http://dbpedia.org/resource/File:UNSW_logo.png> ;
+	dbp:motto	"Scientia Manu et Mente"@en ;
+	dbo:motto	"\"Knowledge by Hand and Mind\"" ,
+		"Scientia Manu et Mente (Latin)" ;
+	dbo:type	dbr:Public_university ;
+	dbp:campus	"Urban, parks, 38 hectares"@en .
+dbr:UNSW_Faculty_of_Law	dbp:parent	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Arc_@_UNSW_Limited>	dbp:areaServed	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/David_Coleman_(Australian_politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michelle_Haber	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Kirby_Institute	dbp:affiliations	dbr:University_of_New_South_Wales ;
+	dbo:affiliation	dbr:University_of_New_South_Wales .
+dbr:Ian_Plimer	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Bill_Pulver	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Canberra_Innovation_Network	dbp:membership	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Shalom_College,_University_of_New_South_Wales>	dbp:university	dbr:University_of_New_South_Wales .
+dbr:Garvan_Institute_of_Medical_Research	dbp:affiliations	dbr:University_of_New_South_Wales ;
+	dbo:affiliation	dbr:University_of_New_South_Wales .
+dbr:George_Seddon	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+dbr:Michael_Wesley	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Mike_Kelly_(Australian_politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Shoalhaven_District_Memorial_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/St_George_Hospital_(Sydney)>	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:UNSW_Tharunka	dbp:headquarters	dbr:University_of_New_South_Wales .
+dbr:Stephen_Mutch	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Bruce_Hawker	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Stephen_Bromhead	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Sonya_Chervonsky	dbp:club	dbr:University_of_New_South_Wales .
+dbr:Bob_Whan	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Leonard_Francis_Lindoy	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Ian_Macfarlane_(economist)>	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Marc_Wilkins_(geneticist)>	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+dbr:Rodney_Adler	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/George_Williams_(lawyer)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Baseball_at_the_Australian_University_Games	dbp:rd1Team	dbr:University_of_New_South_Wales ;
+	dbp:team	dbr:University_of_New_South_Wales .
+dbr:Hamid_Mirzadeh	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Heinrich_Hora	dbp:workInstitutions	dbr:University_of_New_South_Wales .
+dbr:Melissa_Parke	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Matthew_Mason-Cox	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Andrew_Humpherson	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Rupert_Myers	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Mark_Arbib	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Tan_Teck_Meng	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Shellharbour_Hospital	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:John_Niland	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Rory_Hume	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Larry_Anthony	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/John_Bennett_(educator)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Louise_Markus	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Fred_Hilmer	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Silma_Ihram	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+dbr:David_Kilcullen	dbo:education	dbr:University_of_New_South_Wales .
+dbr:Martin_Hamilton-Smith	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/St_Vincent\u0027s_Hospital,_Sydney>	dbp:affiliation	dbr:University_of_New_South_Wales .
+dbr:Vincent_Lo	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Christopher_Shanahan	dbp:education	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Tom_Frame_(bishop)>	dbp:workplaces	dbr:University_of_New_South_Wales ;
+	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michael_Forshaw	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Raj_Reddy	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/R._Narayanaswamy>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Pranav_Mohanlal	dbp:almaMater	dbr:University_of_New_South_Wales .
+dbr:Brad_Hazzard	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Betty_Kitchener	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Kerry_O\u0027Brien_(politician)>	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Wayne_Denis_Hall	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Michael_Hatton	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Gary_Nairn	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Frank_Howarth	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Rebecca_Housel	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Stuart_Robert	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Pat_O\u0027Shane>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/George_Miller_(director)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Andrew_Hastie_(politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Mark_Roeder	dbp:education	dbr:University_of_New_South_Wales ;
+	dbo:education	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Michael_Lee_(Australian_politician)>	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+<http://dbpedia.org/resource/Michael_Birt_(biochemist)>	dbp:title	dbr:University_of_New_South_Wales .
+dbr:Ross_Free	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:Paul_Greenfield	dbp:almaMater	dbr:University_of_New_South_Wales ;
+	dbo:almaMater	dbr:University_of_New_South_Wales .
+dbr:The_Other_Side_of_the_Frontier	dbp:publisher	dbr:University_of_New_South_Wales ;
+	dbo:publisher	dbr:University_of_New_South_Wales .
+dbr:The_Yipping_Tiger	dbp:publisher	dbr:University_of_New_South_Wales ;
+	dbo:publisher	dbr:University_of_New_South_Wales .

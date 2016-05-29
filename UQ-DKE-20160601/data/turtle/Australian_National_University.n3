@@ -1,0 +1,651 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Phil_Barresi	dbp:almaMater	dbr:Australian_National_University .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Phil_Barresi	dbo:almaMater	dbr:Australian_National_University .
+dbr:James_Wiegold	dbp:workplaces	dbr:Australian_National_University .
+dbr:Aboriginal_History	dbo:publisher	dbr:Australian_National_University .
+dbr:Göran_Malmqvist	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Edward_C._Prescott>	dbo:institution	dbr:Australian_National_University .
+dbr:Penelope_Deutscher	dbp:institutions	dbr:Australian_National_University .
+dbr:Adrian_Piccoli	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Martin_Parkinson	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Siding_Spring_2.3_m_Telescope>	dbp:organization	dbr:Australian_National_University .
+dbr:Hans_Bielenstein	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Lawrence_M._Krauss>	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Rodolfo_Llinás	dbo:almaMater	dbr:Australian_National_University .
+dbr:Reg_Sprigg	dbo:award	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Epeli_Hau\u0027ofa>	dbo:almaMater	dbr:Australian_National_University .
+dbr:Helen_Beebee	dbp:institutions	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Alan_Ward_(historian)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Tim_Pallas	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Peter_Drysdale	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Susanna_Schellenberg	dbp:institutions	dbr:Australian_National_University .
+dbr:Kevin_Rudd	dbp:education	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Bruce_Anderson_(businessman)>	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+dbr:Marty_Natalegawa	dbo:almaMater	dbr:Australian_National_University .
+dbr:Mari_Elka_Pangestu	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Kusmayanto_Kadiman	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Muhamad_Chatib_Basri	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/John_H._Coates>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Gary_Humphries	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Elissa_Sursara	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Manning_Clark	dbp:workplaces	dbr:Australian_National_University .
+dbr:Shane_Rattenbury	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Peter_Garrett	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Muriel_Porter	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Zhang_Haijie	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+dbr:Malcolm_McIntosh	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Andrew_McIntosh_(Australian_politician)>	dbo:almaMater	dbr:Australian_National_University .
+dbr:Paul_Lyneham	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+dbr:Geoffrey_Yeend	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Gai_Brodtmann	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Catherine_King_(politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Andrew_G._White>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Tony_Minson	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ernest_William_Titterton	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Keith_Dowding	dbo:institution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/P._A._P._Moran>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Toby_Miller	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Rolf_M._Zinkernagel>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Mohammad_Jalal_Abbasi-Shavazi	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Bernie_Fraser_(economist)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Josephine_Flood	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Bruce_Chapman_(Australian_economist)>	dbo:education	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University ;
+	dbo:employer	dbr:Australian_National_University .
+dbr:Rosalie_Woodruff	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Daryl_Quinlivan	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Gordon_de_Brouwer	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Renée_Leon	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Don_Russell	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Peter_Boxall	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Finn_Pratt	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:David_Rosalky	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Michael_Keating_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Paul_Barratt	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Daniel_Mulino	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Lionel_Woodward	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Harold_Brookfield	dbp:institution	dbr:Australian_National_University ;
+	dbo:institution	dbr:Australian_National_University .
+dbr:Shofry_Abdul_Ghafor	dbo:almaMater	dbr:Australian_National_University .
+dbr:Nerilie_Abram	dbo:almaMater	dbr:Australian_National_University .
+dbr:Blair_Comley	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Helen_McGregor_(geologist)>	dbo:almaMater	dbr:Australian_National_University .
+dbr:Glenys_Beauchamp	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Neil_Johnston_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Puakena_Boreham	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Cameron_Neylon	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Stuart_Harris_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Chris_Moraitis	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Paul_Grimes_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Chris_Higgins_(Australian_public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ben_Gascoigne	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Brett_Mason	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Warren_Snowdon	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Meredith_Hunter_(politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Katy_Gallagher	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Stephen_Larkham	dbp:university	dbr:Australian_National_University ;
+	dbo:university	dbr:Australian_National_University .
+dbr:Alistair_Coe	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Graham_Tuckwell	dbo:education	dbr:Australian_National_University .
+dbr:ANU_Research_School_of_Pacific_and_Asian_Studies	dbp:parent	dbr:Australian_National_University .
+dbr:ACTION	dbp:stops	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Calvary_Hospital,_Canberra>	dbp:affiliation	dbr:Australian_National_University .
+dbr:Canberra_Hospital	dbp:affiliation	dbr:Australian_National_University .
+dbr:Clive_Hamilton	dbp:institutions	dbr:Australian_National_University .
+dbr:Colin_Groves	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/John_Williams_(water_scientist)>	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Michael_Moore_(Australian_politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Woroni	dbp:school	dbr:Australian_National_University .
+dbr:Andrew_Barr	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Robert_J._O\u0027Neill>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Joses_Tuhanuku	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Bill_Gammage	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University .
+dbr:Pacific_Trade_and_Development_Conference	dbp:adminCenter	dbr:Australian_National_University .
+dbr:Platon_Kostiuk	dbp:workplaces	dbr:Australian_National_University .
+dbr:Jon_Philp	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Craig_Emerson	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Alan_Gilbert_(Australian_academic)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Rick_Kuhn	dbp:institution	dbr:Australian_National_University ;
+	dbo:institution	dbr:Australian_National_University .
+dbr:Brian_Schmidt	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Leon_Simon	dbp:workplaces	dbr:Australian_National_University .
+dbr:Eric_Andrews	dbp:almaMater	dbr:Australian_National_University .
+dbr:Stephen_Brady	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/David_Smith_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Raymond_Martin_(academic)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Nick_Warner	dbo:almaMater	dbr:Australian_National_University .
+dbr:ANU	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Ursula_Hall	dbp:university	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Toad_Hall_(ANU)>	dbp:university	dbr:Australian_National_University .
+dbr:Jane_Franklin_Hall	dbp:sisterCollege	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Australian_National_University_Students\u0027_Association>	dbp:institution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/University_House,_Australian_National_University>	dbp:university	dbr:Australian_National_University .
+dbr:Australian_National_University_Union	dbp:institution	dbr:Australian_National_University .
+dbr:Burgmann_College	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Griffin_Hall	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Carmel_Schrire	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Jane_Halton	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Australian_National_University	foaf:primaryTopic	dbr:Australian_National_University .
+dbr:Robert_Costanza	dbp:workInstitutions	dbr:Australian_National_University .
+dbr:Hans_Adolph_Buchdahl	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Mark_Oliphant	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Joan_Beaumont	dbp:workplaces	dbr:Australian_National_University .
+dbr:David_Horner	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University .
+dbr:John_Quiggin	dbp:institution	dbr:Australian_National_University ;
+	dbo:institution	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Gordon_Briscoe	dbp:education	dbr:Australian_National_University ;
+	dbp:employer	dbr:Australian_National_University ;
+	dbo:employer	dbr:Australian_National_University .
+dbr:Peter_Stanley	dbp:almaMater	dbr:Australian_National_University .
+dbr:Chong_Chieng_Jen	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Emily_Sadka	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/William_Phillips_(economist)>	dbp:institution	dbr:Australian_National_University ;
+	dbo:institution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Gary_Gray_(Australian_politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Drishti_(software)>	dbo:developer	dbr:Australian_National_University .
+dbr:Rosemary_Church	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+dbr:Margaret_Guilfoyle	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ulla_Wessels	dbp:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Hans_A._Bachor>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Hanna_Neumann	dbp:workplaces	dbr:Australian_National_University .
+dbr:Thérèse_Rein	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Huw_Price	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Lynette_Spillman	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Stephen_Conroy	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Zed_Seselja	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Bong_Pit_Khiat	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Tam_Yiu-chung	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Bernhard_Neumann	dbp:workplaces	dbr:Australian_National_University .
+dbr:Tiger_Lin	dbp:almaMater	dbr:Australian_National_University .
+dbr:Marcus_Hutter	dbp:workplaces	dbr:Australian_National_University .
+dbr:Richard_Grove	dbp:workplaces	dbr:Australian_National_University .
+dbr:Michael_Keenan	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/David_P._Craig>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Val_Plumwood	dbo:education	dbr:Australian_National_University .
+dbr:Stephen_Duckett	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Julian_Huxley_(rugby_union)>	dbp:university	dbr:Australian_National_University ;
+	dbo:university	dbr:Australian_National_University .
+dbr:Elizabeth_Anne_Reid	dbo:almaMater	dbr:Australian_National_University .
+dbr:Aiyaz_Sayed-Khaiyum	dbo:almaMater	dbr:Australian_National_University .
+dbr:Robyn_Alders	dbo:almaMater	dbr:Australian_National_University .
+dbr:Phoenix_Prize_for_Spiritual_Art	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Zvonimir_Janko	dbp:workplaces	dbr:Australian_National_University .
+dbr:Wang_Gungwu	dbp:workplaces	dbr:Australian_National_University .
+dbr:Amanda_McDonald_Crowley	dbo:training	dbr:Australian_National_University ;
+	dbp:training	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Stuart_Hamilton_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Geoffrey_Nettle	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Michael_McRobbie	dbo:almaMater	dbr:Australian_National_University .
+dbr:Michael_Thawley	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Endang_Turmudi	dbp:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/M._Ilyas_Kamboh>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Vanessa_Woods	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:John_Harsanyi	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Penny_Sackett	dbp:workInstitution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Brian_Martin_(professor)>	dbo:occupation	dbr:Australian_National_University ;
+	dbp:workplaces	dbr:Australian_National_University .
+dbr:Lisa_Paul	dbo:almaMater	dbr:Australian_National_University .
+dbr:Mike_Nahan	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Robert_E._Goodin>	dbp:institutions	dbr:Australian_National_University .
+dbr:Joseph_Sambrook	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Keith_Nugent	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/David_Campbell_(academic)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Charles_E._M._Pearce>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Stephen_J._Turnovsky>	dbp:institutions	dbr:Australian_National_University .
+dbr:Wesley_Kingston_Whitten	dbp:workInstitutions	dbr:Australian_National_University .
+dbr:Chris_Heyde	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Ken_Freeman_(astronomer)>	dbp:workInstitution	dbr:Australian_National_University .
+dbr:Patricia_Hewitt	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Murray_Batchelor	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Concetta_Fierravanti-Wells	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Tim_C._Ralph>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Allan_Hawke	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Benjamin_Penny	dbp:occupation	dbr:Australian_National_University ;
+	dbo:occupation	dbr:Australian_National_University ;
+	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Peter_Hendy_(politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Donald_Melrose	dbp:workplaces	dbr:Australian_National_University .
+dbr:Trevor_Swan	dbp:institution	dbr:Australian_National_University ;
+	dbo:institution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Richard_Butler_(diplomat)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ted_Ringwood	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Geoff_Wilson_(Australian_politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Stephen_Gageler	dbo:almaMater	dbr:Australian_National_University .
+dbr:Bruce_William_Stillman	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Bob_Howard_(academic)>	dbp:education	dbr:Australian_National_University ;
+	dbo:education	dbr:Australian_National_University .
+dbr:Yuri_Kivshar	dbp:workplaces	dbr:Australian_National_University .
+dbr:Kith_Meng	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ronald_Ekers	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Australian_National_University	rdf:type	dbo:University ,
+		dbo:EducationalInstitution .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Australian_National_University	rdf:type	yago:EducationalInstitution108276342 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Australian_National_University	rdf:type	owl:Thing ,
+		dbo:Organisation ,
+		yago:Institution108053576 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Australian_National_University	rdf:type	umbel-rc:University .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Australian_National_University	rdf:type	wikidata:Q43229 .
+@prefix schema:	<http://schema.org/> .
+dbr:Australian_National_University	rdf:type	schema:CollegeOrUniversity ,
+		schema:EducationalOrganization .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Australian_National_University	rdf:type	geo:SpatialThing ,
+		schema:Organization ,
+		wikidata:Q3918 .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Australian_National_University	rdf:type	ns12:Agent ,
+		ns12:SocialPerson ,
+		dbo:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		yago:Organization108008335 ,
+		yago:University108286569 ,
+		yago:SocialGroup107950920 ,
+		yago:NationalUniversities ,
+		yago:UniversitiesInTheAustralianCapitalTerritory ,
+		yago:Group100031264 ,
+		yago:Abstraction100002137 ,
+		umbel-rc:EducationalOrganization .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Australian_National_University	dct:subject	dbc:National_universities ,
+		<http://dbpedia.org/resource/Category:1946_establishments_in_Australia> ,
+		dbc:Universities_in_the_Australian_Capital_Territory ,
+		dbc:Educational_institutions_established_in_1946 ,
+		dbc:Australian_National_University ,
+		dbc:Buildings_and_structures_in_Canberra .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-pl:Australian_National_University .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-ko:오스트레일리아_국립_대학교 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-fr:Université_nationale_australienne ,
+		<http://www4.wiwiss.fu-berlin.de/cordis/resource/Organization/10192222> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-it:Australian_National_University ,
+		wikidata:Q127990 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-wikidata:Q127990 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	yago-res:Australian_National_University .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-es:Universidad_Nacional_Australiana ,
+		<http://rdf.freebase.com/ns/m.01pxcf> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-nl:Australian_National_University .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-de:Australian_National_University .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-id:Universitas_Nasional_Australia .
+@prefix ns25:	<http://openei.org/resources/> .
+dbr:Australian_National_University	owl:sameAs	ns25:Australian_National_University .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-pt:Universidade_Nacional_da_Austrália .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:Australian_National_University	owl:sameAs	dbpedia-ja:オーストラリア国立大学 ,
+		dbr:Australian_National_University .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Australian_National_University	rdfs:label	"Australian National University"@de ,
+		"Australian National University"@pl ,
+		"Universit\u00E9 nationale australienne"@fr ,
+		"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u7ACB\u5927\u5B66"@ja ,
+		"\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442"@ru ,
+		"Universidade Nacional da Austr\u00E1lia"@pt ,
+		"\u6FB3\u5927\u5229\u4E9E\u570B\u7ACB\u5927\u5B78"@zh ,
+		"Australian National University"@nl ,
+		"Australian National University"@it ,
+		"Universidad Nacional Australiana"@es ,
+		"Australian National University"@en ;
+	rdfs:comment	"Australian National University (Australijski Uniwersytet Narodowy, ANU) \u2013 australijska pa\u0144stwowa uczelnia z siedzib\u0105 w Canberze.Wed\u0142ug presti\u017Cowego rankingu magazynu Times Higher Education, jest jedynym australijskim uniwersytetem sytuuj\u0105cym si\u0119 w grupie 20 najlepszych na \u015Bwiecie (w zestawieniu za rok 2008 zaj\u0105\u0142 16. miejsce). Jest r\u00F3wnie\u017C jedyn\u0105 uczelni\u0105 dzia\u0142aj\u0105c\u0105 na mocy ustawy przyj\u0119tej przez australijski parlament federalny, co mia\u0142o miejsce 1 sierpnia 1946."@pl ,
+		"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u7ACB\u5927\u5B66\uFF08\u2014\u3053\u304F\u308A\u3064\u3060\u3044\u304C\u304F\u3001\u82F1\u8A9E: The Australian National University\u3001\u7565\u79F0\uFF1AANU\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u9023\u90A6\u306E\u9996\u90FD\u30AD\u30E3\u30F3\u30D9\u30E9\u306B\u4F4D\u7F6E\u3059\u308B\u3002\u56FD\u969B\u7684\u306A\u6307\u6A19\u306B\u3088\u308C\u3070\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3001\u5357\u534A\u7403\u3067\u6700\u826F\u306E\u5927\u5B66\u3067\u3042\u308A\u3001\u4E16\u754C\u3067\u3082\u6709\u6570\u306E\u8D85\u4E00\u6D41\u6821\u3068\u3057\u3066\u56FD\u5185\u5916\u306B\u8A8D\u77E5\u3055\u308C\u3066\u3044\u308B\u3002\u7279\u306B\u30EA\u30B5\u30FC\u30C1\u90E8\u9580\u304C\u5F37\u3044\u3053\u3068\u3067\u6709\u540D\u3067\u3042\u308B\u3002\"Group of Eight\" \u3084\u74B0\u592A\u5E73\u6D0B\u5927\u5B66\u5354\u4F1A(APRU)\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3082\u3042\u308B\u3002THES(Times Higher Education Supplement)\u5927\u5B66\u30E9\u30F3\u30AD\u30F3\u30B02007\u3067\u306F\u3001\u4E16\u754C\u3067\u7DCF\u540816\u4F4D\u3001\u793E\u4F1A\u79D1\u5B66\u90E8\u9580\u3067\u306F6\u4F4D\u3067\u3042\u3063\u305F\u3002\u305D\u306E\u30AD\u30E3\u30F3\u30D9\u30E9\u3068\u3044\u3046\u7ACB\u5730\u4E0A\u3001\u7279\u306B\u793E\u4F1A\u79D1\u5B66\u3084\u4EBA\u6587\u7CFB\u306B\u975E\u5E38\u306B\u5F37\u307F\u3092\u6301\u3063\u3066\u3044\u308B\u30022014\u5E74\u306EQS\u4E16\u754C\u30E9\u30F3\u30AD\u30F3\u30B0\u3067\u306F\u3001\u7DCF\u540825\u4F4D\u3001\u793E\u4F1A\u79D1\u5B66\u306F\u4E16\u754C13\u4F4D\u3001\u4EBA\u6587\u79D1\u5B6610\u4F4D\u3001\u653F\u6CBB\u30FB\u56FD\u969B\u95A2\u4FC2\u5B667\u4F4D\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"L\u2019universit\u00E9 nationale australienne (en anglais, Australian National University, acronyme, ANU) est une universit\u00E9 australienne, bas\u00E9e \u00E0 Canberra, consid\u00E9r\u00E9e comme la deuxi\u00E8me meilleure universit\u00E9 australienne, notamment gr\u00E2ce \u00E0 son excellence dans le domaine de la recherche."@fr ,
+		"De Australian National University (ANU, vertaald: Australische Nationale Universiteit) is een staatsuniversiteit in de Australische hoofdstad Canberra. De universiteit hoort tot de leidende universiteiten van het land."@nl ,
+		"La Australian National University (ANU) \u00E8 un'Universit\u00E0 con sede a Canberra, considerata il miglior istituto di istruzione superiore dell'Australia.Fu fondata il 1\u00BA agosto 1946 con atto del Parlamento federale, con l'obiettivo di dirigere e promuovere la ricerca scientifica in Australia.Attualmente (2009) conta 3.600 insegnanti e circa 12.500 studenti.Nella Classifica delle migliori Universit\u00E0 del 2008 \u00E8 al 59\u00BA posto nel mondo."@it ,
+		"La Universidad Nacional Australiana, en ingl\u00E9s: The Australian National University (ANU), es una Universidad localizada en el suburbio de Acton en Canberra, la capital federal de Australia. Varios \u00EDndices diferentes e independientes nos indican que la ANU es la universidad l\u00EDder de Australia y del hemisferio sur."@es ,
+		"Die Australian National University (ANU; deutsch Australische Nationaluniversit\u00E4t) ist eine staatliche Universit\u00E4t in der australischen Hauptstadt Canberra. Sie geh\u00F6rt zu den f\u00FChrenden Universit\u00E4ten des Landes und wurde von The Times Higher Education Supplement 2007 auf Platz 16 der 200 weltbesten Universit\u00E4ten platziert."@de ,
+		"\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0301\u0439\u0441\u043A\u0438\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 (\u0430\u043D\u0433\u043B. The Australian National University, ANU) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u041A\u0430\u043D\u0431\u0435\u0440\u0440\u0435 (\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u0421\u043E\u0437\u0434\u0430\u043D 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1946 \u0433\u043E\u0434\u0430. \u0412\u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u043D\u0430 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0439 \u0440\u0430\u0431\u043E\u0442\u0435."@ru ,
+		"The Australian National University (ANU) is a public university in Canberra, Australian Capital Territory. Located in the suburb of Acton, the main campus encompasses seven teaching and research colleges, in addition to several national institutes.Founded in 1946, it is the only university to have been created by the Parliament of Australia."@en ,
+		"A Universidade Nacional da Austr\u00E1lia (em ingl\u00EAs: Australian National University, ANU) \u00E9 uma universidade p\u00FAblica localizada em Camberra, Austr\u00E1lia. Ela foi fundada em 1 de agosto de 1946 como uma universidade de pesquisa e p\u00F3s-gradua\u00E7\u00E3o. Em 1960, cursos para alunos de gradua\u00E7\u00E3o foram acrescentados \u00E0 ANU, quando esta se fundiu ao Canberra University College. A universidade \u00E9 gerida por um conselho de 15 membros."@pt ;
+	foaf:name	"The Australian National University"@en ;
+	foaf:homepage	<http://www.anu.edu.au/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Australian_National_University	geo:lat	"-35.277801513671875"^^xsd:float ;
+	geo:long	"149.1204986572265625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Homopolar_anu-MJC.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Australian_National_University .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Australian_National_University	geo:geometry	"POINT(149.12049865723 -35.277801513672)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Australian_National_University	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Australian_National_University?oldid=683737161> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Australian_National_University	georss:point	"-35.2778 149.1205" ;
+	dbp:affiliations	<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Association_of_Pacific_Rim_Universities ,
+		dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		dbr:International_Alliance_of_Research_Universities ,
+		dbr:Association_of_Universities_for_Research_in_Astronomy ;
+	dbp:imageName	"Australian National University crest.png"@en ;
+	dbp:established	1946 ;
+	dbo:affiliation	dbr:Association_of_Pacific_Rim_Universities ,
+		dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Association_of_Universities_for_Research_in_Astronomy ,
+		dbr:International_Alliance_of_Research_Universities ;
+	dbp:chancellor	"The Hon Gareth Evans"@en ;
+	dbp:endowment	"A$1.13 billion"@en ;
+	dbp:postgrad	10840 ;
+	dbp:undergrad	10052 ;
+	dbp:arwuW	74 ;
+	dbp:qsW	19 ;
+	dbp:staff	3753 ;
+	dbp:thesW	45 ;
+	dbp:viceChancellor	"Ian Young"@en ;
+	dbp:state	dbr:Australian_Capital_Territory ;
+	dbp:website	<http://www.anu.edu.au/> ;
+	dbo:country	dbr:Australia ;
+	dbp:city	<http://dbpedia.org/resource/Acton,_Australian_Capital_Territory> ;
+	dbp:country	dbr:Australia ;
+	dbo:city	<http://dbpedia.org/resource/Acton,_Australian_Capital_Territory> ;
+	dbo:state	dbr:Australian_Capital_Territory ;
+	dbp:type	dbr:Public_university ;
+	dbo:chancellor	dbr:The_Honourable .
+@prefix ns33:	<http://dbpedia.org/datatype/> .
+dbr:Australian_National_University	dbo:endowment	"1.13E9"^^ns33:usDollar ;
+	dbo:numberOfPostgraduateStudents	"10840"^^xsd:nonNegativeInteger ;
+	dbo:numberOfUndergraduateStudents	"10052"^^xsd:nonNegativeInteger ;
+	dbo:staff	"3753"^^xsd:nonNegativeInteger ;
+	dbp:uniname	"Australian National University"@en ;
+	dbp:arwuAus	2 ;
+	dbp:leidenAus	1 ;
+	dbp:qsAus	1 ;
+	dbp:qsWArts	12 ;
+	dbp:qsWLife	93 ;
+	dbp:qsWNatural	20 ;
+	dbp:qsWSocial	18 ;
+	dbp:thesAus	2 ;
+	dbp:thesWArts	16 ;
+	dbo:wikiPageID	285106 ;
+	dbo:wikiPageRevisionID	683737161 ;
+	dbo:wikiPageExternalLink	<http://www.anu.edu.au/> ,
+		<http://parsa.anu.edu.au/> .
+@prefix ns34:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Australian_National_University	dbp:wordnet_type	ns34:synset-university-noun-2 ;
+	dbp:caption	"Coat of arms of ANU"@en ;
+	dbp:name	"The Australian National University"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Homopolar_anu-MJC.jpg?width=300> ;
+	dbo:abstract	"\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u56FD\u7ACB\u5927\u5B66\uFF08\u2014\u3053\u304F\u308A\u3064\u3060\u3044\u304C\u304F\u3001\u82F1\u8A9E: The Australian National University\u3001\u7565\u79F0\uFF1AANU\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u9023\u90A6\u306E\u9996\u90FD\u30AD\u30E3\u30F3\u30D9\u30E9\u306B\u4F4D\u7F6E\u3059\u308B\u3002\u56FD\u969B\u7684\u306A\u6307\u6A19\u306B\u3088\u308C\u3070\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3001\u5357\u534A\u7403\u3067\u6700\u826F\u306E\u5927\u5B66\u3067\u3042\u308A\u3001\u4E16\u754C\u3067\u3082\u6709\u6570\u306E\u8D85\u4E00\u6D41\u6821\u3068\u3057\u3066\u56FD\u5185\u5916\u306B\u8A8D\u77E5\u3055\u308C\u3066\u3044\u308B\u3002\u7279\u306B\u30EA\u30B5\u30FC\u30C1\u90E8\u9580\u304C\u5F37\u3044\u3053\u3068\u3067\u6709\u540D\u3067\u3042\u308B\u3002\"Group of Eight\" \u3084\u74B0\u592A\u5E73\u6D0B\u5927\u5B66\u5354\u4F1A(APRU)\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3082\u3042\u308B\u3002THES(Times Higher Education Supplement)\u5927\u5B66\u30E9\u30F3\u30AD\u30F3\u30B02007\u3067\u306F\u3001\u4E16\u754C\u3067\u7DCF\u540816\u4F4D\u3001\u793E\u4F1A\u79D1\u5B66\u90E8\u9580\u3067\u306F6\u4F4D\u3067\u3042\u3063\u305F\u3002\u305D\u306E\u30AD\u30E3\u30F3\u30D9\u30E9\u3068\u3044\u3046\u7ACB\u5730\u4E0A\u3001\u7279\u306B\u793E\u4F1A\u79D1\u5B66\u3084\u4EBA\u6587\u7CFB\u306B\u975E\u5E38\u306B\u5F37\u307F\u3092\u6301\u3063\u3066\u3044\u308B\u30022014\u5E74\u306EQS\u4E16\u754C\u30E9\u30F3\u30AD\u30F3\u30B0\u3067\u306F\u3001\u7DCF\u540825\u4F4D\u3001\u793E\u4F1A\u79D1\u5B66\u306F\u4E16\u754C13\u4F4D\u3001\u4EBA\u6587\u79D1\u5B6610\u4F4D\u3001\u653F\u6CBB\u30FB\u56FD\u969B\u95A2\u4FC2\u5B667\u4F4D\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"A Universidade Nacional da Austr\u00E1lia (em ingl\u00EAs: Australian National University, ANU) \u00E9 uma universidade p\u00FAblica localizada em Camberra, Austr\u00E1lia. Ela foi fundada em 1 de agosto de 1946 como uma universidade de pesquisa e p\u00F3s-gradua\u00E7\u00E3o. Em 1960, cursos para alunos de gradua\u00E7\u00E3o foram acrescentados \u00E0 ANU, quando esta se fundiu ao Canberra University College. A universidade \u00E9 gerida por um conselho de 15 membros."@pt ,
+		"De Australian National University (ANU, vertaald: Australische Nationale Universiteit) is een staatsuniversiteit in de Australische hoofdstad Canberra. De universiteit hoort tot de leidende universiteiten van het land."@nl ,
+		"\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0301\u0439\u0441\u043A\u0438\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 (\u0430\u043D\u0433\u043B. The Australian National University, ANU) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u041A\u0430\u043D\u0431\u0435\u0440\u0440\u0435 (\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u0421\u043E\u0437\u0434\u0430\u043D 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1946 \u0433\u043E\u0434\u0430. \u0412\u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u043D\u0430 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0439 \u0440\u0430\u0431\u043E\u0442\u0435. \u0412 1960 \u0433\u043E\u0434\u0443 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0438\u043B\u0441\u044F \u0441 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u043A\u0438\u043C \u043A\u043E\u043B\u043B\u0435\u0434\u0436\u0435\u043C \u041A\u0430\u043D\u0431\u0435\u0440\u0440\u044B \u0438 \u0441\u0442\u0430\u043B \u043F\u0440\u0435\u0434\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0442\u044C \u0442\u0430\u043A\u0436\u0435 \u0438 \u0432\u044B\u0441\u0448\u0435\u0435 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435.\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u043E\u043D \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u00AB\u0413\u0440\u0443\u043F\u043F\u0443 \u0432\u043E\u0441\u044C\u043C\u0438\u00BB, \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435 \u0432\u043E\u0441\u044C\u043C\u0438 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438. \u0412 2006 \u0433\u043E\u0434\u0443 \u0431\u044B\u043B \u043D\u0430\u0437\u0432\u0430\u043D \u043B\u0443\u0447\u0448\u0438\u043C \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u043C \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u043C. \u041F\u0440\u0438 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0448\u043A\u043E\u043B\u0430 \u0430\u0441\u0442\u0440\u043E\u043D\u043E\u043C\u0438\u0438 \u0438 \u0430\u0441\u0442\u0440\u043E\u0444\u0438\u0437\u0438\u043A\u0438 \u043D\u0430 \u0431\u0430\u0437\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u043E\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043E\u0440\u0438\u044F \u0421\u0430\u0439\u0434\u0438\u043D\u0433-\u0421\u043F\u0440\u0438\u043D\u0433 \u2014 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0430\u044F \u043E\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043E\u0440\u0438\u044F \u043D\u0430 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u043C \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0435."@ru ,
+		"L\u2019universit\u00E9 nationale australienne (en anglais, Australian National University, acronyme, ANU) est une universit\u00E9 australienne, bas\u00E9e \u00E0 Canberra, consid\u00E9r\u00E9e comme la deuxi\u00E8me meilleure universit\u00E9 australienne, notamment gr\u00E2ce \u00E0 son excellence dans le domaine de la recherche. Elle fut cr\u00E9\u00E9e par un vote du Parlement f\u00E9d\u00E9ral le 1er ao\u00FBt 1946 avec l'objectif affich\u00E9 de diriger et de promouvoir la recherche en Australie.L'Universit\u00E9 est membre de plusieurs associations universitaires notamment le groupe des huit \u2014 Group of Eight (Australian Universities) (le \u00AB groupe des Huit qui regroupe les 8 plus importantes universit\u00E9s australiennes \u00BB) \u2014, l\u2019Association of Pacific Rim Universities (association regroupant 32 universit\u00E9s du pourtour du Pacifique), l\u2019Association of Universities for Research in Astronomy (qui regroupe les principales universit\u00E9s scientifiques am\u00E9ricaines int\u00E9ress\u00E9es par l'astronomie et quelques universit\u00E9s associ\u00E9es) et l\u2019International Alliance of Research Universities qui regroupe une dizaine d'universit\u00E9s de par le monde. L'universit\u00E9 est constamment bien class\u00E9e dans plusieurs enqu\u00EAtes internationales notamment le Newsweek Top 100 et l\u2019Annual Times Higher Education Supplement. Son \u00E9quipe d'enseignants et ses anciens \u00E9l\u00E8ves comptent cinq laur\u00E9ats du prix Nobel parmi eux. L'universit\u00E9 est dirig\u00E9e par un conseil de 15 membres."@fr ,
+		"La Australian National University (ANU) \u00E8 un'Universit\u00E0 con sede a Canberra, considerata il miglior istituto di istruzione superiore dell'Australia.Fu fondata il 1\u00BA agosto 1946 con atto del Parlamento federale, con l'obiettivo di dirigere e promuovere la ricerca scientifica in Australia.Attualmente (2009) conta 3.600 insegnanti e circa 12.500 studenti.Nella Classifica delle migliori Universit\u00E0 del 2008 \u00E8 al 59\u00BA posto nel mondo. Secondo il QS World University Rankings l'Australian National University \u00E8 costantemente tra le prime venti universit\u00E0 pi\u00F9 importanti al mondo, classificandosi al 20\u00BA posto nel 2010 una posizione dopo la McGill University e una posizione sopra il King's College London.L' Australian National University \u00E8 una delle sole dieci universit\u00E0 al mondo a fare parte della prestigiosa International Alliance of Research Universities."@it ,
+		"Australian National University (Australijski Uniwersytet Narodowy, ANU) \u2013 australijska pa\u0144stwowa uczelnia z siedzib\u0105 w Canberze.Wed\u0142ug presti\u017Cowego rankingu magazynu Times Higher Education, jest jedynym australijskim uniwersytetem sytuuj\u0105cym si\u0119 w grupie 20 najlepszych na \u015Bwiecie (w zestawieniu za rok 2008 zaj\u0105\u0142 16. miejsce). Jest r\u00F3wnie\u017C jedyn\u0105 uczelni\u0105 dzia\u0142aj\u0105c\u0105 na mocy ustawy przyj\u0119tej przez australijski parlament federalny, co mia\u0142o miejsce 1 sierpnia 1946. Powo\u0142anie go do \u017Cycia by\u0142o cz\u0119\u015Bci\u0105 pakietu reform wprowadzonych tu\u017C po II wojnie \u015Bwiatowej przez rz\u0105d Bena Chifleya w ramach powojennej \u201Eodbudowy\u201D (co nale\u017Cy rozumie\u0107 raczej jako przestawianie pa\u0144stwa i spo\u0142ecze\u0144stwa z powrotem na warunki pokoju \u2013 fizyczne zniszczenia by\u0142y w Australii relatywnie bardzo niewielkie)."@pl ,
+		"Die Australian National University (ANU; deutsch Australische Nationaluniversit\u00E4t) ist eine staatliche Universit\u00E4t in der australischen Hauptstadt Canberra. Sie geh\u00F6rt zu den f\u00FChrenden Universit\u00E4ten des Landes und wurde von The Times Higher Education Supplement 2007 auf Platz 16 der 200 weltbesten Universit\u00E4ten platziert. Zudem geh\u00F6rt sie zur Group of Eight, dem Hochschulnetzwerk der f\u00FChrenden australischen Universit\u00E4ten.Die Universit\u00E4t ist in der Forschung f\u00FChrend und geh\u00F6rt dem Hochschulverbund International Alliance of Research Universities an. Das 1,4 km\u00B2 gro\u00DFe Campusgel\u00E4nde befindet sich im Stadtteil Acton, westlich des Stadtzentrums. Au\u00DFenstellen befinden sich in Kioloa (an der K\u00FCste in New South Wales) und in Darwin (im Northern Territory). Die ANU besitzt dar\u00FCber hinaus zwei Observatorien, das Mount-Stromlo-Observatorium bei Canberra und das Siding-Spring-Observatorium bei Coonabarabran in New South Wales. Im Jahr 2010 z\u00E4hlte die ANU  13.440 Studenten, mit ungef\u00E4hr 4.752 Studenten im Aufbaustudium; der Lehrk\u00F6rper umfasste 3.681 wissenschaftliche Mitarbeiter."@de ,
+		"The Australian National University (ANU) is a public university in Canberra, Australian Capital Territory. Located in the suburb of Acton, the main campus encompasses seven teaching and research colleges, in addition to several national institutes.Founded in 1946, it is the only university to have been created by the Parliament of Australia. Originally a postgraduate research university, ANU commenced undergraduate teaching in 1960 when it integrated the Canberra University College, which had been established in 1929 as a campus of the University of Melbourne. ANU enrols 10,052 undergraduate and 10,840 postgraduate students and employs 3,753 staff. The university's endowment stood at A$1.13 billion in 2012.ANU is consistently ranked among the world's top universities. ANU is ranked co-equal 19th in the world (first in Australia) with King's College London by the 2015/16 QS World University Rankings, and 45th in the world (second in Australia) by the 2014/15 Times Higher Education World University Rankings. In the 2014 Times Higher Education Global Employability University Ranking, an annual ranking of university graduates' employability, ANU was ranked 20th in the world (first in Australia). ANU is ranked 179th (6th best in Australia) in the 2015 Center for World University Rankings  and 89th (first in Australia) in the 2015 Leiden ranking. ANU ranks 151st (7th in Australia)in the URAP ranking. ANU is ranked first in the 4 Palmes category in the Eduniversal ranking. ANU is positioned in the Top 10% in teaching, Top 10% in international outlook and Top 10% in research in the world in 2016.ANU counts six Nobel laureates among its faculty and alumni. Students entering ANU in 2013 had a median Australian Tertiary Admission Rank of 93, the equal-highest among Australian universities. ANU was named the world's 7th most international university in a 2014 study by Times Higher Education."@en ,
+		"La Universidad Nacional Australiana, en ingl\u00E9s: The Australian National University (ANU), es una Universidad localizada en el suburbio de Acton en Canberra, la capital federal de Australia. Varios \u00EDndices diferentes e independientes nos indican que la ANU es la universidad l\u00EDder de Australia y del hemisferio sur. Por ejemplo, el \"Times Higher Education Supplement\" (THES) sit\u00FAa a la ANU en el puesto 16 con respecto a las 200 Universidades con mejores par\u00E1metros en la encuesta del a\u00F1o 2006, y en los puestos 23 y 16 correspondientes a las encuestas de los a\u00F1os 2005 y 2004, respectivamente. A\u00FAn m\u00E1s, Newsweek ha situado a la Australian National University como la universidad n\u00FAmero 38 en su clasificaci\u00F3n de las 100 Universidades punteras a nivel global del 2006. Estos niveles alcanzados en el a\u00F1o 2006, basados en resultados acad\u00E9micos y de investigaci\u00F3n, son los mejores alcanzados nunca por cualquier universidad australiana.Los programas de \"artes y humanidades\" as\u00ED como el de ciencias sociales de la ANU est\u00E1n considerados entre los mejores de la regi\u00F3n. En particular, los departamentos de antropolog\u00EDa, ciencias pol\u00EDticas y relaciones internacionales, los cuales cuentan con gran n\u00FAmero de especialistas regionales e internacionales. Al punto que para el a\u00F1o 2011, la encuesta del THES, ubicaba el \u00E1rea de artes y humanidades en el 4.\u00BA puesto, y las disciplinas agrupadas bajo las ciencias sociales en la ANU en el puesto 18 a nivel global.En la ANU se ha creado recientemente el Australian National Centre for Latin American Studies. El segundo centro de interdisciplinario de estudios latinoamericanos en Australia de cierta relevancia, despu\u00E9s del Institute of Latina American Studies (ILAS) de La Trobe University en la ciudad sure\u00F1a de Melbourne.[1][2][3][4]La ANU tiene un nivel especialmente alto en investigaci\u00F3n y es uno de los miembros del Grupo de las Ocho, de la Association of Pacific Rim Universities y del exclusivo grupo de la International Alliance of Research Universities.Entre los afamados acad\u00E9micos que han formado parte de la ANU, est\u00E1n Sir Howard Florey, quien recibi\u00F3 el Premio Nobel en 1945 por sus investigaciones en la producci\u00F3n y aplicaciones de la penicilina, y John Eccles, quien recibi\u00F3 el Premio Nobel de Medicina en 1963 por sus investigaciones y estudios en el sistema nervioso central en mam\u00EDferos."@es ;
+	dbp:logo	225 ;
+	dbp:motto	"Naturam Primum Cognoscere Rerum"@en ,
+		"(First to learn the nature of things)"@en ;
+	dbo:motto	"(First to learn the nature of things)" ,
+		"Naturam Primum Cognoscere Rerum (Latin)" ;
+	dbo:type	dbr:Public_university ;
+	dbp:campus	"Urban,"@en ;
+	dbp:qsWEng	49 .
+dbr:ANU_Medical_School	dbp:affiliations	dbr:Australian_National_University ;
+	dbo:affiliation	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Angus_Macdonald_(diplomat)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ping_Koy_Lam	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Warrick_Couch	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Martin_Banwell	dbp:workInstitution	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Richard_Hartley_(scientist)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Canberra_Innovation_Network	dbp:membership	dbr:Australian_National_University .
+dbr:Siding_Spring_Survey	dbp:organization	dbr:Australian_National_University .
+dbr:Australian_National_University_Classics_Museum	dbp:owner	dbr:Australian_National_University .
+dbr:Michael_Wesley	dbp:workInstitutions	dbr:Australian_National_University .
+dbr:Ken_Inglis	dbp:workplaces	dbr:Australian_National_University .
+dbr:Goulburn_Base_Hospital	dbp:affiliation	dbr:Australian_National_University .
+dbr:Norm_Jensen	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Terry_Connolly	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Garth_Paltridge	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Richard_P._Brent>	dbp:workplaces	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Trevor_S._Breusch>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Christine_Gallus	dbo:almaMater	dbr:Australian_National_University .
+dbr:Susan_Ryan	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Alison_Mears	dbp:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Peter_White_(Australian_politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Tony_Whitlam	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Ken_Fry	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Iain_M._Johnstone>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Don_Brash	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/David_Stuart_(diplomat)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/George_Williams_(lawyer)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Patricia_Scott_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Roberta_McRae	dbo:almaMater	dbr:Australian_National_University .
+dbr:Abass_Bundu	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Simon_Overland	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Douglas_Sturkey	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:ANUGA_Hydro	dbo:developer	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Tom_Campbell_(philosopher)>	dbp:workplaces	dbr:Australian_National_University .
+dbr:Alex_Somlyay	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Rex_Patterson	dbo:almaMater	dbr:Australian_National_University .
+dbr:Russel_Ward	dbp:almaMater	dbr:Australian_National_University .
+dbr:Ian_Chubb	dbp:workplaces	dbr:Australian_National_University .
+dbr:Caroline_Le_Couteur	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Geoffrey_Bolton	dbp:workplaces	dbr:Australian_National_University .
+dbr:Gavan_McCormack	dbp:workplaces	dbr:Australian_National_University .
+dbr:Michael_Flood	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Iain_McCalman	dbp:workplaces	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University .
+dbr:Harvey_Raymond_Butcher	dbp:workInstitution	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Peter_Gavin_Hall	dbp:workplace	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Jon_Stanhope	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Martin_Indyk	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Denis_Evans	dbp:workInstitution	dbr:Australian_National_University .
+dbr:James_Popple	dbo:education	dbr:Australian_National_University ;
+	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Barry_O\u0027Farrell>	dbp:education	dbr:Australian_National_University .
+dbr:Harry_Jenkins	dbo:almaMater	dbr:Australian_National_University .
+dbr:Rod_Sims	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Frank_Fenner	dbp:employer	dbr:Australian_National_University ;
+	dbo:employer	dbr:Australian_National_University .
+dbr:José_Wendell_Capili	dbo:education	dbr:Australian_National_University .
+dbr:Annastacia_Palaszczuk	dbo:almaMater	dbr:Australian_National_University .
+dbr:Betty_Churcher	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Catherine_Holmes	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Yvette_D\u0027Ath>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Jim_Chalmers_(Queensland_politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Hank_Nelson	dbp:workplaces	dbr:Australian_National_University .
+dbr:Gerald_Kron	dbp:workInstitutions	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Warwick_Smith_(politician)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Graham_Evans_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Elizabeth_Dennis	dbp:workInstitutions	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Anu_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Australian_National_University .
+dbr:Ted_Hicks	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+<http://dbpedia.org/resource/John_Taylor_(public_servant)>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Pat_Lanigan	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Burton_and_Garran_Hall	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:ANU_College	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:ANU_E-Press	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:ANU_E_Press	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:ANU_Enterprise	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:ANU_Enterprise_Pty_Ltd	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Australia_National_University	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Australian_National_University_Choral_Society	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Australian_National_University_Press	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Australian_University	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Canberra_School_of_Art	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Fenner_Hall	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:John_XXIII_College_ANU	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:John_XXIII_College_at_the_ANU	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:National_Australian_University	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Phoenix_Prize	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Phoenix_Prize_for_spiritual_art	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:The_Australian_National_University	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:The_Australian_University	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:University_of_Australia	dbo:wikiPageRedirects	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Burton_&_Garran_Hall>	dbo:wikiPageRedirects	dbr:Australian_National_University .
+<http://dbpedia.org/resource/John_XXIII_College_(ANU)>	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:Australian_Forestry_School	dbo:wikiPageRedirects	dbr:Australian_National_University .
+dbr:National_University	dbo:wikiPageDisambiguates	dbr:Australian_National_University .
+dbr:Australian_National	dbo:wikiPageDisambiguates	dbr:Australian_National_University .
+dbr:John_XXIII_College	dbo:wikiPageDisambiguates	dbr:Australian_National_University .
+dbr:Graham_Hilford_Pollard	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Australian_National_University_FC	dbo:owner	dbr:Australian_National_University .
+dbr:Nick_Minchin	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Danie_Mellor	dbo:training	dbr:Australian_National_University ;
+	dbp:training	dbr:Australian_National_University .
+<http://dbpedia.org/resource/Ross_H._McKenzie>	dbp:almaMater	dbr:Australian_National_University ;
+	dbo:almaMater	dbr:Australian_National_University .
+dbr:Uppsala_Southern_Schmidt_Telescope	dbp:organization	dbr:Australian_National_University .

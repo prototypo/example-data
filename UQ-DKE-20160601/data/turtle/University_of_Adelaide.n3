@@ -1,0 +1,517 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Julia_Gillard	dbp:education	dbr:University_of_Adelaide .
+dbr:Martin_Parkinson	dbp:almaMater	dbr:University_of_Adelaide .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Martin_Parkinson	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Reg_Sprigg	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+dbr:Ernie_Tuck	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbp:workInstitution	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Hieu_Van_Le	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Archie_Barton	dbo:award	dbr:University_of_Adelaide .
+dbr:Wayne_Matthew	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Julie_Bishop	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Menadue	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Roger_Goldsworthy_(politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Alison_Dolling	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Malcolm_Blue	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Banksia_\u0027Waite_Orange\u0027>	dbp:origin	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Banksia_\u0027Waite_Crimson\u0027>	dbp:origin	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Banksia_\u0027Waite_Flame\u0027>	dbp:origin	dbr:University_of_Adelaide .
+dbr:Sam_Duluk	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Waite	dbo:wikiPageDisambiguates	dbr:University_of_Adelaide .
+dbr:Clarrie_Harders	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Sonja_Boehmer-Christiansen	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Lawrence_A._Mysak>	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_M._Last>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:ENDIA	dbp:data	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Herbert_S._Green>	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Basil_Briggs	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Penny_Wong	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Robert_M._Carter>	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Moya_Dodd	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Beatrice_Shellukindo	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Mike_Codd	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Rachael_Dunlop	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Pat_Galvin_(public_servant)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Ed_Byrne_(academic)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Neville_Stevens	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Kyam_Maher	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Tareq_Kamleh	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Subramaniam_Mohanadas	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Clive_Ward	dbp:workInstitutions	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Michael_Moore_(Australian_politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Jane_Francis	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Adenan_Satem	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Abdul_Taib_Mahmud	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Son_Chhay	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Bill_Gammage	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Mark_Butler	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Sweller	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Frederic_Wood_Jones	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Leon_Simon	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:UoA	dbo:wikiPageDisambiguates	dbr:University_of_Adelaide .
+dbr:Derek_Abbott	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Paul_Davies	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Ronald_Fisher	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Hazel_Rowley	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Basil_Hetzel	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Mark_D._McDonnell>	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Tony_Tan	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Ong_Teng_Cheong	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Chee_Hong_Tat	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/S._Iswaran>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Raymond_Lim	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Seet_Ai_Mee	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Adelaide_University	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Adelaide_Uni	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:The_University_of_Adelaide	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Adelaide_Business_School	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Adelaide_Graduate_School_of_Business	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Adelaide_creative_writing_course	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Robinson_Institute_University_of_Adelaide	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:The_University_Of_Adelaide	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Waite_Agricultural_Research_Institute	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Waite_Campus	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Waite_Institute	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Waite_Precinct	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Waite_Research_Institute	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:Roseworthy_Campus	dbo:wikiPageRedirects	dbr:University_of_Adelaide .
+dbr:List_of_public_art_in_South_Australia	dbp:location	dbr:University_of_Adelaide .
+dbr:Bill_Denny	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:University_of_Adelaide	foaf:primaryTopic	dbr:University_of_Adelaide .
+dbr:Renfrey_Potts	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbp:workInstitution	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Ian_Wilson_(politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:George_Szekeres	dbp:workInstitution	dbr:University_of_Adelaide .
+dbr:Trevor_Griffin	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Brian_Ross_Martin	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Nick_Bolkus	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/James_Crawford_(jurist)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Mark_Oliphant	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:William_Lawrence_Bragg	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Janet_Albrechtsen	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Amanda_Vanstone	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Moten	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Belinda_Heggen	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+dbr:Shaun_Micallef	dbp:education	dbr:University_of_Adelaide .
+dbr:Amanda_Rishworth	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Christopher_Pyne	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Joan_Beaumont	dbp:almaMater	dbr:University_of_Adelaide .
+dbr:Margaret_Quirk	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Pru_Goward	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Alison_Broinowski	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Beth_Shimmin	dbp:university	dbr:University_of_Adelaide ;
+	dbo:university	dbr:University_of_Adelaide .
+dbr:Jonathan_LaPaglia	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Peter_Colman	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Andrew_Southcott	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Quiggin	dbp:institution	dbr:University_of_Adelaide ;
+	dbo:institution	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Anne_McEwen_(politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Peter_Brideoake	dbp:almaMater	dbr:University_of_Adelaide .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:University_of_Adelaide	rdf:type	yago:EducationalInstitutionsEstablishedIn1874 ,
+		yago:UniversitiesInSouthAustralia .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:University_of_Adelaide	rdf:type	umbel-rc:University ,
+		yago:Organization108008335 ,
+		yago:YagoLegalActor ,
+		dbo:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:EducationalInstitution108276342 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:University_of_Adelaide	rdf:type	wikidata:Q43229 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:University_of_Adelaide	rdf:type	geo:SpatialThing .
+@prefix schema:	<http://schema.org/> .
+dbr:University_of_Adelaide	rdf:type	schema:EducationalOrganization ,
+		schema:CollegeOrUniversity ,
+		wikidata:Q3918 ,
+		schema:Organization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:University_of_Adelaide	rdf:type	owl:Thing ,
+		umbel-rc:Organization ,
+		dbo:Organisation ,
+		umbel-rc:EducationalOrganization ,
+		yago:Institution108053576 ,
+		yago:University108286569 ,
+		dbo:EducationalInstitution ,
+		dbo:University .
+@prefix ns12:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:University_of_Adelaide	rdf:type	ns12:SocialPerson ,
+		ns12:Agent .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:University_of_Adelaide	dct:subject	dbc:Universities_in_South_Australia ,
+		dbc:University_of_Adelaide ,
+		<http://dbpedia.org/resource/Category:1874_establishments_in_Australia> ,
+		dbc:Universities_in_Australia ,
+		dbc:Australian_vocational_education_and_training_providers ,
+		dbc:Educational_institutions_established_in_1874 ;
+	owl:sameAs	dbr:University_of_Adelaide ,
+		<http://fr.dbpedia.org/resource/Universit\u00E9_d\u0027Ad\u00E9la\u00EFde> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-pt:Universidade_de_Adelaide .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-de:University_of_Adelaide .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-ja:アデレード大学 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-wikidata:Q15574 .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-id:Universitas_Adelaide ,
+		<http://rdf.freebase.com/ns/m.01dbns> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-it:Università_di_Adelaide ,
+		<http://www4.wiwiss.fu-berlin.de/cordis/resource/Organization/9448528> ,
+		wikidata:Q15574 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	yago-res:University_of_Adelaide ,
+		<http://sws.geonames.org/8177535/> .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-nl:Universiteit_van_Adelaide .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-ko:애들레이드_대학교 .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-pl:University_of_Adelaide .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:University_of_Adelaide	owl:sameAs	dbpedia-es:Universidad_de_Adelaida .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:University_of_Adelaide	rdfs:label	"University of Adelaide"@pl ,
+		"University of Adelaide"@de ,
+		"Universit\u00E0 di Adelaide"@it ,
+		"Universidade de Adelaide"@pt ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u5927\u5B66"@ja ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0623\u062F\u064A\u0644\u064A\u062F"@ar ,
+		"University of Adelaide"@en ,
+		"Universiteit van Adelaide"@nl ,
+		"Universidad de Adelaida"@es ,
+		"\u963F\u5FB7\u83B1\u5FB7\u5927\u5B66"@zh ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u044B"@ru ,
+		"Universit\u00E9 d'Ad\u00E9la\u00EFde"@fr ;
+	rdfs:comment	"L'Universit\u00E0 di Adelaide o University of Adelaide \u00E8 un'universit\u00E0 pubblica australiana di Adelaide."@it ,
+		"De Universiteit van Adelaide is een openbare universiteit in de Australische stad Adelaide. De universiteit is opgericht in 1874 en is daarmee de op twee na oudste universiteit in Australi\u00EB.De universiteit heeft 5 campussen verspreid over de staat Zuid-Australi\u00EB. De belangrijkste ervan is gevestigd in het centrum van Adelaide."@nl ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u5927\u5B66 \uFF08\u30A2\u30C7\u30EC\u30FC\u30C9\u3060\u3044\u304C\u304F\u3001\u82F1\u8A9E: The University of Adelaide\uFF09\u306F\u30011874\u5E74\u306B\u5275\u8A2D\u3055\u308C\u305F\u5357\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5DDE\u30A2\u30C7\u30EC\u30FC\u30C9\u306B\u672C\u90E8\u3092\u7F6E\u304F\u516C\u7ACB\u5927\u5B66\u3067\u3042\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5927\u5B66\u3068\u3057\u3066\u306F\u30B7\u30C9\u30CB\u30FC\u5927\u5B66\u3001\u30E1\u30EB\u30DC\u30EB\u30F3\u5927\u5B66\u306B\u6B21\u3044\u3067\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5168\u571F\u30673\u756A\u76EE\u306B\u53E4\u304F\u3001\u3053\u308C\u307E\u3067\u306B5\u4EBA\u306E\u30CE\u30FC\u30D9\u30EB\u8CDE\u53D7\u8CDE\u8005\u3092\u8F29\u51FA\u3057\u3066\u304A\u308A\u3001\u305D\u306E\u9577\u3044\u6B74\u53F2\u3068\u7814\u7A76\u5B9F\u7E3E\u304B\u3089\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u7248\u30A2\u30A4\u30D3\u30FC\u30FB\u30EA\u30FC\u30B0\u3068\u547C\u3070\u308C\u308BGroup of Eight\u306E\u4E00\u54E1\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0623\u062F\u064A\u0644\u064A\u062F (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of Adelaide) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u0645\u0642\u0631\u0647\u0627 \u0623\u062F\u064A\u0644\u064A\u062F \u0628\u0648\u0644\u0627\u064A\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629. \u062A\u0623\u0633\u0633\u062A \u0633\u0646\u0629 1874\u060C \u0648\u0647\u064A \u0628\u0630\u0644\u0643 \u062B\u0627\u0644\u062B\u0629 \u0623\u0642\u062F\u0645 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627."@ar ,
+		"Die University of Adelaide / Universit\u00E4t Adelaide (kurz: Adelaide) ist eine Universit\u00E4t in der australischen Stadt Adelaide (South Australia)."@de ,
+		"L'universit\u00E9 d'Ad\u00E9la\u00EFde (en anglais : The University of Adelaide) est une universit\u00E9 publique situ\u00E9e dans la ville d'Ad\u00E9la\u00EFde en Australie-M\u00E9ridionale. Cr\u00E9\u00E9e en 1874, l'universit\u00E9 est la troisi\u00E8me plus ancienne universit\u00E9 d'Australie."@fr ,
+		"University of Adelaide \u2013 australijska pa\u0144stwowa uczelnia wy\u017Csza z siedzib\u0105 w Adelaide i kampusami w Roseworthy i Singapurze. Powsta\u0142 w 1874 jako trzeci uniwersytet na kontynencie australijskim. Jego dewiz\u0105 s\u0105 \u0142aci\u0144skie s\u0142owa Sub Cruce Lumen, czyli \"pod \u015Bwiat\u0142em krzy\u017Ca\". Uczelnia zatrudnia ponad 1100 nauczycieli akademickich i kszta\u0142ci ponad 18 tysi\u0119cy student\u00F3w, z czego ok. 2/3 stanowi\u0105 s\u0142uchacze studi\u00F3w licencjackich, a pozosta\u0142\u0105 cz\u0119\u015B\u0107 magistranci i doktoranci."@pl ,
+		"The University of Adelaide (colloquially Adelaide University or Adelaide Uni) is a public university in Adelaide, South Australia. Established in 1874, it is the third oldest university in Australia. It is consistently ranked in the top 1% of universities worldwide."@en ,
+		"A Universidade de Adelaide (em ingl\u00EAs: University of Adelaide) \u00E9 uma institui\u00E7\u00E3o de ensino superior australiana fundada em 1874. \u00C9 a terceira mais antiga universidade da Austr\u00E1lia."@pt ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u0410\u0434\u0435\u043B\u0430\u0438\u0301\u0434\u044B \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0445 \u0432 \u0441\u0442\u0440\u0430\u043D\u0435, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0432 1874 \u0433\u043E\u0434\u0443. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0446\u0435\u043D\u0442\u0440\u0435 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u044B (\u042E\u0436\u043D\u0430\u044F \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u0427\u043B\u0435\u043D \u0413\u0440\u0443\u043F\u043F\u044B \u0432\u043E\u0441\u044C\u043C\u0438 \u0438 \u041F\u0435\u0441\u0447\u0430\u043D\u0438\u043A\u043E\u0432\u044B\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432."@ru ,
+		"La Universidad de Adelaida (University of Adelaide, en ingl\u00E9s) es una universidad p\u00FAblica australiana con campus universitario en la ciudad de Adelaida, en Australia Meridional. Se fund\u00F3 en 1874, y es la tercera universidad m\u00E1s antigua de Australia."@es ;
+	foaf:name	"The University of Adelaide"@en ,
+		"Universitas Adelaidensis"@la ;
+	foaf:homepage	<http://www.adelaide.edu.au/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:University_of_Adelaide	geo:lat	"-34.919158935546875"^^xsd:float ;
+	geo:long	"138.6041412353515625"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Univeristy_of_Adelaide_around_1869.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:University_of_Adelaide .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:University_of_Adelaide	geo:geometry	"POINT(138.60414123535 -34.919158935547)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:University_of_Adelaide	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/University_of_Adelaide?oldid=680164529> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:University_of_Adelaide	georss:point	"-34.919159 138.60414" ;
+	dbp:affiliations	"Member of the Group of Eight, ASAIHL, ACU"@en ;
+	dbp:imageName	"AdelRgb large.png"@en ;
+	dbp:established	1874 ;
+	dbo:affiliation	dbr:Association_of_Commonwealth_Universities ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ,
+		dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ;
+	dbp:chancellor	"Rear Admiral the Hon Kevin Scarce AC CSC RAN"@en ;
+	dbp:latinName	"Universitas Adelaidensis"@en ;
+	dbp:staff	3807 ;
+	dbp:students	26270 ;
+	dbp:viceChancellor	"Professor Warren Bebbington"@en ;
+	dbp:colours	"White and Black"@en ;
+	dbo:officialSchoolColour	"White and Black" ;
+	dbp:state	"South Australia"@en ;
+	dbp:website	<http://www.adelaide.edu.au/> ;
+	dbp:city	dbr:Adelaide ;
+	dbp:country	"Australia"@en ;
+	dbo:campus	dbr:National_Wine_Centre_of_Australia ,
+		<http://dbpedia.org/resource/Thebarton,_South_Australia> ,
+		<http://dbpedia.org/resource/North_Terrace,_Adelaide> ,
+		dbr:Roseworthy_College ;
+	dbo:city	dbr:Adelaide ;
+	dbp:type	dbr:Public_university ;
+	dbo:chancellor	dbr:Kevin_Scarce ;
+	dbo:numberOfStudents	"26270"^^xsd:nonNegativeInteger ;
+	dbo:staff	"3807"^^xsd:nonNegativeInteger ;
+	dbo:wikiPageID	206748 ;
+	dbo:wikiPageRevisionID	680164529 .
+@prefix ns31:	<http://www.topuniversities.com/institution/> .
+dbr:University_of_Adelaide	dbo:wikiPageExternalLink	ns31:university-adelaide ,
+		<http://www.adelaide.edu.au/press/> ,
+		<http://www.adelaide.edu.au/robinson-institute/> ,
+		<http://www.adelaide.edu.au/ipas/> ,
+		<http://www.adelaide.edu.au/library/> ,
+		<http://www.adelaide.edu.au/aripl/> ,
+		<http://www.adelaide.edu.au/environment/> ,
+		<http://www.adelaide.edu.au/> ,
+		<http://www.adelaide.edu.au/alumni/register/> ,
+		<http://www.adelaide.edu.au/seek-light/> ,
+		<http://www.adelaide.edu.au/sg/> ,
+		<http://confucius.adelaide.edu.au/> ,
+		<http://www.auu.org.au/site/page.cfm?u=1> ,
+		<http://hss.adelaide.edu.au/creativewriting/> ,
+		<http://www.auu.org.au/site/page.cfm?u=89> ,
+		<http://www.theblacks.com.au/> .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:University_of_Adelaide	dbp:wordnet_type	ns32:synset-university-noun-2 ;
+	dbp:caption	"Coat of Arms of the University of Adelaide"@en ;
+	dbp:name	"The University of Adelaide"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Univeristy_of_Adelaide_around_1869.jpg?width=300> ;
+	dbo:abstract	"The University of Adelaide (colloquially Adelaide University or Adelaide Uni) is a public university in Adelaide, South Australia. Established in 1874, it is the third oldest university in Australia. It is consistently ranked in the top 1% of universities worldwide. It is also associated with five Nobel laureates, 104 Rhodes scholars and is a member of the Group of Eight, as well as the Sandstone Universities.Its main campus is on North Terrace in the Adelaide city centre, adjacent to the Art Gallery of South Australia, the South Australian Museum and the State Library of South Australia. The university has five campuses throughout the state: North Terrace; Roseworthy College at Roseworthy; The Waite Institute at Urrbrae; Thebarton; and the National Wine Centre in the Adelaide Park Lands. It has a sixth campus, the Ngee Ann \u2013 Adelaide Education Centre (NAAEC), in Singapore.The 20th Vice-Chancellor of the University is Professor Warren Bebbington, who was formerly the Deputy Vice-Chancellor (University Affairs) at the University of Melbourne. He commenced his position in July 2012."@en ,
+		"L'Universit\u00E0 di Adelaide o University of Adelaide \u00E8 un'universit\u00E0 pubblica australiana di Adelaide. Fondata nel 1874, \u00E8 la terza pi\u00F9 vecchia d'Australia.Hanno studiato qui 5 premi nobel, 101 studenti insigniti del premio Rhodes Scholarship, ed \u00E8 membro del Group of Eight.I suoi campus principali sono situati sul boulevard culturale di North Terrace nel centro citt\u00E0 vicino alla Galleria d'arte del Sud Australia, il Museo dell'Australia Meridionale e la Biblioteca statale dell'Australia Meridionale.Nel resto della citt\u00E0 ha altri 4 campus: Roseworthy College a Roseworthy; The Waite Institute a Glen Osmond; Adelaide University Research Park a Thebarton; e il National Wine Centre (Centro nazionale del Vino) nelle Adelaide Park Lands."@it ,
+		"\u30A2\u30C7\u30EC\u30FC\u30C9\u5927\u5B66 \uFF08\u30A2\u30C7\u30EC\u30FC\u30C9\u3060\u3044\u304C\u304F\u3001\u82F1\u8A9E: The University of Adelaide\uFF09\u306F\u30011874\u5E74\u306B\u5275\u8A2D\u3055\u308C\u305F\u5357\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5DDE\u30A2\u30C7\u30EC\u30FC\u30C9\u306B\u672C\u90E8\u3092\u7F6E\u304F\u516C\u7ACB\u5927\u5B66\u3067\u3042\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u5927\u5B66\u3068\u3057\u3066\u306F\u30B7\u30C9\u30CB\u30FC\u5927\u5B66\u3001\u30E1\u30EB\u30DC\u30EB\u30F3\u5927\u5B66\u306B\u6B21\u3044\u3067\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u5168\u571F\u30673\u756A\u76EE\u306B\u53E4\u304F\u3001\u3053\u308C\u307E\u3067\u306B5\u4EBA\u306E\u30CE\u30FC\u30D9\u30EB\u8CDE\u53D7\u8CDE\u8005\u3092\u8F29\u51FA\u3057\u3066\u304A\u308A\u3001\u305D\u306E\u9577\u3044\u6B74\u53F2\u3068\u7814\u7A76\u5B9F\u7E3E\u304B\u3089\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u7248\u30A2\u30A4\u30D3\u30FC\u30FB\u30EA\u30FC\u30B0\u3068\u547C\u3070\u308C\u308BGroup of Eight\u306E\u4E00\u54E1\u3068\u306A\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"A Universidade de Adelaide (em ingl\u00EAs: University of Adelaide) \u00E9 uma institui\u00E7\u00E3o de ensino superior australiana fundada em 1874. \u00C9 a terceira mais antiga universidade da Austr\u00E1lia."@pt ,
+		"De Universiteit van Adelaide is een openbare universiteit in de Australische stad Adelaide. De universiteit is opgericht in 1874 en is daarmee de op twee na oudste universiteit in Australi\u00EB.De universiteit heeft 5 campussen verspreid over de staat Zuid-Australi\u00EB. De belangrijkste ervan is gevestigd in het centrum van Adelaide."@nl ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0623\u062F\u064A\u0644\u064A\u062F (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: University of Adelaide) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u0645\u0642\u0631\u0647\u0627 \u0623\u062F\u064A\u0644\u064A\u062F \u0628\u0648\u0644\u0627\u064A\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629. \u062A\u0623\u0633\u0633\u062A \u0633\u0646\u0629 1874\u060C \u0648\u0647\u064A \u0628\u0630\u0644\u0643 \u062B\u0627\u0644\u062B\u0629 \u0623\u0642\u062F\u0645 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0639\u0645\u0644 \u0628\u0647\u0627 \u0623\u0648 \u062A\u062E\u0631\u062C \u0641\u064A\u0647\u0627 \u062E\u0645\u0633\u0629 \u0645\u0646 \u062D\u0627\u0645\u0644\u064A \u062C\u0627\u0626\u0632\u0629 \u0646\u0648\u0628\u0644\u060C \u0648104 \u0645\u0646 \u062D\u0627\u0626\u0632\u064A \u0645\u0646\u062D\u0629 \u0631\u0648\u062F\u0633\u060C \u0648\u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0636\u0648 \u0628\u0645\u0627 \u064A\u0633\u0645\u0649 \"\u0645\u062C\u0645\u0648\u0639\u0629 \u0627\u0644\u062B\u0645\u0627\u0646\u064A\u0629\" \u0644\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0629 \u0648\u0625\u062D\u062F\u0649 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u0645\u0633\u0645\u0627\u0629 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0628\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u062D\u062C\u0631 \u0627\u0644\u0631\u0645\u0644\u064A\u060C \u0641\u064A \u0625\u0634\u0627\u0631\u0629 \u0625\u0644\u0649 \u0642\u062F\u0645 \u062A\u0623\u0633\u064A\u0633\u0647\u0627.\u0627\u0637\u0644\u0639 \u0623\u064A\u0636\u0627 \u0639\u0644\u0649 \u0627\u0644\u062A\u0639\u0644\u064A\u0645 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627\u062A\u0645\u062A\u0644\u0643 \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u062E\u0645\u0633\u0629 \u0645\u0642\u0631\u0627\u062A \u0645\u0648\u0632\u0639\u0629 \u0639\u0644\u0649 \u0645\u062F\u0646 \u0648\u0644\u0627\u064A\u0629 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629\u060C \u0625\u0644\u0649 \u062C\u0627\u0646\u0628 \u0645\u0642\u0631 \u0633\u0627\u062F\u0633 \u0647\u0648 \"\u0645\u0631\u0643\u0632 \u0646\u062C\u064A \u0622\u0646-\u0623\u062F\u064A\u0644\u064A\u062F \u0627\u0644\u062A\u0639\u0644\u064A\u0645\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ngee Ann \u2013 Adelaide Education Centre; NAAEC) \u0641\u064A \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629."@ar ,
+		"Die University of Adelaide / Universit\u00E4t Adelaide (kurz: Adelaide) ist eine Universit\u00E4t in der australischen Stadt Adelaide (South Australia)."@de ,
+		"University of Adelaide \u2013 australijska pa\u0144stwowa uczelnia wy\u017Csza z siedzib\u0105 w Adelaide i kampusami w Roseworthy i Singapurze. Powsta\u0142 w 1874 jako trzeci uniwersytet na kontynencie australijskim. Jego dewiz\u0105 s\u0105 \u0142aci\u0144skie s\u0142owa Sub Cruce Lumen, czyli \"pod \u015Bwiat\u0142em krzy\u017Ca\". Uczelnia zatrudnia ponad 1100 nauczycieli akademickich i kszta\u0142ci ponad 18 tysi\u0119cy student\u00F3w, z czego ok. 2/3 stanowi\u0105 s\u0142uchacze studi\u00F3w licencjackich, a pozosta\u0142\u0105 cz\u0119\u015B\u0107 magistranci i doktoranci."@pl ,
+		"L'universit\u00E9 d'Ad\u00E9la\u00EFde (en anglais : The University of Adelaide) est une universit\u00E9 publique situ\u00E9e dans la ville d'Ad\u00E9la\u00EFde en Australie-M\u00E9ridionale. Cr\u00E9\u00E9e en 1874, l'universit\u00E9 est la troisi\u00E8me plus ancienne universit\u00E9 d'Australie. Elle a eu trois laur\u00E9ats du prix Nobel, une centaine de boursiers Rhodes et elle fait partie du Group of Eight des universit\u00E9s australiennes ainsi que des Sandstone universities.Son campus principal est situ\u00E9 sur le boulevard North Terrace en centre ville \u00E0 proximit\u00E9 d'institutions aussi c\u00E9l\u00E8bres que la Galerie d'art de l'Australie m\u00E9ridionale, le Mus\u00E9e d'Australie m\u00E9ridionale et la Biblioth\u00E8que Nationale d'Australie m\u00E9ridionale. L'universit\u00E9 a aussi quatre autres campus \u00E0 travers la ville : Roseworthy College \u00E0 Roseworthy, Waite Institute \u00E0 Glen Osmond, l 'Adelaide University Research Park \u00E0 Thebarton et le National Wine Centre dans l'Adelaide Park Lands."@fr ,
+		"La Universidad de Adelaida (University of Adelaide, en ingl\u00E9s) es una universidad p\u00FAblica australiana con campus universitario en la ciudad de Adelaida, en Australia Meridional. Se fund\u00F3 en 1874, y es la tercera universidad m\u00E1s antigua de Australia. Ha producido 5 premios Nobel, 101 premios Rodas y es miembro del Grupo de Ocho, as\u00ED como de las universidades Sandstone.Su campus se encuentra en el bulevar cultural de North Terrace en el centro de la ciudad, junto a la Galer\u00EDa de Arte de Australia del Sur, el Museo de Australia del Sur y la Librer\u00EDa Estatal de Australia del Sur. La universidad tambi\u00E9n tiene otros cuatros campuses en el estado: Roseworthy College en Roseworthy; el Instituto Waite en Urrbrae; el Parque de Investigaci\u00F3n de la Universidad de Adelaida en Thebarton; y el Centro Nacional Wine en Adelaide Park Lands, y un campus en Singapur."@es ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0301\u0442 \u0410\u0434\u0435\u043B\u0430\u0438\u0301\u0434\u044B \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0445 \u0432 \u0441\u0442\u0440\u0430\u043D\u0435, \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0432 1874 \u0433\u043E\u0434\u0443. \u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0439 \u043A\u0430\u043C\u043F\u0443\u0441 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u0446\u0435\u043D\u0442\u0440\u0435 \u0410\u0434\u0435\u043B\u0430\u0438\u0434\u044B (\u042E\u0436\u043D\u0430\u044F \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F). \u0427\u043B\u0435\u043D \u0413\u0440\u0443\u043F\u043F\u044B \u0432\u043E\u0441\u044C\u043C\u0438 \u0438 \u041F\u0435\u0441\u0447\u0430\u043D\u0438\u043A\u043E\u0432\u044B\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432."@ru ;
+	dbp:logo	225 ;
+	dbp:motto	"Sub Cruce Lumen"@en ,
+		"\"The light  under the  Cross\""@en ;
+	dbo:motto	"\"The light (of learning) under the (Southern) Cross\"" ,
+		"Sub Cruce Lumen" ;
+	dbo:type	dbr:Public_university ;
+	dbp:campus	"Overseas Education Centre: Singapore"@en ,
+		"Suburban: Waite, Thebarton and the National Wine Centre"@en ,
+		"Rural: Roseworthy"@en ,
+		"Urban: North Terrace"@en .
+dbr:Tanya_Monro	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:University_Senior_College	dbp:location	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_Fleming_(priest)>	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+dbr:Royal_Adelaide_Hospital	dbp:affiliation	dbr:University_of_Adelaide .
+dbr:Lyell_McEwin_Hospital	dbp:affiliation	dbr:University_of_Adelaide .
+dbr:Adam_Liaw	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Abdul_Karim_(soil_scientist)>	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Patrick_Conlon_(politician)>	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Francis_Greenslade	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:David_Speirs	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:James_McWha	dbp:workplaces	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Brian_Matthews_(biochemist)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Ghil\u0027ad_Zuckermann>	dbp:workInstitutions	dbr:University_of_Adelaide .
+dbr:Laurie_Wilkinson	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Norman_Tindale	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Horton_Williams	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Elizabeth_Grant_(anthropologist)>	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Bernard_Finnigan	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Nigel_Abbott	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Peter_Cochrane	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide .
+dbr:Howard_Florey	dbp:workInstitutions	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Burton_Cleland	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Aubrey_Lewis	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Peter_Ward_(paleontologist)>	dbp:workInstitution	dbr:University_of_Adelaide .
+dbr:Kamran_Eshraghian	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Martyn_Evans	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Keith_Nugent	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Charles_E._M._Pearce>	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Hans_Schwerdtfeger	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Geoffrey_Reed	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Gavin_Brown_(academic)>	dbp:title	dbr:University_of_Adelaide .
+dbr:Kerr_Grant	dbp:workInstitution	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Jim_Forbes_(Australian_politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Lia_Finocchiaro	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Oscar_Werner_Tiegs	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Brendon_Coventry	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Robin_Warren	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Frances_Adamson	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Robert_Hill_(Australian_politician)>	dbp:office	dbr:University_of_Adelaide .
+dbr:Bronwyn_Pike	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_Hill_(Australian_politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Penny_Wright	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/James_Bradley_(Australian_writer)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Simon_Birmingham	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Philip_Nitschke	dbo:education	dbr:University_of_Adelaide .
+dbr:Judy_Gamin	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Nick_Martin_(scientist)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/David_O\u0027Byrne>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Bruce_R._Davis>	dbp:workplaces	dbr:University_of_Adelaide ;
+	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Sandy_Lewis	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Kenneth_G._McCracken>	dbp:workplaces	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Trevor_H._Worthy>	dbp:education	dbr:University_of_Adelaide .
+dbr:University_of_Adelaide_Press	dbp:parent	dbr:University_of_Adelaide ;
+	dbo:parentCompany	dbr:University_of_Adelaide .
+dbr:Milton_Hearn	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_M._Cowley>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:John_Canny	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Ian_Plimer	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Peter_Harold_Cole	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Brian_David_Ellis	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Bonython_Hall	dbo:owner	dbr:University_of_Adelaide ;
+	dbp:owner	dbr:University_of_Adelaide .
+dbr:Ken_Inglis	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Andrew_McLachlan	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Steve_Gower	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Grant_Chapman	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Anthony_William_Thomas	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Terry_Connolly	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Lesley_Joy_Rogers	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Jack_Duncan-Hughes	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Richard_Beasley_(author)>	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Peter_D._Jarvis>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/David_Cox_(Australian_politician)>	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Stephen_Mullighan	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Andrew_Jones_(Australian_politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Gordon_Bilney	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Grenfell_Price	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Hedley_Marston	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Peter_Lewis_(politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Zoe_Bettison	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Richard_Gun	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Don_Jessop	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Joseph_Pairin_Kitingan	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Rod_Crewther	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:William_Henry_Bragg	dbp:workplaces	dbr:University_of_Adelaide .
+dbr:Marion_Grasby	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Russel_Ward	dbp:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_Hirst_(historian)>	dbp:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_Hartnett_(physicist)>	dbo:employer	dbr:University_of_Adelaide .
+dbr:Gavan_McCormack	dbp:workplaces	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/John_Gardner_(Australian_politician)>	dbp:education	dbr:University_of_Adelaide .
+dbr:Russell_Dumas	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+dbr:Martin_Hamilton-Smith	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/G._Parameshwara>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Dennis_Hood	dbo:almaMater	dbr:University_of_Adelaide .
+<http://dbpedia.org/resource/Peter_Duncan_(Australian_politician)>	dbp:almaMater	dbr:University_of_Adelaide ;
+	dbo:almaMater	dbr:University_of_Adelaide .
+dbr:Frank_Fenner	dbp:education	dbr:University_of_Adelaide ;
+	dbo:education	dbr:University_of_Adelaide .
+dbr:Vickie_Chapman	dbp:education	dbr:University_of_Adelaide .

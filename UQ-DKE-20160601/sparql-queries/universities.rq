@@ -1,0 +1,6 @@
+# Find Australian universities associated with the Group of 8.
+PREFIX dbp:<http://dbpedia.org/property/>
+select ?university
+WHERE {
+  ?university dbp:affiliations <http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)>
+}

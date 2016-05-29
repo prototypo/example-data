@@ -1,0 +1,505 @@
+@prefix dbp:	<http://dbpedia.org/property/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Yap_Soo_Huey	dbp:almaMater	dbr:Monash_University .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Yap_Soo_Huey	dbo:almaMater	dbr:Monash_University .
+dbr:Marcus_Feldman	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Clem_Newton-Brown	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Jared_Purton	dbp:workplaces	dbr:Monash_University .
+dbr:Andrew_Justin_Stewart_Coats	dbo:institution	dbr:Monash_University ;
+	dbp:workInstitutions	dbr:Monash_University .
+dbr:MONECS	dbp:developer	dbr:Monash_University ;
+	dbo:developer	dbr:Monash_University .
+<http://dbpedia.org/resource/Mark_Fraser_(secretary)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Handry_Satriago	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Hasan_Kleib	dbo:almaMater	dbr:Monash_University .
+dbr:Boediono	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:John_Elferink	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Dharmasena_Pathiraja	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Udaya_Gammanpila	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/A._G._L._Shaw>	dbp:workplaces	dbr:Monash_University .
+dbr:Michelle_Garnaut	dbp:education	dbr:Monash_University .
+dbr:Bernadette_McSherry	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Alan_Griffiths	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Karyn_Bailey	dbp:university	dbr:Monash_University ;
+	dbo:university	dbr:Monash_University .
+dbr:Anna_Burke	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Clare_O\u0027Neil>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Louise_Asher	dbo:almaMater	dbr:Monash_University .
+dbr:Murray_Thompson	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Bill_Shorten	dbo:almaMater	dbr:Monash_University .
+dbr:Gai_Brodtmann	dbo:almaMater	dbr:Monash_University .
+dbr:Gary_Johns	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/David_O\u0027Brien_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Rex_Stevenson	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Matt_Rockman	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Monash_College	dbo:affiliation	dbr:Monash_University .
+dbr:Monash_University_shooting	dbp:location	dbr:Monash_University .
+dbr:CDC_Melbourne	dbp:hubs	dbr:Monash_University .
+<http://dbpedia.org/resource/Peter_Hall_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Monash	dbo:wikiPageRedirects	dbr:Monash_University .
+<http://dbpedia.org/resource/Scott_W._Sloan>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Daryl_Quinlivan	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Nick_Staikos	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Jean_Dunn_(diplomat)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/David_Borthwick_(public_servant)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Ian_Meredith	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Gabrielle_Williams	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Adrian_Parr	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/David_Charles_(public_servant)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Samah_Sabawi	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Blair_Comley	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Sandra_Rees	dbo:almaMater	dbr:Monash_University .
+dbr:Martin_Head-Gordon	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Shoba_Purushothaman	dbo:almaMater	dbr:Monash_University .
+dbr:Joel_Neoh_Eu-Jin	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Vicki_Gardiner	dbp:workInstitution	dbr:Monash_University .
+dbr:Sarah_Henderson	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Herman_S._Bachelard>	dbo:almaMater	dbr:Monash_University .
+dbr:Clare_Wright	dbp:almaMater	dbr:Monash_University .
+dbr:Michael_Georgeff	dbp:workplaces	dbr:Monash_University .
+dbr:Simon_Crean	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Brendan_O\u0027Connor_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Monash_University	foaf:primaryTopic	dbr:Monash_University .
+<http://dbpedia.org/resource/John_J._Smithies>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Julian_McGauran	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Carl_Wood	dbp:workInstitutions	dbr:Monash_University .
+dbr:Farrer_Hall	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Howitt_Hall	dbo:wikiPageRedirects	dbr:Monash_University .
+<http://dbpedia.org/resource/Monash_University,_Faculties>	dbo:wikiPageRedirects	dbr:Monash_University .
+<http://dbpedia.org/resource/Monash_University,_Victoria>	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Monash_University_Medicine_Faculty	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Monash_University_Publishing	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Monash_uni	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Radio_Monash	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Radio_monash	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:Richardson_Hall	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:South_East_Flats	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:University_of_Monash	dbo:wikiPageRedirects	dbr:Monash_University .
+dbr:UMonash	dbo:wikiPageRedirects	dbr:Monash_University .
+<http://dbpedia.org/resource/Mannix_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Monash_University .
+<http://dbpedia.org/resource/Monash_(disambiguation)>	dbo:wikiPageDisambiguates	dbr:Monash_University .
+<http://dbpedia.org/resource/Grenda\u0027s_Bus_Service>	dbp:hubs	dbr:Monash_University .
+dbr:Louis_Moresi	dbp:workplaces	dbr:Monash_University .
+dbr:Elaine_Carbines	dbo:education	dbr:Monash_University .
+dbr:Muhamad_Faisal_Manap	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Michael_Wooldridge	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Stuart_Macintyre	dbp:almaMater	dbr:Monash_University .
+dbr:Geoffrey_Serle	dbp:workplaces	dbr:Monash_University .
+dbr:Susan_Lim	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Leo_Suryadinata	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Burnet_Institute	dbp:affiliations	dbr:Monash_University ;
+	dbo:affiliation	dbr:Monash_University .
+<http://dbpedia.org/resource/Mannix_College_(Monash_University)>	dbo:wikiPageRedirects	dbr:Monash_University .
+<http://dbpedia.org/resource/M._A._Sumanthiran>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:James_Gomez	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Dennis_Jensen	dbo:almaMater	dbr:Monash_University .
+dbr:Graeme_Samuel	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Lauren_Moss	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Greg_Ayers	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Jakob_B._Madsen>	dbp:institution	dbr:Monash_University ;
+	dbo:institution	dbr:Monash_University .
+dbr:Lim_Guan_Eng	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Sucheta_Priyabadini	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Chris_Pearce_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Dean_Wells_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Adam_Bandt	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Joan_Beaumont	dbp:workplaces	dbr:Monash_University .
+<http://dbpedia.org/resource/Colin_J._Gillespie>	dbo:education	dbr:Monash_University .
+dbr:David_Feeney	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Ng_Moon_Hing	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Peter_Hogg	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Keith_Allan_(linguist)>	dbp:employer	dbr:Monash_University ;
+	dbo:employer	dbr:Monash_University .
+<http://dbpedia.org/resource/James_Beresford_(baseball)>	dbo:birthPlace	dbr:Monash_University .
+dbr:Laura_Smyth	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Robert_Jahrling	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Sherine_Wong	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Christina_Collard	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Sandra_Sdraulig	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Inga_Peulich	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Yuri_Estrin	dbp:workInstitution	dbr:Monash_University .
+dbr:Rachael_Padman	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Richard_Alston_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Nora_Sumberg	dbo:training	dbr:Monash_University .
+<http://dbpedia.org/resource/2011_World_Women\u0027s_Handball_Championship_squads>	dbp:club	dbr:Monash_University .
+dbr:Marilyn_Lake	dbp:almaMater	dbr:Monash_University .
+dbr:Deborah_De_Williams	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Zvonimir_Janko	dbp:workplaces	dbr:Monash_University .
+<http://dbpedia.org/resource/2011_Mirabella_Cup>	dbp:team	dbr:Monash_University .
+dbr:John_Spooner	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+<http://dbpedia.org/resource/Anthony_Pratt_(businessman)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Lorraine_Dennerstein	dbo:almaMater	dbr:Monash_University .
+dbr:Gordon_Rich-Phillips	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Geoffrey_Ricardo	dbo:training	dbr:Monash_University .
+dbr:Josh_Frydenberg	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Kirsty_Sword_Gusmão	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Stephen_Benwell	dbo:training	dbr:Monash_University ;
+	dbp:training	dbr:Monash_University .
+<http://dbpedia.org/resource/Ken_Lay_(police_officer)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Terry_Speed	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Milton_Hearn	dbp:workplaces	dbr:Monash_University .
+dbr:Boyd_Oxlade	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Robin_Gerster	dbp:workplaces	dbr:Monash_University .
+dbr:John_Langmore	dbo:almaMater	dbr:Monash_University .
+dbr:Steve_Dargavel	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Michael_Clyne	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Neil_O\u0027Keefe>	dbo:almaMater	dbr:Monash_University .
+dbr:Mark_Kisin	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Jennifer_Stow	dbo:almaMater	dbr:Monash_University .
+dbr:David_de_Kretser	dbp:education	dbr:Monash_University .
+<http://dbpedia.org/resource/Tim_Watts_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Andrew_Theophanous	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Polixeni_Papapetrou	dbp:education	dbr:Monash_University .
+<http://dbpedia.org/resource/Bruce_A._Fuhrer>	dbp:workInstitutions	dbr:Monash_University .
+<http://dbpedia.org/resource/Greg_Craven_(academic)>	dbp:workplaces	dbr:Monash_University .
+dbr:Ruslan_Kogan	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:David_Karoly	dbp:workplaces	dbr:Monash_University ;
+	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Ian_Macfarlane_(economist)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Baseball_at_the_Australian_University_Games	dbp:rd2Team	dbr:Monash_University ;
+	dbp:rd1Team	dbr:Monash_University ;
+	dbp:team	dbr:Monash_University .
+dbr:Simbarashe_Mumbengegwi	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Michael_Rozenes	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Tim_Costello	dbp:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/C._J._van_Rijsbergen>	dbp:workplaces	dbr:Monash_University .
+<http://dbpedia.org/resource/Judith_M._Lumley>	dbp:workplaces	dbr:Monash_University ;
+	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Margaret_Gardner	dbp:title	dbr:Monash_University .
+dbr:Ian_Chubb	dbp:workplaces	dbr:Monash_University .
+<http://dbpedia.org/resource/Esperanto_(student_magazine)>	dbp:headquarters	dbr:Monash_University .
+<http://dbpedia.org/resource/Martin_Foley_(politician)>	dbp:university	dbr:Monash_University .
+dbr:Geoffrey_Bolton	dbp:workplaces	dbr:Monash_University .
+<http://dbpedia.org/resource/Lot\u0027s_Wife_(student_newspaper)>	dbp:headquarters	dbr:Monash_University .
+dbr:Kay_Patterson	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Iain_McCalman	dbp:almaMater	dbr:Monash_University .
+dbr:Patrick_McGorry	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Jennifer_Coate	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Jill_Hennessy_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/G._K._Sanghar>	dbp:education	dbr:Monash_University ;
+	dbo:education	dbr:Monash_University .
+dbr:Sharman_Stone	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Sue_Boyce	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Lee_J._Slavutin>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Marilyn_Warren	dbp:education	dbr:Monash_University .
+<http://dbpedia.org/resource/John_A._Fraser_(businessman)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Daniel_Andrews	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Michael_Leighton_(politician)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Jacinta_Collins	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Helen_Kroger	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Janine_Ilitch	dbp:university	dbr:Monash_University ;
+	dbo:university	dbr:Monash_University .
+dbr:Peter_Reith	dbp:honorificSuffix	dbr:Monash_University ;
+	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:George_Pell	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Rob_J._Hyndman>	dbp:workplace	dbr:Monash_University .
+dbr:Richard_Di_Natale	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Pauleen_Bennett	dbp:workInstitution	dbr:Monash_University .
+<http://dbpedia.org/resource/Ian_G._Enting>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Hugh_Evans_(humanitarian)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Steve_Fielding	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Peter_Costello	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Lex_Lasry	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Christopher_Prowse	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+dbr:Nossal_High_School	dbp:affiliations	dbr:Monash_University ;
+	dbo:affiliation	dbr:Monash_University .
+dbr:Box_Hill_Hospital	dbp:affiliation	dbr:Monash_University .
+dbr:Jessie_McPherson_Private_Hospital	dbp:affiliation	dbr:Monash_University .
+dbr:MonashHeart	dbp:affiliation	dbr:Monash_University .
+dbr:John_Monash_Science_School	dbp:founder	dbr:Monash_University ;
+	dbo:foundedBy	dbr:Monash_University ;
+	dbo:affiliation	dbr:Monash_University .
+dbr:Monash_Medical_Centre	dbp:affiliation	dbr:Monash_University .
+dbr:Frankston_Hospital	dbp:affiliation	dbr:Monash_University .
+<http://dbpedia.org/resource/Monash_University,_Parkville_campus>	dbp:affiliations	dbr:Monash_University ;
+	dbo:affiliation	dbr:Monash_University .
+dbr:Monash_University_Faculty_of_Law	dbp:affiliations	dbr:Monash_University ;
+	dbo:affiliation	dbr:Monash_University .
+dbr:The_Alfred_Hospital	dbp:affiliation	dbr:Monash_University .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Monash_University	rdf:type	umbel-rc:Organization ,
+		umbel-rc:EducationalOrganization .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Monash_University	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Monash_University	rdf:type	yago:UniversitiesInMelbourne .
+@prefix ns9:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Monash_University	rdf:type	ns9:SocialPerson ,
+		ns9:Agent ,
+		dbo:University ,
+		dbo:EducationalInstitution ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:EducationalInstitutionsEstablishedIn1958 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Monash_University	rdf:type	wikidata:Q43229 .
+@prefix schema:	<http://schema.org/> .
+dbr:Monash_University	rdf:type	schema:Organization ,
+		schema:EducationalOrganization ,
+		wikidata:Q3918 ,
+		schema:CollegeOrUniversity .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Monash_University	rdf:type	geo:SpatialThing ,
+		dbo:Organisation ,
+		yago:Institution108053576 ,
+		yago:University108286569 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		yago:EducationalInstitution108276342 ,
+		yago:SocialGroup107950920 ,
+		yago:Organization108008335 ,
+		umbel-rc:University ,
+		yago:YagoLegalActor ,
+		dbo:Agent ,
+		yago:YagoLegalActorGeo .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Monash_University	dct:subject	dbc:Educational_institutions_established_in_1958 ,
+		dbc:Monash_University ,
+		<http://dbpedia.org/resource/Category:1958_establishments_in_Australia> ,
+		dbc:Universities_in_Melbourne ;
+	dbp:faculty	8172 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-es:Universidad_de_Monash ,
+		<http://www4.wiwiss.fu-berlin.de/cordis/resource/Organization/10192133> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-de:Monash_University .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Monash_University	owl:sameAs	yago-res:Monash_University .
+@prefix dbpedia-pl:	<http://pl.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-pl:Monash_University .
+@prefix dbpedia-ja:	<http://ja.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-ja:モナシュ大学 .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-it:Università_di_Monash .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-id:Universitas_Monash .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-wikidata:Q598841 .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-nl:Monash-universiteit .
+@prefix dbpedia-ko:	<http://ko.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-ko:모나시_대학교 ,
+		dbr:Monash_University .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-fr:Université_Monash ,
+		<http://www4.wiwiss.fu-berlin.de/cordis/resource/Organization/9212904> ,
+		<http://rdf.freebase.com/ns/m.013719> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Monash_University	owl:sameAs	dbpedia-pt:Universidade_Monash ,
+		wikidata:Q598841 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Monash_University	rdfs:label	"\u30E2\u30CA\u30B7\u30E5\u5927\u5B66"@ja ,
+		"Universidad de Monash"@es ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0645\u0648\u0646\u0627\u0634"@ar ,
+		"Universidade Monash"@pt ,
+		"Universit\u00E9 Monash"@fr ,
+		"Monash University"@pl ,
+		"Monash University"@de ,
+		"\u8499\u7EB3\u58EB\u5927\u5B66"@zh ,
+		"Universit\u00E0 di Monash"@it ,
+		"Monash University"@en ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430"@ru ,
+		"Monash-universiteit"@nl ;
+	rdfs:comment	"\u30E2\u30CA\u30B7\u30E5\u5927\u5B66\uFF08-\u3060\u3044\u304C\u304F, \u82F1\u8A9E: Monash University\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3001\u30E1\u30EB\u30DC\u30EB\u30F3\u8FD1\u90CA\u306E\u30AF\u30EC\u30A4\u30C8\u30F3\u306B\u672C\u90E8\u3092\u304A\u304F\u30D3\u30AF\u30C8\u30EA\u30A2\u5DDE\u7ACB\u306E\u5927\u5B66\u3067\u3042\u308B\u3002\u30DE\u30EC\u30FC\u30B7\u30A2\u3068\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u3092\u542B\u30808\u3064\u306E\u30AD\u30E3\u30F3\u30D1\u30B9\u304C\u3042\u308A\u3001\u307E\u305F\u3001\u30ED\u30F3\u30C9\u30F3\u3068\u30A4\u30BF\u30EA\u30A2\u306E\u30D7\u30E9\u30C8\u306B\u30BB\u30F3\u30BF\u30FC\u3092\u6301\u3064\u3002\u30D7\u30E9\u30C8\u30AD\u30E3\u30F3\u30D1\u30B9\u306F\u4E3B\u306BEU\u6CD5\u3092\u5B66\u3076\u610F\u6B32\u306E\u3042\u308B\u5B66\u751F\u306E\u305F\u3081\u3067\u3042\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u7814\u7A76\u91CD\u70B98\u5927\u5B66\"Group of Eight\"\u306B\u5C5E\u3059\u308B\u7DCF\u5408\u5927\u5B66\u3067\u3042\u308A\u30012004\u5E74\u51FA\u7248\u306E\u201D\u30BF\u30A4\u30E0\u30BA\u9AD8\u7B49\u6559\u80B2\u88DC\u8DB3\u201D\u3067\u306F\u4E16\u754C\u30C8\u30C3\u30D7\u306E200\u306E\u5927\u5B66\u306E\u3046\u306133\u4F4D\u306B\u30E9\u30F3\u30AF\u3055\u308C\u305F\u3002\u307E\u305F\u30012011\u5E74\u3001\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u30BF\u30A4\u30E0\u30B9\u304C\u30A2\u30E1\u30EA\u30AB\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u3092\u542B\u3080\u4E16\u754C10\u5404\u56FD\u306E\u30C8\u30C3\u30D7\u4F01\u696D\u306E\u30D3\u30B8\u30CD\u30B9\u30EA\u30FC\u30C0\u30FC\u53CA\u3073\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC\u6570\u767E\u4EBA\u306B\u5BFE\u3057\u30A4\u30F3\u30BF\u30D3\u30E5\u30FC\u3092\u884C\u3044\u3001\u5352\u696D\u751F\u3092\u63A1\u7528\u3059\u308B\u969B\u306E\u597D\u307E\u3057\u3044\u5927\u5B66\u306B\u95A2\u3059\u308B\u8ABF\u67FB\u3092\u884C\u3063\u305F\u3002\u7D50\u679C\u3068\u3057\u3066\u3001\u30E2\u30CA\u30B7\u30E5\u5927\u5B66\u306F\u3001\u4E16\u754C\u7B2C47\u4F4D\u3001\u30A2\u30B8\u30A2\u30D1\u30B7\u30D5\u30A3\u30C3\u30AF\u5730\u57DF\u3067\u306F\u3001\u6771\u4EAC\u5927\u5B66\uFF08\u65E5\u672C\uFF09\u306E\u4E16\u754C\u7B2C18\u4F4D\u3001\u5FA9\u65E6\u5927\u5B66\uFF08\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u56FD\uFF09\u4E16\u754C\u7B2C34\u4F4D\u306B\u6B21\u3050\u7B2C\u4E09\u4F4D\u3001\u307E\u305F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3067\u306F\u7B2C\u4E00\u4F4D\u3068\u306A\u3063\u305F\u3002"@ja ,
+		"L'Universit\u00E0 di Monash o Monash University \u00E8 un'universit\u00E0 pubblica australiana con campus localizzati in Australia, Malesia, Sud Africa, India e Italia (a Prato, presso Palazzo Vai).\u00C8 la pi\u00F9 grande universit\u00E0 australiana con circa 55.000 studenti."@it ,
+		"Monash-universiteit is een Australische universiteit, gevestigd in Melbourne. Ze is de tweede universiteit in de deelstaat Victoria, naast de oudere Universiteit van Melbourne, maar ze heeft meer studenten (53.000 in 2010). Ze heeft acht campussen, waarvan zes in Australi\u00EB, een in Maleisi\u00EB en een in Zuid-Afrika. Daarnaast heeft ze ook nog centra in Prato (Itali\u00EB) en Bombay (India).Ze werd gesticht in 1958 en opende haar deuren in 1961 in Clayton, een voorstad van Melbourne."@nl ,
+		"A Universidade Monash (em ingl\u00EAs: Monash University) \u00E9 uma universidade p\u00FAblica, com campi localizados em Victoria, Mal\u00E1sia e \u00C1frica do Sul. \u00C9 uma das maiores universidades da Austr\u00E1lia, com cerca de 55.000 estudantes, e est\u00E1 classificada entre as cinco melhores universidades do pa\u00EDs.Em 2009 foi eleita a 45\u00AA melhor universidade do mundo."@pt ,
+		"L'universit\u00E9 Monash (en anglais Monash University) est la plus grande universit\u00E9 d'Australie avec environ 55 000 \u00E9tudiants. C'est une universit\u00E9 publique qui poss\u00E8de des campus en Australie, en Malaisie et en Afrique du Sud."@fr ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 (\u0430\u043D\u0433\u043B. Monash University) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C \u0432 \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D\u0435, (\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F). \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0431\u044B\u043B \u043E\u0441\u043D\u043E\u0432\u0430\u043D \u0432 1958 \u0433\u043E\u0434\u0443 \u0438 \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C \u0433\u0435\u0440\u043E\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u0430 \u0432\u0440\u0435\u043C\u0451\u043D \u041F\u0435\u0440\u0432\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0414\u0436\u043E\u043D\u0430 \u041C\u043E\u043D\u0430\u0448\u0430 (\u0430\u043D\u0433\u043B: John Monash).\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 \u0438\u0433\u0440\u0430\u0435\u0442 \u0432\u0430\u0436\u043D\u0443\u044E \u0440\u043E\u043B\u044C \u0432 \u043D\u0430\u0443\u0447\u043D\u043E\u043C \u043C\u0438\u0440\u0435 21 \u0432\u0435\u043A\u0430, \u043F\u0443\u0431\u043B\u0438\u043A\u0443\u044F \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u044B \u0441\u0432\u044B\u0448\u0435 5,000 \u043D\u0430\u0443\u0447\u043D\u044B\u0445 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0439, \u043F\u043E\u0441\u0432\u044F\u0449\u0435\u043D\u043D\u044B\u0445 \u0441\u0430\u043C\u044B\u043C \u043E\u0441\u0442\u0440\u044B\u043C \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430\u043C \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438."@ru ,
+		"Monash University (/\u02C8m\u0252n\u00E6\u0283/) is a university based in Melbourne, Australia. It was founded in 1958 and is the second oldest university in the State of Victoria. Monash is a member of Australia's Group of Eight and the ASAIHL, and is the only Australian member of the influential M8 Alliance of Academic Health Centers, Universities and National Academies."@en ,
+		"La Universidad de Monash (en ingl\u00E9s: Monash University) es una universidad p\u00FAblica australiana, con campus en Australia, Malasia y Sud\u00E1frica. Es la universidad m\u00E1s numerosa del pa\u00EDs, con aproximadamente 55.000 estudiantes.La universidad tiene un total de siete campus: cinco en Victoria, Australia (Clayton, Caulfield, Berwick, Peninsula y Parkville), uno en Malasia y uno en Sud\u00E1frica."@es ,
+		"Monash University \u2013 australijska pa\u0144stwowa uczelnia wy\u017Csza za\u0142o\u017Cona w 1958 roku. Kszta\u0142ci ponad 62 tysi\u0119cy student\u00F3w, co czyni j\u0105 liczebnie najwi\u0119kszym australijskim uniwersytetem. Uniwersytet nale\u017Cy do \"Go8\" (Group of Eight), koalicji wiod\u0105cych uniwersytet\u00F3w w kraju. Siedzib\u0105 uczelni jest Melbourne, jednak \u0142\u0105cznie posiada ona dziesi\u0119\u0107 kampus\u00F3w - 6 na terenie stanu Wiktoria oraz po jednym w Malezji, RPA, Chinach i we W\u0142oszech. Zatrudnia ok. 9000 pracownik\u00F3w naukowych i ok. 16 000 pracownik\u00F3w."@pl ,
+		"Die Monash University ist eine der acht f\u00FChrenden australischen Universit\u00E4ten (Group of Eight) und neben der Universit\u00E4t Melbourne eine der beiden gro\u00DFen Universit\u00E4ten in Melbourne, der Hauptstadt des australischen Bundesstaates Victoria.Sie wurde 1958 in Clayton, einem Vorort von Melbourne, gegr\u00FCndet. Sie wurde nach John Monash benannt, einem australischen Ingenieur und General im Ersten Weltkrieg."@de ,
+		"\u062C\u0627\u0645\u0639\u0629 \u0645\u0648\u0646\u0627\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Monash University) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u062A\u0623\u0633\u0633\u062A \u0639\u0627\u0645 1958. \u062A\u0642\u0639 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0644\u0628\u0648\u0631\u0646 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0647\u064A \u062B\u0627\u0646\u064A \u0623\u0642\u062F\u0645 \u062C\u0627\u0645\u0639\u0629 \u0628\u0648\u0644\u0627\u064A\u0629 \u0641\u064A\u0643\u062A\u0648\u0631\u064A\u0627"@ar ;
+	foaf:name	"Monash University"@en ;
+	foaf:homepage	<http://www.monash.edu.au/> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Monash_University	geo:lat	"-37.908298492431640625"^^xsd:float ;
+	geo:long	"145.13800048828125"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Clayton_-_Monash_University.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Monash_University .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Monash_University	geo:geometry	"POINT(145.13800048828 -37.908298492432)"^^virtrdf:Geometry .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Monash_University	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Monash_University?oldid=683737724> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Monash_University	georss:point	"-37.9083 145.138" ;
+	dbp:affiliations	dbr:Monash_College ,
+		dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ;
+	dbp:established	1958 ;
+	dbo:affiliation	dbr:Association_of_Southeast_Asian_Institutions_of_Higher_Learning ,
+		dbr:Monash_College ,
+		<http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)> ;
+	dbp:chancellor	"Alan Finkel,"@en ;
+	dbp:postgrad	16000 ;
+	dbp:undergrad	39000 ;
+	dbp:arwuW	101 ;
+	dbp:qsW	67 ;
+	dbp:students	55000 ;
+	dbp:thesW	73 ;
+	dbp:mottoeng	"\"I am still learning\""@en ;
+	dbp:viceChancellor	"Margaret Gardner,"@en ;
+	dbp:website	<http://www.monash.edu.au/> ;
+	dbp:location	<http://dbpedia.org/resource/Victoria_(Australia)> ,
+		dbr:Melbourne ,
+		dbr:Australia ;
+	dbo:campus	<http://dbpedia.org/resource/Monash_University,_Clayton_campus> ,
+		dbr:Suburb ;
+	dbp:type	dbr:Public_university ;
+	dbo:chancellor	dbr:Alan_Finkel ;
+	dbo:facultySize	"8172"^^xsd:nonNegativeInteger ;
+	dbo:numberOfPostgraduateStudents	"16000"^^xsd:nonNegativeInteger ;
+	dbo:numberOfStudents	"55000"^^xsd:nonNegativeInteger ;
+	dbo:numberOfUndergraduateStudents	"39000"^^xsd:nonNegativeInteger ;
+	dbo:viceChancellor	dbr:Margaret_Gardner ;
+	dbp:leidenAus	4 ;
+	dbp:qsWArts	44 ;
+	dbp:qsWLife	45 ;
+	dbp:qsWNatural	115 ;
+	dbp:qsWSocial	40 ;
+	dbo:wikiPageID	149620 ;
+	dbo:wikiPageRevisionID	683737724 ;
+	dbo:wikiPageExternalLink	<http://www.monash.edu.au/> ,
+		<https://blogs.monash.edu/MADAgallery/> ,
+		<http://online.monash.edu/> ,
+		<http://monash.edu/muma/> ,
+		<http://monash.edu/> ,
+		<http://www.publishing.monash.edu/about.html> .
+@prefix ns32:	<https://www.linkedin.com/in/> .
+dbr:Monash_University	dbo:wikiPageExternalLink	ns32:sujachandrasekaran .
+@prefix ns33:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Monash_University	dbp:wordnet_type	ns33:synset-university-noun-2 ;
+	dbp:name	"Monash University"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Clayton_-_Monash_University.jpg?width=300> ;
+	dbo:abstract	"\u062C\u0627\u0645\u0639\u0629 \u0645\u0648\u0646\u0627\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Monash University) \u0647\u064A \u062C\u0627\u0645\u0639\u0629 \u0639\u0627\u0645\u0629 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u062A\u0623\u0633\u0633\u062A \u0639\u0627\u0645 1958. \u062A\u0642\u0639 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0645\u0644\u0628\u0648\u0631\u0646 \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627. \u0648\u0647\u064A \u062B\u0627\u0646\u064A \u0623\u0642\u062F\u0645 \u062C\u0627\u0645\u0639\u0629 \u0628\u0648\u0644\u0627\u064A\u0629 \u0641\u064A\u0643\u062A\u0648\u0631\u064A\u0627"@ar ,
+		"Monash University \u2013 australijska pa\u0144stwowa uczelnia wy\u017Csza za\u0142o\u017Cona w 1958 roku. Kszta\u0142ci ponad 62 tysi\u0119cy student\u00F3w, co czyni j\u0105 liczebnie najwi\u0119kszym australijskim uniwersytetem. Uniwersytet nale\u017Cy do \"Go8\" (Group of Eight), koalicji wiod\u0105cych uniwersytet\u00F3w w kraju. Siedzib\u0105 uczelni jest Melbourne, jednak \u0142\u0105cznie posiada ona dziesi\u0119\u0107 kampus\u00F3w - 6 na terenie stanu Wiktoria oraz po jednym w Malezji, RPA, Chinach i we W\u0142oszech. Zatrudnia ok. 9000 pracownik\u00F3w naukowych i ok. 16 000 pracownik\u00F3w. Jej patronem jest Sir John Monash, najwa\u017Cniejszy australijski dow\u00F3dca wojskowy z okresu I wojny \u015Bwiatowej. Mottem uczelni jest w\u0142oska sentencja Ancora imparo (wci\u0105\u017C si\u0119 ucz\u0119), przypisywana Micha\u0142owi Anio\u0142owi. Na uczelni znajduje si\u0119 stowarzyszenie polskie."@pl ,
+		"L'universit\u00E9 Monash (en anglais Monash University) est la plus grande universit\u00E9 d'Australie avec environ 55 000 \u00E9tudiants. C'est une universit\u00E9 publique qui poss\u00E8de des campus en Australie, en Malaisie et en Afrique du Sud. Elle fait partie des plus grandes universit\u00E9s australiennes et mondiales.L'universit\u00E9 dispose de huit campus : six dans la banlieue de  Melbourne, dans l'\u00C9tat du Victoria en Australie (\u00E0 Clayton, Caulfield, Berwick, Peninsula, Parkville et dans le Gippsland), un en Malaisie et un en Afrique du Sud. L'universit\u00E9 a aussi un centre au Prato en Italie ce qui en fait aussi l'universit\u00E9 d'Australie la plus internationale.L'universit\u00E9 est membre du \u00AB groupe des huit \u00BB qui regroupe huit des plus importantes universit\u00E9s australiennes. Elle a \u00E9t\u00E9 class\u00E9e par le Times Higher Education Supplement (THES) au 43e rang des 200 plus grandes universit\u00E9s au monde en 1947. L'universit\u00E9 a une facult\u00E9 de Droit particuli\u00E8rement bien connue situ\u00E9e \u00E0 Clayton. Ses places dans le premier et le second cycle sont tr\u00E8s recherch\u00E9es dans le pays. Alors qu'il y a onze universit\u00E9s au Victoria, Monash attire 33 % des meilleurs \u00E9tudiants de cet \u00C9tat.L'universit\u00E9 Monash est le premier centre de recherche universitaire dans le domaine m\u00E9dical en Australie remportant plus de 50 millions de AUD de prix en 2007. Elle est le si\u00E8ge du Monash Science Technology Research and Innovation Precinct (STRIP), de l'Australian Stem Cell Centre, de l'Australian Synchrotron (un acc\u00E9l\u00E9rateur de particules de 206 millions de AUD), de 95 centres de recherches propres \u00E0 l'universit\u00E9, et de 17 centres de recherches communautaires.L'universit\u00E9 doit son nom au g\u00E9n\u00E9ral australien Sir John Monash. Sa devise (italienne) est \u00AB Ancora imparo \u00BB (\u00AB J'apprends encore \u00BB), une phrase attribu\u00E9e \u00E0 Michel-Ange."@fr ,
+		"\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 (\u0430\u043D\u0433\u043B. Monash University) \u2014 \u0433\u043E\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C \u0432 \u041C\u0435\u043B\u044C\u0431\u0443\u0440\u043D\u0435, (\u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F). \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0431\u044B\u043B \u043E\u0441\u043D\u043E\u0432\u0430\u043D \u0432 1958 \u0433\u043E\u0434\u0443 \u0438 \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C \u0433\u0435\u0440\u043E\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u0430 \u0432\u0440\u0435\u043C\u0451\u043D \u041F\u0435\u0440\u0432\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0414\u0436\u043E\u043D\u0430 \u041C\u043E\u043D\u0430\u0448\u0430 (\u0430\u043D\u0433\u043B: John Monash).\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 \u0438\u0433\u0440\u0430\u0435\u0442 \u0432\u0430\u0436\u043D\u0443\u044E \u0440\u043E\u043B\u044C \u0432 \u043D\u0430\u0443\u0447\u043D\u043E\u043C \u043C\u0438\u0440\u0435 21 \u0432\u0435\u043A\u0430, \u043F\u0443\u0431\u043B\u0438\u043A\u0443\u044F \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u044B \u0441\u0432\u044B\u0448\u0435 5,000 \u043D\u0430\u0443\u0447\u043D\u044B\u0445 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0439, \u043F\u043E\u0441\u0432\u044F\u0449\u0435\u043D\u043D\u044B\u0445 \u0441\u0430\u043C\u044B\u043C \u043E\u0441\u0442\u0440\u044B\u043C \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430\u043C \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438. \u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0430\u043A\u0442\u0438\u0432\u043D\u043E \u0444\u0438\u043D\u0430\u043D\u0441\u0438\u0440\u0443\u0435\u0442 \u043F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0443\u044E \u0438 \u0441\u0442\u0443\u0434\u0435\u043D\u0447\u0435\u0441\u043A\u0443\u044E \u0431\u0430\u0437\u044B \u0438 \u043E\u0431\u043B\u0430\u0434\u0430\u0435\u0442 \u0441\u0430\u043C\u044B\u043C \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u043C \u043E\u0441\u043D\u0430\u0449\u0435\u043D\u0438\u0435\u043C \u0432 \u0441\u0432\u043E\u0451\u043C \u0440\u0430\u0441\u043F\u043E\u0440\u044F\u0436\u0435\u043D\u0438\u0438: \u0438\u043D\u043D\u043E\u0432\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u043C\u0438 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430\u043C\u0438 \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u043E\u0439, \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u0439 \u0432 \u0441\u0432\u043E\u0438\u0445 \u0444\u043E\u043D\u0434\u0430\u0445 \u0441\u0432\u044B\u0448\u0435 3.5 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u043E\u0432 \u0442\u043E\u043C\u043E\u0432.\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0445\u043E\u0434\u0438\u0442 \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u0443\u044E \u0413\u0440\u0443\u043F\u043F\u0443 \u0432\u043E\u0441\u044C\u043C\u0438 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432 \u0438 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u0432\u044B\u0441\u0448\u0438\u0445 \u0443\u0447\u0435\u0431\u043D\u044B\u0445 \u0437\u0430\u0432\u0435\u0434\u0435\u043D\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438 \u0438 \u043C\u0438\u0440\u0430. \u041F\u043E \u0434\u0430\u043D\u043D\u044B\u043C \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0430 Times Higher Education World University Rankings, \u0432 2014 \u0433\u043E\u0434\u0443 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 \u0432\u043E\u0448\u0435\u043B \u0432 \u0442\u043E\u043F 1 % \u043C\u0438\u0440\u043E\u0432\u044B\u0445 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u043E\u0432, \u0437\u0430\u043D\u044F\u0432 91 \u043F\u043E\u0437\u0438\u0446\u0438\u044E.\u042D\u0442\u043E \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0439 \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043E\u0431\u0443\u0447\u0430\u0435\u0442\u0441\u044F \u043E\u043A\u043E\u043B\u043E 55 \u0442\u044B\u0441. \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432. \u041A\u0440\u043E\u043C\u0435 6 \u043A\u0430\u043C\u043F\u0443\u0441\u043E\u0432 \u0432 \u0412\u0438\u043A\u0442\u043E\u0440\u0438\u0438 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u043E\u043D\u0430\u0448\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u0435\u0442 \u0447\u0435\u0442\u044B\u0440\u044C\u043C\u044F \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043D\u044B\u043C\u0438 \u043A\u0430\u043C\u043F\u0443\u0441\u0430\u043C\u0438: \u0432 \u041C\u0430\u043B\u0430\u0439\u0437\u0438\u0438, \u042E\u0436\u043D\u043E\u0439 \u0410\u0444\u0440\u0438\u043A\u0435, \u0418\u043D\u0434\u0438\u0438, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0438\u043C \u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0432 \u041F\u0440\u0430\u0442\u043E, \u0418\u0442\u0430\u043B\u0438\u044F."@ru ,
+		"L'Universit\u00E0 di Monash o Monash University \u00E8 un'universit\u00E0 pubblica australiana con campus localizzati in Australia, Malesia, Sud Africa, India e Italia (a Prato, presso Palazzo Vai).\u00C8 la pi\u00F9 grande universit\u00E0 australiana con circa 55.000 studenti. Si trova costantemente nella classifica fra le migliori universit\u00E0 d'Australia e del mondo.\u00C8 membro del Group of Eight.Ha 8 campus di cui sei in Victoria (Clayton, Caulfield, Berwick, Peninsula, Parkville e Gippsland), uno in Malesia e uno in Sud Africa.Il suo motto \u00E8: Ancora Imparo che deriva da una frase detta da Michelangelo."@it ,
+		"Monash University (/\u02C8m\u0252n\u00E6\u0283/) is a university based in Melbourne, Australia. It was founded in 1958 and is the second oldest university in the State of Victoria. Monash is a member of Australia's Group of Eight and the ASAIHL, and is the only Australian member of the influential M8 Alliance of Academic Health Centers, Universities and National Academies. Monash is one of two Australian universities to be ranked in the The \u00C9cole des Mines de Paris (Mines ParisTech) ranking on the basis of the number of alumni listed among CEOs in the 500 largest worldwide companies. Monash is in the Top 20% in teaching, Top 10% in international outlook, Top 20% in industry income and Top 10% in research in the world in 2016. Monash enrolls approximately 45,000 undergraduate and 17,000 graduate students, making it the university with the largest student body in Australia. It also has more applicants than any university in the state of Victoria.Monash is home to major research facilities, including the Australian Synchrotron, the Monash Science Technology Research and Innovation Precinct (STRIP), the Australian Stem Cell Centre, 100 research centres and 17 co-operative research centres. In 2011, its total revenue was over $1.5 billion, with external research income around $282 million.The university has a number of centres, five of which are in Victoria (Clayton, Caulfield, Berwick, Peninsula, and Parkville), one in Malaysia. Monash also has a research and teaching centre in Prato, Italy, a graduate research school in Mumbai, India and a graduate school in Jiangsu Province, China. Since December 2011, Monash has had a global alliance with the University of Warwick in the United Kingdom.The Clayton campus contains the Robert Blackwood Hall, named after the university's founding Chancellor Sir Robert Blackwood and designed by Sir Roy Grounds.In 2014, the University ceded its Gippsland campus to Federation University."@en ,
+		"A Universidade Monash (em ingl\u00EAs: Monash University) \u00E9 uma universidade p\u00FAblica, com campi localizados em Victoria, Mal\u00E1sia e \u00C1frica do Sul. \u00C9 uma das maiores universidades da Austr\u00E1lia, com cerca de 55.000 estudantes, e est\u00E1 classificada entre as cinco melhores universidades do pa\u00EDs.Em 2009 foi eleita a 45\u00AA melhor universidade do mundo."@pt ,
+		"Monash-universiteit is een Australische universiteit, gevestigd in Melbourne. Ze is de tweede universiteit in de deelstaat Victoria, naast de oudere Universiteit van Melbourne, maar ze heeft meer studenten (53.000 in 2010). Ze heeft acht campussen, waarvan zes in Australi\u00EB, een in Maleisi\u00EB en een in Zuid-Afrika. Daarnaast heeft ze ook nog centra in Prato (Itali\u00EB) en Bombay (India).Ze werd gesticht in 1958 en opende haar deuren in 1961 in Clayton, een voorstad van Melbourne. Ze is daarmee het jongste lid van de Group of Eight, de acht belangrijkste Australische universiteiten. Ze werd genoemd naar de Australische ingenieur en generaal in de Eerste Wereldoorlog John Monash (1865-1931).Monash-universiteit is als 61e gerangschikt in de QS World Universities Ranking voor 2012/2013. In de Academic Ranking of World Universities voor 2012 staat ze in de groep tussen 101 en 150.In december 2011 heeft de universiteit een alliantie gesloten met de universiteit van Warwick in het Verenigd Koninkrijk."@nl ,
+		"\u30E2\u30CA\u30B7\u30E5\u5927\u5B66\uFF08-\u3060\u3044\u304C\u304F, \u82F1\u8A9E: Monash University\uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3001\u30E1\u30EB\u30DC\u30EB\u30F3\u8FD1\u90CA\u306E\u30AF\u30EC\u30A4\u30C8\u30F3\u306B\u672C\u90E8\u3092\u304A\u304F\u30D3\u30AF\u30C8\u30EA\u30A2\u5DDE\u7ACB\u306E\u5927\u5B66\u3067\u3042\u308B\u3002\u30DE\u30EC\u30FC\u30B7\u30A2\u3068\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u306E\u30E8\u30CF\u30CD\u30B9\u30D6\u30EB\u30B0\u3092\u542B\u30808\u3064\u306E\u30AD\u30E3\u30F3\u30D1\u30B9\u304C\u3042\u308A\u3001\u307E\u305F\u3001\u30ED\u30F3\u30C9\u30F3\u3068\u30A4\u30BF\u30EA\u30A2\u306E\u30D7\u30E9\u30C8\u306B\u30BB\u30F3\u30BF\u30FC\u3092\u6301\u3064\u3002\u30D7\u30E9\u30C8\u30AD\u30E3\u30F3\u30D1\u30B9\u306F\u4E3B\u306BEU\u6CD5\u3092\u5B66\u3076\u610F\u6B32\u306E\u3042\u308B\u5B66\u751F\u306E\u305F\u3081\u3067\u3042\u308B\u3002\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u306E\u7814\u7A76\u91CD\u70B98\u5927\u5B66\"Group of Eight\"\u306B\u5C5E\u3059\u308B\u7DCF\u5408\u5927\u5B66\u3067\u3042\u308A\u30012004\u5E74\u51FA\u7248\u306E\u201D\u30BF\u30A4\u30E0\u30BA\u9AD8\u7B49\u6559\u80B2\u88DC\u8DB3\u201D\u3067\u306F\u4E16\u754C\u30C8\u30C3\u30D7\u306E200\u306E\u5927\u5B66\u306E\u3046\u306133\u4F4D\u306B\u30E9\u30F3\u30AF\u3055\u308C\u305F\u3002\u307E\u305F\u30012011\u5E74\u3001\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u30BF\u30A4\u30E0\u30B9\u304C\u30A2\u30E1\u30EA\u30AB\u3001\u30E8\u30FC\u30ED\u30C3\u30D1\u3092\u542B\u3080\u4E16\u754C10\u5404\u56FD\u306E\u30C8\u30C3\u30D7\u4F01\u696D\u306E\u30D3\u30B8\u30CD\u30B9\u30EA\u30FC\u30C0\u30FC\u53CA\u3073\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC\u6570\u767E\u4EBA\u306B\u5BFE\u3057\u30A4\u30F3\u30BF\u30D3\u30E5\u30FC\u3092\u884C\u3044\u3001\u5352\u696D\u751F\u3092\u63A1\u7528\u3059\u308B\u969B\u306E\u597D\u307E\u3057\u3044\u5927\u5B66\u306B\u95A2\u3059\u308B\u8ABF\u67FB\u3092\u884C\u3063\u305F\u3002\u7D50\u679C\u3068\u3057\u3066\u3001\u30E2\u30CA\u30B7\u30E5\u5927\u5B66\u306F\u3001\u4E16\u754C\u7B2C47\u4F4D\u3001\u30A2\u30B8\u30A2\u30D1\u30B7\u30D5\u30A3\u30C3\u30AF\u5730\u57DF\u3067\u306F\u3001\u6771\u4EAC\u5927\u5B66\uFF08\u65E5\u672C\uFF09\u306E\u4E16\u754C\u7B2C18\u4F4D\u3001\u5FA9\u65E6\u5927\u5B66\uFF08\u4E2D\u83EF\u4EBA\u6C11\u5171\u548C\u56FD\uFF09\u4E16\u754C\u7B2C34\u4F4D\u306B\u6B21\u3050\u7B2C\u4E09\u4F4D\u3001\u307E\u305F\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u3067\u306F\u7B2C\u4E00\u4F4D\u3068\u306A\u3063\u305F\u3002"@ja ,
+		"La Universidad de Monash (en ingl\u00E9s: Monash University) es una universidad p\u00FAblica australiana, con campus en Australia, Malasia y Sud\u00E1frica. Es la universidad m\u00E1s numerosa del pa\u00EDs, con aproximadamente 55.000 estudiantes.La universidad tiene un total de siete campus: cinco en Victoria, Australia (Clayton, Caulfield, Berwick, Peninsula y Parkville), uno en Malasia y uno en Sud\u00E1frica. Cuenta adicionalmente con un centro en Prato, Italia.Es uno de los miembros del denominado, Grupo de los Ocho (Group of Eight), un grupo de lobby compuesto por las universidades m\u00E1s activas en cuanto a investigaci\u00F3n en Australia. Fue clasificada en el puesto 43 por el Times Higher Education Supplement en su r\u00E1nking anual de las 200 mejores universidades del mundo en 2007. Es una de s\u00F3lo tres universidades fundadas tras la segunda guerra mundial en el top 50. Monash atrae al 33% de los alumnos egresados en el top 5% de las escuelas en Victoria. En los \u00FAltimos dos a\u00F1os, ha sido la universdad a la que m\u00E1s aplican los estudiantes victorianos.La universidad obtuvo m\u00E1s de $50 millones de d\u00F3lares australianos en becas de investigaci\u00F3n m\u00E9dica otorgadas por el National Health Research Council (NHMRC) australiano. Tambi\u00E9n domina los premios otorgados por esta entidad, ganando un cuarto del total en 2007. La universidad es sede del Monash Science Technology Research and Innovation Precinct (STRIP), el Centro Australiano de Investigaci\u00F3n de C\u00E9lulas Madre, 100 centros de investigaci\u00F3n de diferentes disciplinas y 17 centros de investigaci\u00F3n cooperativos.  Le debe su nombre a Sir John Monash, un destacado general y l\u00EDder australiano. una de sus frases m\u00E1s c\u00E9lebres est\u00E1 escrita a lo largo de un camino entre el Robert Blackwood Hall y el Performing Arts Centre en el campus de Clayton: \"Adopta como tu credo fundamental aquello que te equipe para la vida, no solamente para tu propio beneficio, sino para el de toda tu comunidad\".El lema de la universidad es Ancora imparo (italiano), que significa 'todav\u00EDa estoy aprendiendo', una frase atribuida a Miguel \u00C1ngel."@es ,
+		"Die Monash University ist eine der acht f\u00FChrenden australischen Universit\u00E4ten (Group of Eight) und neben der Universit\u00E4t Melbourne eine der beiden gro\u00DFen Universit\u00E4ten in Melbourne, der Hauptstadt des australischen Bundesstaates Victoria.Sie wurde 1958 in Clayton, einem Vorort von Melbourne, gegr\u00FCndet. Sie wurde nach John Monash benannt, einem australischen Ingenieur und General im Ersten Weltkrieg."@de ;
+	dbp:logo	225 ;
+	dbp:motto	"Ancora imparo"@en ;
+	dbo:motto	"\"I am still learning\"" ,
+		"Ancora imparo (Italian)" ;
+	dbo:type	dbr:Public_university ;
+	dbp:campus	dbr:Suburb ;
+	dbp:qsWEng	54 .
+<http://dbpedia.org/resource/Geoff_Shaw_(politician)>	dbp:university	dbr:Monash_University .
+dbr:Mal_Brough	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Colin_Clark_(economist)>	dbp:workInstitution	dbr:Monash_University .
+<http://dbpedia.org/resource/PolyQ_(database)>	dbp:center	dbr:Monash_University .
+dbr:David_Vadiveloo	dbo:almaMater	dbr:Monash_University .
+<http://dbpedia.org/resource/Peter_Sutton_(anthropologist)>	dbp:almaMater	dbr:Monash_University ;
+	dbo:almaMater	dbr:Monash_University .

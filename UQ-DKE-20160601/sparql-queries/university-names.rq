@@ -1,0 +1,8 @@
+# Find the names of Australian universities associated with the Group of 8.
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+select ?university ?name
+WHERE {
+  ?university a <http://schema.org/CollegeOrUniversity>
+            ; rdfs:label ?name .
+}
