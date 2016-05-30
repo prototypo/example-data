@@ -2,7 +2,8 @@ Functional Manipulation of Large Data Graphs Using Open Source Software
 =======================================================================
 
 [David Hyland-Wood](http://about.me/david_wood)
-Presented 1 June 2016 to the Data & Knowledge Engineering Lab (DKE) within the School of ITEE, The University of Queensland.
+
+Presented 1 June 2016 to the [Data & Knowledge Engineering Lab (DKE)](http://www.itee.uq.edu.au/dke) within the [School of ITEE](http://www.itee.uq.edu.au/) at [The University of Queensland](http://www.uq.edu.au/).
 
 Slides
 ------
